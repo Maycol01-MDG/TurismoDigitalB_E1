@@ -1,0 +1,3001 @@
+﻿id_visitante,pais_origen,edad,genero,destino,region,fecha_visita,dias_estadia,gasto_total,medio_transporte
+V0001,Brasil,18,F,Machu Picchu,La Libertad,2025-06-24,4,3998.88,
+V0002,Argentina,69,M,Machu Picchu,Ica,2025-04-23,3,3777.25,
+V0003,Argentina,37,F,Cañón del Colca,Arequipa,2025-06-09,5,856.93,NA
+V0004,Ecuador,57,M,Cañón del Colca,Puno,2025-06-14,5,4808.62,NA
+V0005,Perú,19,M,Líneas de Nazca,Ica,2025-07-13,7,4497.06,NA
+V0006,Perú,58,F,Lago Titicaca,Puno,2025-03-31,9,3494.71,Bus
+V0007,Chile,59,F,Huacachina,Cusco,2024-12-02,3,2917.5,Avión
+V0008,México,55,F,Huacachina,Ica,2025-05-30,6,3469.93,Tren
+V0009,Colombia,67,M,Chan Chan,Ica,2025-09-13,1,4455.91,NA
+V0010,Perú,44,F,Machu Picchu,Arequipa,2025-02-05,1,2363.5,NA
+V0011,Colombia,22,F,Lago Titicaca,Puno,2025-08-16,8,940.06,NA
+V0012,Chile,29,M,Chan Chan,Cusco,2025-05-16,9,3445.39,Avión
+V0013,EE.UU.,57,M,Líneas de Nazca,Arequipa,2025-05-03,6,4433.68,Tren
+V0014,Perú,46,F,Chan Chan,Ica,2025-02-14,7,2434.88,Avión
+V0015,Chile,20,F,Lago Titicaca,Puno,2024-11-22,9,2259.4,Tren
+V0016,Colombia,60,F,Huacachina,Cusco,2025-01-28,8,4886.19,Bus
+V0017,Colombia,40,M,Huacachina,Arequipa,2025-08-06,10,4557.85,Tren
+V0018,Perú,38,M,Lago Titicaca,La Libertad,2025-02-24,3,4731.03,Tren
+V0019,Ecuador,18,M,Cañón del Colca,Arequipa,2025-04-06,7,1453.95,
+V0020,Argentina,51,M,Chan Chan,La Libertad,2025-06-23,6,4781.48,Bus
+V0021,Chile,47,M,Machu Picchu,La Libertad,2025-10-14,10,1264.81,
+V0022,Brasil,55,F,Líneas de Nazca,La Libertad,2024-12-07,2,4466.91,NA
+V0023,Ecuador,18,F,Lago Titicaca,La Libertad,2024-12-07,7,1283.39,Tren
+V0024,Perú,70,M,Machu Picchu,Ica,2025-03-01,5,1797.6,
+V0025,Argentina,58,M,Lago Titicaca,Ica,2024-12-17,8,3732.28,NA
+V0026,EE.UU.,44,F,Chan Chan,Arequipa,2025-07-20,5,798.35,NA
+V0027,Colombia,69,M,Chan Chan,Cusco,2025-03-24,4,531.55,Auto
+V0028,Brasil,33,M,Chan Chan,Puno,2025-08-05,8,2018.26,Avión
+V0029,Colombia,58,M,Cañón del Colca,Puno,2025-06-02,10,4538.02,Auto
+V0030,México,45,M,Machu Picchu,Puno,2025-09-21,6,3384.6,Tren
+V0031,EE.UU.,46,F,Lago Titicaca,Puno,2025-05-01,1,4155.95,Tren
+V0032,Colombia,58,M,Líneas de Nazca,Arequipa,2025-06-28,6,1188.29,NA
+V0033,Colombia,29,F,Chan Chan,La Libertad,2025-05-24,7,422.38,Tren
+V0034,Argentina,33,M,Huacachina,La Libertad,2025-09-14,3,624.69,Tren
+V0035,Perú,65,M,Chan Chan,Cusco,2024-12-22,10,3119.41,NA
+V0036,Brasil,41,F,Cañón del Colca,Arequipa,2024-11-05,1,1934.77,Tren
+V0037,Ecuador,53,F,Machu Picchu,La Libertad,2025-04-12,3,3181.63,Auto
+V0038,Perú,65,M,Líneas de Nazca,La Libertad,2025-06-30,9,3710.48,NA
+V0039,Argentina,22,F,Cañón del Colca,Ica,2025-04-26,1,4863.33,NA
+V0040,México,49,F,Lago Titicaca,Ica,2025-02-10,8,3662.4,Tren
+V0041,Chile,69,F,Machu Picchu,Ica,2025-08-30,7,882.16,NA
+V0042,Chile,60,F,Lago Titicaca,Ica,2025-05-05,8,4121.92,
+V0043,Colombia,26,M,Cañón del Colca,Puno,2025-06-23,4,2623.02,Bus
+V0044,Colombia,37,F,Lago Titicaca,La Libertad,2025-06-26,9,1254.59,Tren
+V0045,Argentina,29,F,Lago Titicaca,Puno,2025-10-12,2,1138.27,Auto
+V0046,Colombia,60,M,Machu Picchu,Arequipa,2025-03-14,2,3426.78,NA
+V0047,Brasil,26,F,Líneas de Nazca,Arequipa,2025-02-28,9,613.46,Auto
+V0048,Argentina,28,M,Cañón del Colca,Arequipa,2025-10-09,7,3821.23,NA
+V0049,EE.UU.,34,M,Líneas de Nazca,Cusco,2025-06-27,6,4140.0,Auto
+V0050,Argentina,33,F,Machu Picchu,Ica,2025-10-02,4,3018.7,
+V0051,Brasil,53,F,Machu Picchu,Cusco,2024-10-28,5,4328.87,NA
+V0052,Perú,51,M,Huacachina,Puno,2025-08-15,7,3967.36,NA
+V0053,Chile,19,F,Lago Titicaca,Ica,2025-01-11,4,2222.1,Bus
+V0054,EE.UU.,52,F,Lago Titicaca,Ica,2024-10-31,3,4874.03,Bus
+V0055,Ecuador,53,M,Líneas de Nazca,Ica,2025-07-28,3,2594.26,Auto
+V0056,Chile,45,M,Lago Titicaca,Puno,2025-04-12,7,3566.9,Avión
+V0057,Perú,46,M,Cañón del Colca,Cusco,2024-10-28,5,3828.9,Auto
+V0058,Ecuador,61,F,Chan Chan,Arequipa,2025-02-02,8,4931.37,Auto
+V0059,Brasil,40,F,Machu Picchu,Ica,2025-02-05,2,793.82,NA
+V0060,Colombia,20,M,Huacachina,Ica,2025-08-24,9,4578.94,NA
+V0061,Colombia,48,F,Chan Chan,Ica,2024-11-29,5,3913.57,Bus
+V0062,Brasil,49,F,Chan Chan,Arequipa,2025-05-08,8,3703.92,Bus
+V0063,Ecuador,66,M,Huacachina,Ica,2024-12-09,4,2693.96,Auto
+V0064,Chile,70,F,Huacachina,La Libertad,2024-11-20,5,3913.25,Auto
+V0065,EE.UU.,21,M,Cañón del Colca,Cusco,2025-08-05,1,3072.39,Auto
+V0066,México,30,M,Machu Picchu,Ica,2025-03-07,9,3053.47,Auto
+V0067,Perú,36,M,Chan Chan,Ica,2025-07-03,1,910.81,Auto
+V0068,Brasil,25,F,Machu Picchu,Puno,2025-03-09,1,4027.93,Tren
+V0069,Colombia,30,M,Huacachina,Puno,2025-02-25,7,2781.36,Bus
+V0070,México,45,M,Cañón del Colca,La Libertad,2025-07-03,9,3890.64,Avión
+V0071,EE.UU.,50,M,Machu Picchu,Arequipa,2025-03-03,5,3578.23,Auto
+V0072,México,62,F,Lago Titicaca,La Libertad,2025-06-16,1,4925.28,Avión
+V0073,México,25,F,Lago Titicaca,Cusco,2025-07-13,5,4960.54,
+V0074,Brasil,42,F,Chan Chan,Puno,2025-09-19,3,4964.24,Bus
+V0075,Perú,56,F,Machu Picchu,Puno,2025-06-19,3,2212.09,Auto
+V0076,Brasil,24,F,Machu Picchu,Ica,2025-01-11,8,3540.76,NA
+V0077,México,40,F,Chan Chan,La Libertad,2024-12-14,5,2771.86,NA
+V0078,Chile,57,F,Cañón del Colca,Ica,2025-07-31,10,1143.22,
+V0079,Argentina,60,F,Huacachina,Cusco,2025-03-18,10,2809.08,Auto
+V0080,Ecuador,50,F,Cañón del Colca,Cusco,2025-04-12,2,2096.66,Tren
+V0081,Ecuador,19,M,Cañón del Colca,Puno,2025-08-16,10,1969.55,Avión
+V0082,EE.UU.,64,M,Cañón del Colca,Puno,2024-12-19,7,794.51,Avión
+V0083,Perú,50,F,Chan Chan,Arequipa,2025-04-25,7,4119.0,Auto
+V0084,México,55,F,Líneas de Nazca,La Libertad,2025-04-15,5,4637.99,
+V0085,Chile,48,M,Líneas de Nazca,La Libertad,2025-02-06,3,2533.46,Tren
+V0086,Argentina,18,M,Huacachina,La Libertad,2025-05-17,6,2540.94,Tren
+V0087,Brasil,27,M,Huacachina,Cusco,2024-11-01,4,2440.64,Tren
+V0088,Brasil,61,M,Lago Titicaca,Arequipa,2025-01-06,3,4359.18,Tren
+V0089,Perú,18,M,Cañón del Colca,Arequipa,2025-04-06,10,1090.14,Avión
+V0090,Argentina,22,M,Huacachina,Ica,2025-02-13,6,401.79,Auto
+V0091,Ecuador,44,M,Machu Picchu,Ica,2025-09-12,6,3095.71,Bus
+V0092,Perú,29,F,Lago Titicaca,Ica,2025-05-10,3,4231.8,NA
+V0093,Perú,61,M,Cañón del Colca,Arequipa,2025-10-16,1,2390.49,Auto
+V0094,Ecuador,36,M,Machu Picchu,Ica,2025-10-10,5,3659.75,NA
+V0095,EE.UU.,46,F,Lago Titicaca,Ica,2025-01-27,1,3825.21,Avión
+V0096,México,53,M,Cañón del Colca,Arequipa,2025-07-07,2,3498.86,Bus
+V0097,Brasil,35,M,Huacachina,Puno,2024-12-15,10,3588.02,Tren
+V0098,EE.UU.,67,F,Cañón del Colca,Arequipa,2025-04-24,7,4911.66,Bus
+V0099,México,64,M,Cañón del Colca,Arequipa,2024-12-22,7,4403.93,Tren
+V0100,Ecuador,32,F,Machu Picchu,Puno,2025-10-01,9,1466.86,Tren
+V0101,Chile,68,M,Machu Picchu,Arequipa,2025-01-03,10,420.64,NA
+V0102,Chile,51,M,Huacachina,Puno,2025-09-07,4,3483.13,Tren
+V0103,EE.UU.,61,M,Lago Titicaca,Puno,2025-03-08,3,3404.47,Tren
+V0104,Argentina,42,F,Lago Titicaca,Arequipa,2025-01-29,10,3599.09,Auto
+V0105,Brasil,43,F,Lago Titicaca,Puno,2025-05-03,10,3772.73,
+V0106,Ecuador,62,F,Chan Chan,Cusco,2025-03-22,10,2864.55,
+V0107,Chile,41,M,Chan Chan,Ica,2025-07-06,1,4745.46,Bus
+V0108,Argentina,58,M,Cañón del Colca,La Libertad,2025-01-05,8,4288.84,NA
+V0109,México,40,F,Cañón del Colca,Ica,2024-10-24,4,4521.78,NA
+V0110,México,36,M,Líneas de Nazca,La Libertad,2024-12-16,5,3829.6,Tren
+V0111,EE.UU.,54,M,Huacachina,Arequipa,2025-06-20,9,590.67,NA
+V0112,Brasil,39,M,Chan Chan,Arequipa,2025-04-22,3,788.38,Tren
+V0113,EE.UU.,66,M,Cañón del Colca,Arequipa,2025-04-28,6,3501.19,Tren
+V0114,EE.UU.,60,F,Líneas de Nazca,Arequipa,2025-07-21,10,2225.4,Auto
+V0115,Ecuador,24,M,Huacachina,Ica,2025-02-28,2,732.3,NA
+V0116,EE.UU.,55,M,Huacachina,Arequipa,2024-12-25,5,3200.65,Bus
+V0117,Argentina,21,F,Huacachina,Puno,2025-02-22,4,1046.02,Auto
+V0118,EE.UU.,60,F,Líneas de Nazca,Cusco,2024-12-09,5,2708.16,Auto
+V0119,Brasil,63,M,Líneas de Nazca,Ica,2025-09-16,4,2118.9,
+V0120,Colombia,31,M,Cañón del Colca,Puno,2024-10-30,9,4629.04,NA
+V0121,Argentina,49,F,Cañón del Colca,Puno,2025-06-30,1,3281.24,Bus
+V0122,Chile,61,M,Chan Chan,Puno,2025-05-03,9,1356.81,Tren
+V0123,Chile,26,M,Machu Picchu,Ica,2024-12-07,7,4705.66,Bus
+V0124,Argentina,34,M,Machu Picchu,Puno,2025-06-14,7,2703.17,Avión
+V0125,Chile,43,F,Machu Picchu,Cusco,2024-12-08,10,337.59,Bus
+V0126,Perú,40,F,Chan Chan,Ica,2025-01-04,7,446.63,
+V0127,Argentina,38,F,Huacachina,Cusco,2025-10-15,1,2370.22,NA
+V0128,EE.UU.,57,M,Lago Titicaca,Puno,2025-01-03,4,4265.28,Auto
+V0129,EE.UU.,31,M,Lago Titicaca,Arequipa,2025-01-17,1,1321.43,Auto
+V0130,Perú,46,F,Chan Chan,Ica,2025-05-15,2,1233.72,NA
+V0131,Argentina,59,F,Huacachina,Puno,2025-07-01,2,4805.3,NA
+V0132,Perú,69,F,Lago Titicaca,Arequipa,2024-12-13,1,3358.03,Avión
+V0133,Argentina,21,F,Lago Titicaca,Puno,2025-04-24,9,1265.52,NA
+V0134,Argentina,54,F,Chan Chan,Arequipa,2025-09-24,5,1855.19,Tren
+V0135,EE.UU.,63,M,Huacachina,Ica,2025-03-12,2,2824.88,Tren
+V0136,Colombia,62,F,Chan Chan,Cusco,2025-05-25,7,3026.46,Tren
+V0137,Colombia,46,F,Lago Titicaca,Puno,2024-10-31,1,2274.66,Auto
+V0138,Ecuador,38,F,Machu Picchu,Ica,2025-02-25,2,4085.27,Bus
+V0139,Perú,23,M,Lago Titicaca,Ica,2024-12-31,3,1259.53,NA
+V0140,Chile,65,M,Lago Titicaca,Arequipa,2024-12-11,10,4304.76,Tren
+V0141,EE.UU.,65,M,Machu Picchu,La Libertad,2025-08-11,8,3251.83,Bus
+V0142,Perú,30,M,Machu Picchu,Arequipa,2025-09-20,10,4805.17,Bus
+V0143,Ecuador,33,M,Machu Picchu,La Libertad,2025-07-26,8,3579.46,Tren
+V0144,Ecuador,43,F,Chan Chan,Arequipa,2025-10-03,10,739.33,Avión
+V0145,Chile,31,F,Cañón del Colca,Puno,2025-01-31,1,1071.85,Avión
+V0146,Ecuador,54,M,Lago Titicaca,La Libertad,2025-03-15,9,1053.56,NA
+V0147,Colombia,48,F,Huacachina,Cusco,2025-03-31,2,1026.8,Auto
+V0148,Ecuador,55,F,Machu Picchu,La Libertad,2024-12-20,8,4055.41,Auto
+V0149,Perú,50,F,Chan Chan,Puno,2024-12-24,9,1923.2,
+V0150,EE.UU.,27,F,Cañón del Colca,Puno,2025-06-17,4,1712.19,Auto
+V0151,Brasil,19,M,Lago Titicaca,Ica,2024-12-14,2,4388.36,Tren
+V0152,Argentina,33,F,Machu Picchu,Ica,2025-04-16,9,3473.5,Auto
+V0153,Ecuador,51,F,Chan Chan,Arequipa,2025-06-18,9,2304.58,NA
+V0154,México,70,F,Machu Picchu,Ica,2025-08-23,10,4725.39,
+V0155,Perú,25,M,Machu Picchu,Puno,2025-04-08,6,426.49,
+V0156,EE.UU.,56,F,Machu Picchu,Ica,2025-09-14,2,3853.39,Tren
+V0157,EE.UU.,69,M,Huacachina,La Libertad,2025-02-08,3,4482.6,Avión
+V0158,Colombia,37,F,Chan Chan,Puno,2024-12-22,3,2540.43,Tren
+V0159,México,54,F,Cañón del Colca,La Libertad,2025-06-20,3,1403.74,Auto
+V0160,Argentina,47,F,Chan Chan,Ica,2025-10-09,3,881.19,NA
+V0161,Chile,30,M,Huacachina,La Libertad,2025-07-19,3,3442.3,Bus
+V0162,Colombia,55,F,Huacachina,Cusco,2025-10-11,8,3344.51,Tren
+V0163,Ecuador,23,F,Machu Picchu,Cusco,2025-09-26,6,384.27,Tren
+V0164,Brasil,23,F,Cañón del Colca,Puno,2025-06-05,8,1907.67,Avión
+V0165,Argentina,65,M,Machu Picchu,Ica,2024-10-29,3,1245.22,Avión
+V0166,Argentina,19,M,Chan Chan,Ica,2024-11-28,10,452.07,
+V0167,Ecuador,48,F,Machu Picchu,Ica,2025-08-04,7,4434.38,Avión
+V0168,Argentina,34,F,Chan Chan,Cusco,2025-06-16,2,1899.73,Auto
+V0169,México,69,F,Cañón del Colca,La Libertad,2024-12-09,7,2834.09,
+V0170,Ecuador,70,F,Lago Titicaca,Puno,2025-05-26,7,2307.0,
+V0171,Perú,66,M,Líneas de Nazca,Puno,2024-12-01,2,2088.03,Auto
+V0172,Brasil,47,M,Líneas de Nazca,La Libertad,2025-05-26,5,4940.15,
+V0173,Brasil,30,M,Chan Chan,Cusco,2025-03-05,9,4569.73,
+V0174,Colombia,21,F,Chan Chan,La Libertad,2025-07-30,2,2883.59,Bus
+V0175,EE.UU.,27,F,Cañón del Colca,La Libertad,2025-09-06,6,1033.06,
+V0176,Brasil,21,F,Cañón del Colca,La Libertad,2024-11-19,6,497.92,Avión
+V0177,EE.UU.,56,M,Cañón del Colca,Arequipa,2025-02-20,6,1973.06,
+V0178,Chile,37,M,Chan Chan,Ica,2025-01-01,10,2636.92,
+V0179,México,20,F,Chan Chan,Ica,2025-09-16,1,3183.26,Tren
+V0180,EE.UU.,40,F,Machu Picchu,Cusco,2025-07-09,9,1523.36,Bus
+V0181,Argentina,29,F,Huacachina,Ica,2025-01-27,7,3763.61,
+V0182,México,46,F,Cañón del Colca,La Libertad,2025-05-06,7,3521.64,NA
+V0183,Chile,40,F,Huacachina,Puno,2025-04-20,9,1116.24,Auto
+V0184,EE.UU.,59,F,Lago Titicaca,Puno,2024-11-04,5,349.68,
+V0185,México,66,F,Líneas de Nazca,Cusco,2025-02-17,5,3030.97,Auto
+V0186,México,57,M,Huacachina,Arequipa,2025-05-07,8,606.77,Auto
+V0187,Brasil,18,M,Lago Titicaca,Arequipa,2025-08-07,4,3200.14,Auto
+V0188,Argentina,69,M,Machu Picchu,La Libertad,2025-08-07,7,3456.53,Bus
+V0189,Colombia,52,M,Chan Chan,Puno,2025-09-12,1,2092.65,Tren
+V0190,EE.UU.,32,F,Machu Picchu,Cusco,2024-11-13,10,2745.59,NA
+V0191,EE.UU.,31,M,Machu Picchu,Puno,2025-05-25,2,1211.55,Bus
+V0192,EE.UU.,50,F,Chan Chan,Arequipa,2025-05-17,1,4949.92,Avión
+V0193,Argentina,52,F,Huacachina,Arequipa,2025-03-28,4,3353.65,Bus
+V0194,Ecuador,41,M,Lago Titicaca,La Libertad,2025-03-29,6,4776.33,Auto
+V0195,EE.UU.,65,M,Huacachina,Ica,2025-04-07,3,3688.61,NA
+V0196,Ecuador,50,M,Machu Picchu,La Libertad,2025-05-02,6,3314.23,Bus
+V0197,Argentina,19,F,Huacachina,La Libertad,2025-04-24,4,4718.85,Auto
+V0198,Colombia,27,F,Líneas de Nazca,Cusco,2024-11-25,1,4373.61,Bus
+V0199,Chile,38,F,Huacachina,Ica,2025-04-29,9,3081.61,NA
+V0200,Brasil,30,M,Chan Chan,Puno,2024-11-13,6,2624.6,Avión
+V0201,Ecuador,66,F,Cañón del Colca,Ica,2025-01-01,8,3773.02,NA
+V0202,EE.UU.,39,M,Cañón del Colca,Ica,2025-02-04,8,448.37,Auto
+V0203,Brasil,28,M,Huacachina,Arequipa,2025-02-23,5,4973.12,
+V0204,Argentina,45,F,Huacachina,Ica,2025-06-10,2,3226.56,Auto
+V0205,México,19,M,Lago Titicaca,Cusco,2025-09-24,10,3087.37,Avión
+V0206,Argentina,63,F,Líneas de Nazca,Puno,2024-10-27,4,2520.69,Bus
+V0207,Chile,47,F,Lago Titicaca,La Libertad,2025-09-12,9,3044.68,NA
+V0208,Brasil,18,F,Machu Picchu,Ica,2025-04-02,9,3010.81,Tren
+V0209,Argentina,65,M,Huacachina,Cusco,2025-08-10,4,531.64,Tren
+V0210,EE.UU.,46,F,Lago Titicaca,La Libertad,2024-11-29,5,743.95,Tren
+V0211,México,47,M,Líneas de Nazca,Puno,2024-10-21,8,634.04,Tren
+V0212,Argentina,43,M,Huacachina,La Libertad,2025-05-27,3,2435.76,
+V0213,Brasil,68,M,Lago Titicaca,La Libertad,2025-06-29,2,4459.92,NA
+V0214,Brasil,45,F,Líneas de Nazca,Puno,2025-07-30,9,2121.28,Auto
+V0215,Chile,30,M,Machu Picchu,Cusco,2025-03-07,2,4414.17,
+V0216,México,70,F,Líneas de Nazca,Puno,2025-02-25,1,4799.47,Tren
+V0217,Brasil,46,M,Líneas de Nazca,Arequipa,2024-12-13,8,2269.54,Avión
+V0218,México,38,F,Chan Chan,Ica,2024-12-19,7,3481.1,Auto
+V0219,México,51,F,Chan Chan,La Libertad,2025-01-03,10,4817.73,Avión
+V0220,Colombia,28,F,Chan Chan,Cusco,2025-04-16,9,1598.97,Tren
+V0221,EE.UU.,37,M,Chan Chan,Ica,2025-03-12,1,1881.05,Tren
+V0222,México,59,F,Machu Picchu,Puno,2025-05-07,10,1887.03,Auto
+V0223,Chile,37,M,Chan Chan,Puno,2025-07-08,5,3231.64,Bus
+V0224,Brasil,66,F,Lago Titicaca,Puno,2025-10-01,5,1229.79,NA
+V0225,EE.UU.,38,M,Chan Chan,Ica,2025-04-29,2,2238.67,NA
+V0226,Perú,27,F,Machu Picchu,Arequipa,2025-04-07,9,3647.8,Avión
+V0227,Brasil,27,F,Machu Picchu,Cusco,2025-04-09,5,4215.08,NA
+V0228,México,69,F,Machu Picchu,Arequipa,2025-09-26,4,4096.18,Avión
+V0229,Chile,63,F,Lago Titicaca,Cusco,2025-09-22,5,2488.53,
+V0230,Ecuador,54,M,Chan Chan,Cusco,2025-07-08,3,4150.79,NA
+V0231,Perú,46,F,Lago Titicaca,Arequipa,2025-03-02,7,2758.11,NA
+V0232,EE.UU.,33,F,Lago Titicaca,Puno,2025-08-22,8,4785.89,NA
+V0233,Perú,48,M,Líneas de Nazca,Cusco,2025-07-29,9,2448.73,Bus
+V0234,México,36,M,Machu Picchu,Puno,2024-11-05,10,4668.65,Bus
+V0235,Argentina,33,M,Chan Chan,La Libertad,2025-05-02,10,690.63,Auto
+V0236,México,28,F,Lago Titicaca,Puno,2024-11-18,6,2236.45,NA
+V0237,EE.UU.,36,F,Chan Chan,Cusco,2024-11-28,5,811.18,Auto
+V0238,Argentina,64,F,Lago Titicaca,Cusco,2025-04-19,3,1875.04,Tren
+V0239,Colombia,54,F,Cañón del Colca,Cusco,2025-01-23,5,804.03,Bus
+V0240,Brasil,67,M,Lago Titicaca,Puno,2025-02-16,8,488.18,NA
+V0241,Colombia,21,M,Líneas de Nazca,Puno,2025-05-10,6,1829.93,NA
+V0242,México,41,M,Chan Chan,Cusco,2025-10-06,6,3599.81,Bus
+V0243,EE.UU.,54,M,Huacachina,Puno,2024-12-09,5,369.22,Auto
+V0244,Ecuador,32,F,Cañón del Colca,Arequipa,2025-10-16,10,4253.79,
+V0245,Chile,51,M,Líneas de Nazca,Puno,2025-09-01,9,1179.66,Bus
+V0246,Chile,50,F,Machu Picchu,Cusco,2025-06-26,10,3543.12,
+V0247,EE.UU.,50,M,Huacachina,La Libertad,2024-12-09,1,4039.73,Avión
+V0248,Colombia,38,F,Huacachina,Ica,2025-09-29,7,1758.02,Auto
+V0249,Argentina,67,M,Líneas de Nazca,La Libertad,2024-12-02,2,933.09,NA
+V0250,Argentina,46,M,Chan Chan,Arequipa,2025-09-04,10,4755.19,
+V0251,Brasil,56,M,Chan Chan,Arequipa,2025-01-28,2,981.57,Avión
+V0252,Colombia,25,F,Lago Titicaca,La Libertad,2025-09-05,7,4351.26,Bus
+V0253,Argentina,69,F,Huacachina,Ica,2025-06-21,3,514.66,Tren
+V0254,Chile,22,M,Líneas de Nazca,Arequipa,2025-05-14,7,1640.06,Bus
+V0255,México,31,F,Machu Picchu,Cusco,2025-10-09,5,3198.99,Tren
+V0256,Chile,64,M,Machu Picchu,La Libertad,2024-10-29,7,2588.54,NA
+V0257,Ecuador,45,M,Cañón del Colca,Puno,2025-05-09,1,1665.04,Auto
+V0258,Colombia,28,M,Lago Titicaca,Cusco,2025-10-07,2,4786.55,Bus
+V0259,Argentina,39,M,Chan Chan,Arequipa,2025-01-31,7,1916.71,NA
+V0260,Argentina,52,M,Líneas de Nazca,La Libertad,2025-01-12,2,500.17,Auto
+V0261,EE.UU.,38,F,Líneas de Nazca,Arequipa,2025-04-15,9,4609.29,Auto
+V0262,México,64,F,Chan Chan,Cusco,2025-07-14,3,4814.68,Bus
+V0263,Perú,51,F,Lago Titicaca,Puno,2025-09-15,2,1981.84,Tren
+V0264,Ecuador,47,M,Chan Chan,Cusco,2025-07-05,1,4032.45,
+V0265,México,39,M,Huacachina,Arequipa,2025-09-17,8,2130.43,Bus
+V0266,Brasil,35,F,Lago Titicaca,Puno,2024-10-22,10,1100.76,
+V0267,México,47,M,Chan Chan,La Libertad,2025-05-04,7,468.01,Auto
+V0268,Ecuador,18,F,Cañón del Colca,Ica,2025-03-16,2,4016.77,
+V0269,EE.UU.,41,M,Chan Chan,Puno,2025-06-01,2,2642.22,Bus
+V0270,Argentina,21,M,Lago Titicaca,Cusco,2025-02-25,5,595.53,NA
+V0271,Chile,31,F,Líneas de Nazca,Arequipa,2024-10-28,10,2397.2,
+V0272,Chile,38,M,Huacachina,Puno,2025-07-10,1,4433.99,Tren
+V0273,Argentina,39,F,Machu Picchu,Cusco,2025-05-03,4,1840.32,
+V0274,Brasil,41,F,Líneas de Nazca,Ica,2025-09-20,10,2645.76,NA
+V0275,Colombia,29,M,Líneas de Nazca,Ica,2025-02-25,3,4144.92,Bus
+V0276,Argentina,67,M,Lago Titicaca,Cusco,2024-11-16,8,1953.19,Tren
+V0277,Brasil,43,M,Lago Titicaca,Ica,2025-03-26,5,2901.05,
+V0278,Argentina,30,F,Huacachina,La Libertad,2025-02-09,8,4635.3,Tren
+V0279,Argentina,39,F,Huacachina,Arequipa,2025-08-27,7,2372.06,
+V0280,Chile,69,M,Chan Chan,Puno,2025-06-05,5,3052.39,Bus
+V0281,EE.UU.,59,M,Cañón del Colca,Arequipa,2025-04-27,4,2137.72,Tren
+V0282,Brasil,56,F,Cañón del Colca,Arequipa,2025-09-23,5,1031.58,NA
+V0283,EE.UU.,54,F,Líneas de Nazca,Puno,2025-01-07,1,4116.63,Tren
+V0284,Colombia,49,F,Huacachina,Arequipa,2025-04-22,2,2103.43,Auto
+V0285,Argentina,26,F,Lago Titicaca,Arequipa,2025-09-04,8,4706.73,Avión
+V0286,EE.UU.,59,F,Chan Chan,Arequipa,2024-12-10,2,4298.29,Tren
+V0287,Argentina,28,M,Cañón del Colca,La Libertad,2025-01-05,1,1247.84,NA
+V0288,Ecuador,66,M,Chan Chan,Ica,2025-06-15,8,1951.6,Bus
+V0289,EE.UU.,40,F,Cañón del Colca,Cusco,2025-04-08,7,995.52,Avión
+V0290,Argentina,68,M,Huacachina,Cusco,2025-06-27,8,1546.07,Auto
+V0291,Argentina,27,F,Chan Chan,Ica,2025-04-06,4,714.29,Bus
+V0292,México,26,M,Machu Picchu,Puno,2025-09-22,3,3238.55,Auto
+V0293,EE.UU.,43,F,Lago Titicaca,Cusco,2024-10-25,8,832.99,
+V0294,Chile,20,F,Chan Chan,Puno,2025-10-05,1,1607.6,
+V0295,EE.UU.,34,F,Líneas de Nazca,Ica,2025-03-14,5,4191.47,Tren
+V0296,Ecuador,33,M,Líneas de Nazca,Arequipa,2025-03-24,2,1446.43,Auto
+V0297,Brasil,42,M,Machu Picchu,Puno,2025-07-12,2,974.36,Avión
+V0298,Colombia,44,M,Huacachina,Ica,2025-09-18,5,3477.09,NA
+V0299,Perú,47,M,Machu Picchu,La Libertad,2024-12-23,7,1516.45,
+V0300,Brasil,54,M,Líneas de Nazca,Arequipa,2024-12-02,5,1022.71,
+V0301,EE.UU.,31,M,Huacachina,La Libertad,2025-09-22,5,3420.49,NA
+V0302,Perú,65,F,Huacachina,Puno,2025-05-07,7,686.83,NA
+V0303,Brasil,67,F,Cañón del Colca,La Libertad,2024-11-02,2,2291.24,
+V0304,Colombia,65,F,Lago Titicaca,Cusco,2025-03-21,8,4903.08,Avión
+V0305,México,21,M,Machu Picchu,Puno,2025-10-07,4,4367.84,
+V0306,EE.UU.,55,F,Líneas de Nazca,Puno,2025-05-09,4,562.49,Auto
+V0307,México,27,M,Cañón del Colca,La Libertad,2025-01-17,3,2105.28,Bus
+V0308,México,19,F,Lago Titicaca,Ica,2024-12-26,9,3871.43,Auto
+V0309,México,61,M,Lago Titicaca,Arequipa,2024-10-24,10,2536.78,Avión
+V0310,Perú,61,M,Cañón del Colca,Arequipa,2025-06-01,6,1128.68,Auto
+V0311,Brasil,62,F,Machu Picchu,La Libertad,2025-03-18,5,3565.46,Tren
+V0312,México,30,F,Huacachina,Puno,2025-04-23,3,1481.97,Tren
+V0313,Argentina,46,M,Cañón del Colca,Puno,2025-09-25,9,3989.54,Tren
+V0314,EE.UU.,32,F,Machu Picchu,Arequipa,2025-09-03,1,3325.17,Avión
+V0315,Ecuador,19,F,Cañón del Colca,Arequipa,2025-03-04,9,1231.33,NA
+V0316,Brasil,68,M,Lago Titicaca,La Libertad,2025-08-08,3,825.24,Avión
+V0317,EE.UU.,30,M,Líneas de Nazca,Ica,2025-06-11,2,1651.9,Avión
+V0318,Argentina,26,M,Líneas de Nazca,Puno,2025-02-16,9,1379.68,Bus
+V0319,EE.UU.,23,F,Machu Picchu,La Libertad,2024-10-20,5,2989.12,Auto
+V0320,Perú,27,M,Chan Chan,La Libertad,2024-11-18,9,4994.45,Bus
+V0321,Perú,20,M,Lago Titicaca,Arequipa,2024-11-08,1,3641.16,NA
+V0322,Perú,35,F,Cañón del Colca,Arequipa,2024-11-12,6,3889.26,
+V0323,Chile,30,F,Machu Picchu,La Libertad,2025-02-19,8,4832.08,
+V0324,Ecuador,37,M,Machu Picchu,La Libertad,2025-05-01,9,4472.37,Avión
+V0325,Perú,27,M,Cañón del Colca,La Libertad,2025-02-24,9,2322.68,Tren
+V0326,Ecuador,42,F,Cañón del Colca,La Libertad,2025-08-28,4,824.89,Avión
+V0327,Colombia,64,M,Cañón del Colca,Ica,2024-11-01,7,4183.28,Avión
+V0328,EE.UU.,70,F,Líneas de Nazca,Arequipa,2025-01-16,10,1265.46,Bus
+V0329,Perú,67,M,Machu Picchu,Puno,2025-07-12,3,2709.0,Avión
+V0330,Brasil,40,F,Huacachina,Arequipa,2024-11-08,2,4011.41,Bus
+V0331,EE.UU.,70,F,Huacachina,Cusco,2025-04-23,4,4631.78,Tren
+V0332,México,68,M,Lago Titicaca,Ica,2025-07-02,6,4645.85,Tren
+V0333,Ecuador,24,F,Chan Chan,Ica,2024-11-19,7,3378.67,Tren
+V0334,Chile,50,F,Machu Picchu,Cusco,2025-02-24,6,3187.59,NA
+V0335,Ecuador,47,M,Cañón del Colca,Cusco,2025-09-21,6,3505.38,
+V0336,México,22,M,Machu Picchu,Ica,2025-05-26,1,3451.29,Tren
+V0337,Argentina,66,F,Cañón del Colca,Arequipa,2024-11-17,8,971.24,NA
+V0338,México,24,M,Machu Picchu,La Libertad,2025-07-15,4,4079.06,NA
+V0339,México,56,F,Cañón del Colca,La Libertad,2025-09-05,8,3772.61,
+V0340,Chile,41,M,Cañón del Colca,La Libertad,2025-08-04,6,4161.08,Tren
+V0341,Argentina,52,M,Machu Picchu,Ica,2025-08-04,9,471.89,
+V0342,Brasil,38,F,Lago Titicaca,Arequipa,2024-12-16,8,1960.4,Tren
+V0343,Chile,40,F,Chan Chan,Puno,2024-12-16,2,335.7,
+V0344,Colombia,60,M,Machu Picchu,La Libertad,2025-08-02,10,3590.99,Auto
+V0345,Argentina,58,M,Líneas de Nazca,La Libertad,2025-06-06,3,3318.4,Tren
+V0346,Brasil,64,F,Líneas de Nazca,Puno,2024-12-12,9,2096.24,Avión
+V0347,Ecuador,60,M,Chan Chan,Ica,2025-04-28,8,2046.38,NA
+V0348,Brasil,19,F,Huacachina,Cusco,2024-11-19,2,438.9,Avión
+V0349,Argentina,48,M,Chan Chan,Puno,2025-09-18,9,3376.55,NA
+V0350,México,60,M,Chan Chan,Puno,2025-05-01,8,2303.33,Avión
+V0351,Chile,22,F,Cañón del Colca,Ica,2025-04-18,7,4623.21,
+V0352,Perú,37,M,Chan Chan,La Libertad,2025-08-01,2,2268.25,NA
+V0353,Brasil,46,F,Cañón del Colca,Ica,2024-10-28,1,2804.25,Auto
+V0354,Brasil,70,F,Huacachina,Cusco,2025-09-21,3,4470.59,Avión
+V0355,Brasil,25,F,Líneas de Nazca,Puno,2024-12-31,6,2804.58,Bus
+V0356,Argentina,39,F,Machu Picchu,La Libertad,2025-06-06,7,2965.74,Tren
+V0357,México,48,M,Lago Titicaca,Arequipa,2024-10-27,8,4562.9,Bus
+V0358,México,70,F,Machu Picchu,La Libertad,2024-10-27,7,2891.23,Bus
+V0359,Ecuador,52,M,Líneas de Nazca,Cusco,2025-04-09,7,301.79,Auto
+V0360,Ecuador,23,M,Chan Chan,La Libertad,2025-02-18,4,1013.38,Tren
+V0361,Brasil,39,M,Chan Chan,Ica,2025-02-22,10,530.44,Avión
+V0362,Argentina,49,F,Líneas de Nazca,La Libertad,2025-01-01,3,4907.24,
+V0363,México,62,F,Machu Picchu,Puno,2025-08-05,4,1124.21,NA
+V0364,Colombia,50,F,Chan Chan,Arequipa,2025-01-10,3,1530.76,Tren
+V0365,Ecuador,56,M,Huacachina,La Libertad,2024-12-17,7,1822.19,Bus
+V0366,EE.UU.,41,F,Chan Chan,La Libertad,2025-08-28,4,834.2,
+V0367,EE.UU.,31,F,Chan Chan,Arequipa,2024-12-17,1,3353.23,NA
+V0368,EE.UU.,38,M,Líneas de Nazca,Ica,2024-12-04,10,1088.09,NA
+V0369,Perú,59,F,Lago Titicaca,Cusco,2025-07-05,8,3173.09,Tren
+V0370,Argentina,24,F,Líneas de Nazca,Arequipa,2025-07-12,9,4779.07,
+V0371,Argentina,29,F,Lago Titicaca,La Libertad,2024-11-05,8,813.07,Bus
+V0372,Chile,48,M,Líneas de Nazca,Ica,2024-11-16,4,3918.38,Avión
+V0373,Argentina,43,F,Cañón del Colca,Arequipa,2024-11-01,10,385.28,
+V0374,Brasil,24,M,Líneas de Nazca,Ica,2025-03-25,8,357.92,Avión
+V0375,Brasil,38,M,Lago Titicaca,Arequipa,2025-08-05,10,4475.56,Bus
+V0376,Brasil,29,M,Cañón del Colca,Ica,2025-03-22,9,1864.21,Tren
+V0377,Argentina,54,F,Lago Titicaca,Puno,2025-04-19,8,1655.42,Tren
+V0378,Argentina,38,F,Chan Chan,Arequipa,2024-10-24,7,1051.48,Auto
+V0379,Brasil,67,F,Chan Chan,Puno,2025-05-08,8,4211.99,NA
+V0380,EE.UU.,65,F,Chan Chan,Ica,2025-09-20,6,1506.99,NA
+V0381,Perú,40,M,Cañón del Colca,Ica,2025-05-12,9,700.77,
+V0382,Ecuador,37,M,Cañón del Colca,Arequipa,2024-12-18,7,1644.84,Avión
+V0383,Colombia,22,M,Lago Titicaca,La Libertad,2025-08-07,6,2198.26,Bus
+V0384,Ecuador,61,M,Huacachina,Arequipa,2024-12-06,8,4333.9,Bus
+V0385,Argentina,52,M,Machu Picchu,Ica,2024-11-06,10,2469.92,Auto
+V0386,EE.UU.,20,M,Lago Titicaca,Puno,2025-02-06,7,553.49,Avión
+V0387,Colombia,19,M,Líneas de Nazca,Arequipa,2025-01-02,3,4756.27,Avión
+V0388,Argentina,38,F,Líneas de Nazca,La Libertad,2025-08-13,8,2993.38,Avión
+V0389,México,54,M,Machu Picchu,Puno,2025-05-28,6,3477.86,Auto
+V0390,Colombia,56,M,Cañón del Colca,Arequipa,2025-08-03,10,1590.48,Tren
+V0391,México,23,F,Huacachina,Ica,2025-10-06,5,3310.35,Tren
+V0392,Argentina,18,F,Machu Picchu,Cusco,2025-09-27,4,4339.43,NA
+V0393,Chile,48,M,Cañón del Colca,Puno,2025-01-15,5,2223.79,Bus
+V0394,Chile,53,F,Machu Picchu,La Libertad,2025-07-06,1,2934.87,
+V0395,Perú,46,M,Huacachina,La Libertad,2025-06-24,9,2442.95,Bus
+V0396,Ecuador,41,M,Chan Chan,Arequipa,2025-01-28,7,4580.44,
+V0397,Brasil,45,F,Huacachina,Ica,2024-12-14,7,4403.54,Auto
+V0398,Brasil,45,F,Machu Picchu,Puno,2024-12-19,2,1367.88,Tren
+V0399,Argentina,31,F,Lago Titicaca,Ica,2024-11-27,5,1051.55,
+V0400,Chile,64,F,Machu Picchu,La Libertad,2025-09-01,4,353.17,Auto
+V0401,México,36,M,Líneas de Nazca,La Libertad,2025-09-06,7,3202.4,Tren
+V0402,Colombia,53,F,Lago Titicaca,Arequipa,2025-07-01,4,2053.76,Tren
+V0403,Perú,31,M,Machu Picchu,Puno,2025-05-01,5,458.98,Tren
+V0404,Brasil,54,M,Lago Titicaca,Ica,2025-09-30,5,765.19,
+V0405,Ecuador,30,F,Chan Chan,Puno,2025-06-15,8,4345.71,Avión
+V0406,Brasil,38,F,Cañón del Colca,Cusco,2025-03-20,6,4919.97,Avión
+V0407,Chile,58,F,Chan Chan,La Libertad,2024-10-30,3,4696.93,Avión
+V0408,Chile,24,M,Cañón del Colca,Arequipa,2024-11-04,8,1302.71,
+V0409,México,56,F,Chan Chan,Cusco,2024-12-18,4,3358.8,Avión
+V0410,Perú,37,F,Huacachina,Cusco,2025-05-06,5,2411.23,NA
+V0411,Ecuador,21,F,Chan Chan,Arequipa,2025-02-14,5,4624.37,Avión
+V0412,EE.UU.,25,M,Líneas de Nazca,Ica,2025-04-25,6,3768.25,Bus
+V0413,Ecuador,54,M,Chan Chan,Ica,2025-07-28,5,1978.86,Auto
+V0414,México,44,M,Chan Chan,Puno,2025-07-14,9,1934.32,Auto
+V0415,Argentina,70,F,Huacachina,Ica,2025-08-13,9,4143.7,Auto
+V0416,Perú,27,M,Machu Picchu,Cusco,2024-12-23,1,4145.29,Avión
+V0417,Argentina,56,M,Líneas de Nazca,Puno,2025-04-23,2,3171.21,Bus
+V0418,Ecuador,35,F,Chan Chan,Ica,2025-04-06,6,4894.89,NA
+V0419,Argentina,65,F,Chan Chan,Arequipa,2025-06-07,3,2335.31,Tren
+V0420,México,39,M,Lago Titicaca,Cusco,2025-04-27,8,1022.94,Auto
+V0421,Perú,30,F,Chan Chan,Arequipa,2025-07-17,2,4943.89,Bus
+V0422,Ecuador,55,M,Machu Picchu,Ica,2024-10-23,4,2127.18,Auto
+V0423,Ecuador,41,F,Cañón del Colca,Ica,2024-11-07,10,807.56,NA
+V0424,EE.UU.,36,F,Líneas de Nazca,Arequipa,2024-12-05,3,4522.38,NA
+V0425,Brasil,18,M,Chan Chan,La Libertad,2025-08-14,5,2214.76,Tren
+V0426,Argentina,53,F,Lago Titicaca,La Libertad,2025-02-05,10,2860.39,
+V0427,Perú,34,M,Huacachina,La Libertad,2024-12-24,5,1113.33,Avión
+V0428,Perú,63,F,Lago Titicaca,Arequipa,2025-05-22,8,1797.21,Auto
+V0429,Brasil,62,M,Lago Titicaca,La Libertad,2024-10-23,7,1176.4,Tren
+V0430,Colombia,36,M,Machu Picchu,Cusco,2025-09-05,1,2705.8,Tren
+V0431,Perú,70,M,Machu Picchu,La Libertad,2025-04-25,2,382.98,Tren
+V0432,Argentina,32,M,Cañón del Colca,La Libertad,2024-12-12,8,538.57,
+V0433,EE.UU.,33,M,Machu Picchu,Arequipa,2025-10-15,10,525.53,Auto
+V0434,Perú,49,M,Lago Titicaca,La Libertad,2025-08-19,9,783.43,Tren
+V0435,Chile,18,M,Huacachina,Cusco,2025-03-04,6,4713.3,Tren
+V0436,EE.UU.,21,M,Chan Chan,Ica,2025-10-10,7,2575.22,Tren
+V0437,Chile,45,F,Líneas de Nazca,Puno,2025-06-30,8,1401.68,Tren
+V0438,Perú,39,F,Machu Picchu,La Libertad,2025-05-26,3,2972.59,
+V0439,Perú,27,M,Machu Picchu,La Libertad,2025-08-09,10,3122.87,
+V0440,Brasil,69,M,Machu Picchu,Arequipa,2025-05-31,3,4488.05,
+V0441,Brasil,29,F,Cañón del Colca,Puno,2024-11-07,9,4049.48,NA
+V0442,Ecuador,41,M,Cañón del Colca,Arequipa,2025-07-26,1,1911.12,NA
+V0443,EE.UU.,23,M,Machu Picchu,La Libertad,2025-07-24,1,1086.77,Avión
+V0444,Perú,28,F,Machu Picchu,Arequipa,2025-08-13,6,4790.91,Bus
+V0445,México,40,M,Huacachina,Cusco,2024-11-17,6,4432.33,Auto
+V0446,Argentina,44,M,Cañón del Colca,La Libertad,2025-09-28,1,3212.25,Tren
+V0447,EE.UU.,40,M,Lago Titicaca,Ica,2025-05-19,1,3425.23,Bus
+V0448,Perú,64,F,Líneas de Nazca,Arequipa,2025-07-28,9,4483.35,Tren
+V0449,Colombia,70,M,Machu Picchu,La Libertad,2025-08-17,7,1940.09,
+V0450,Argentina,70,F,Machu Picchu,Puno,2025-07-07,4,1306.84,Bus
+V0451,Brasil,67,F,Lago Titicaca,Cusco,2025-05-05,3,3229.3,Avión
+V0452,Ecuador,51,M,Líneas de Nazca,Cusco,2024-11-07,5,4534.05,NA
+V0453,Argentina,18,F,Machu Picchu,Ica,2025-01-04,5,2912.15,
+V0454,Brasil,28,F,Lago Titicaca,Arequipa,2025-07-24,6,4669.45,
+V0455,Argentina,62,M,Líneas de Nazca,Arequipa,2025-06-28,6,3079.16,
+V0456,Chile,23,M,Machu Picchu,La Libertad,2024-12-23,5,1291.04,NA
+V0457,Colombia,48,F,Huacachina,La Libertad,2024-12-30,8,2187.26,Tren
+V0458,Perú,56,M,Cañón del Colca,La Libertad,2025-01-11,10,2820.92,Tren
+V0459,Chile,60,F,Chan Chan,Cusco,2025-08-07,4,1386.77,Tren
+V0460,Argentina,64,F,Lago Titicaca,La Libertad,2025-01-14,1,3759.54,Bus
+V0461,Colombia,23,F,Chan Chan,La Libertad,2025-01-13,3,3197.49,NA
+V0462,Chile,30,M,Huacachina,Puno,2025-08-23,2,4393.49,NA
+V0463,EE.UU.,43,F,Líneas de Nazca,Ica,2025-03-05,4,664.17,Bus
+V0464,Ecuador,66,F,Machu Picchu,Arequipa,2025-07-01,8,1759.58,
+V0465,Ecuador,31,F,Cañón del Colca,Arequipa,2025-08-08,4,1456.21,Avión
+V0466,Ecuador,25,M,Lago Titicaca,Puno,2025-05-23,4,2247.14,Bus
+V0467,Argentina,60,F,Lago Titicaca,Cusco,2025-05-31,5,2723.16,Bus
+V0468,EE.UU.,65,F,Machu Picchu,Cusco,2025-02-03,1,1604.2,Auto
+V0469,Chile,21,M,Machu Picchu,Cusco,2025-03-15,9,4360.0,Avión
+V0470,Brasil,34,M,Huacachina,Cusco,2025-03-14,10,2165.06,Avión
+V0471,Colombia,21,M,Líneas de Nazca,Arequipa,2025-06-29,8,3746.76,Auto
+V0472,Ecuador,20,M,Lago Titicaca,Puno,2025-01-27,10,1181.3,Avión
+V0473,EE.UU.,30,M,Líneas de Nazca,Arequipa,2025-08-30,1,4423.34,
+V0474,Chile,51,F,Machu Picchu,La Libertad,2025-05-22,4,1333.95,Auto
+V0475,Perú,45,M,Líneas de Nazca,Puno,2025-04-11,3,1458.43,
+V0476,EE.UU.,30,F,Huacachina,Cusco,2025-10-09,1,1222.03,Avión
+V0477,México,67,F,Lago Titicaca,Cusco,2025-10-16,1,1591.08,Avión
+V0478,Chile,36,M,Cañón del Colca,Cusco,2025-09-11,5,4727.04,Avión
+V0479,Chile,48,M,Cañón del Colca,Ica,2025-08-12,1,1325.95,Bus
+V0480,Colombia,23,M,Machu Picchu,La Libertad,2024-12-15,9,3694.98,Avión
+V0481,EE.UU.,37,F,Chan Chan,La Libertad,2025-09-17,1,3208.69,NA
+V0482,México,35,M,Líneas de Nazca,Puno,2025-01-16,6,3667.39,NA
+V0483,Colombia,63,M,Huacachina,Ica,2025-08-25,3,4634.09,Tren
+V0484,Perú,34,F,Líneas de Nazca,Cusco,2025-06-24,6,3806.91,NA
+V0485,Perú,57,M,Machu Picchu,Cusco,2025-07-19,10,4011.14,Avión
+V0486,Chile,20,M,Huacachina,La Libertad,2025-10-13,7,1841.97,Avión
+V0487,Colombia,59,F,Huacachina,Puno,2025-06-21,10,4924.51,Auto
+V0488,EE.UU.,27,F,Chan Chan,La Libertad,2025-05-13,2,396.29,Tren
+V0489,Ecuador,37,F,Lago Titicaca,Ica,2025-01-05,2,1138.02,
+V0490,EE.UU.,59,F,Cañón del Colca,Ica,2025-01-25,9,2731.98,
+V0491,Chile,47,M,Huacachina,Puno,2025-09-13,4,1067.15,Bus
+V0492,Brasil,70,F,Líneas de Nazca,Arequipa,2024-11-19,3,2325.97,
+V0493,Argentina,23,F,Machu Picchu,Puno,2025-06-06,10,2476.46,NA
+V0494,Perú,34,M,Huacachina,Cusco,2025-08-28,10,3531.61,Bus
+V0495,Perú,56,M,Lago Titicaca,Arequipa,2025-05-10,4,4883.11,Auto
+V0496,Argentina,51,F,Cañón del Colca,Puno,2025-01-19,5,4173.81,Tren
+V0497,Brasil,43,M,Huacachina,La Libertad,2025-03-30,8,3915.72,NA
+V0498,Colombia,67,F,Chan Chan,Ica,2025-04-03,7,1439.09,NA
+V0499,Perú,20,F,Huacachina,Cusco,2024-10-18,2,693.53,Auto
+V0500,Perú,59,F,Líneas de Nazca,Arequipa,2024-11-13,6,2053.98,Tren
+V0501,Chile,22,F,Machu Picchu,Puno,2024-11-18,7,1613.38,Bus
+V0502,Colombia,27,M,Machu Picchu,La Libertad,2025-04-14,3,2120.71,
+V0503,EE.UU.,47,M,Cañón del Colca,Cusco,2025-01-18,4,1203.12,Tren
+V0504,México,38,M,Huacachina,Cusco,2025-01-25,3,781.19,Avión
+V0505,Chile,39,M,Machu Picchu,La Libertad,2025-03-12,8,2150.95,
+V0506,Perú,63,F,Chan Chan,Puno,2025-05-07,10,988.05,Avión
+V0507,Chile,31,M,Huacachina,Arequipa,2025-06-03,7,4187.2,
+V0508,Brasil,28,F,Machu Picchu,La Libertad,2025-03-30,1,2737.43,Avión
+V0509,Ecuador,20,F,Chan Chan,Arequipa,2025-07-22,4,1643.6,Bus
+V0510,México,40,F,Líneas de Nazca,Arequipa,2025-10-03,6,4600.96,Avión
+V0511,Brasil,21,F,Lago Titicaca,Arequipa,2024-11-25,6,4657.57,NA
+V0512,Brasil,51,M,Huacachina,Ica,2025-10-02,2,2661.34,Auto
+V0513,Ecuador,43,M,Lago Titicaca,Cusco,2024-12-23,3,4350.46,Tren
+V0514,Colombia,27,M,Chan Chan,Ica,2025-06-12,7,3544.6,
+V0515,Brasil,54,F,Lago Titicaca,Puno,2025-09-10,7,4513.11,Tren
+V0516,México,40,M,Huacachina,Cusco,2024-11-16,1,4863.84,Avión
+V0517,Brasil,39,M,Lago Titicaca,Arequipa,2025-04-30,3,2130.59,Bus
+V0518,Colombia,58,M,Líneas de Nazca,Cusco,2025-03-04,9,4142.22,Auto
+V0519,Chile,66,F,Huacachina,Ica,2025-08-22,5,2400.86,Auto
+V0520,Chile,30,M,Huacachina,Cusco,2025-10-03,1,3844.52,
+V0521,Chile,45,F,Lago Titicaca,Arequipa,2025-01-30,8,3266.23,Tren
+V0522,Argentina,34,M,Huacachina,La Libertad,2025-08-09,1,3357.29,Avión
+V0523,Chile,52,F,Chan Chan,Puno,2025-06-09,5,2449.78,Auto
+V0524,Brasil,62,F,Huacachina,Puno,2025-10-12,2,2961.19,NA
+V0525,Argentina,26,F,Lago Titicaca,Cusco,2025-03-23,10,1330.2,Avión
+V0526,Brasil,69,M,Machu Picchu,Puno,2024-12-18,1,633.43,Avión
+V0527,Colombia,49,F,Líneas de Nazca,La Libertad,2024-12-08,5,3941.83,Bus
+V0528,Chile,25,F,Líneas de Nazca,Puno,2024-12-05,9,3466.23,Bus
+V0529,Colombia,52,F,Chan Chan,Arequipa,2025-05-04,6,1604.3,
+V0530,Ecuador,45,M,Lago Titicaca,La Libertad,2025-02-27,9,767.86,Tren
+V0531,Brasil,67,F,Huacachina,Cusco,2025-08-25,1,3627.05,Avión
+V0532,Brasil,18,F,Cañón del Colca,Ica,2025-08-02,4,2886.45,Avión
+V0533,Colombia,40,M,Lago Titicaca,Arequipa,2025-05-22,5,4996.59,Tren
+V0534,México,34,F,Huacachina,Arequipa,2025-04-29,2,4111.28,Tren
+V0535,Colombia,24,F,Machu Picchu,La Libertad,2024-12-08,6,3130.49,Auto
+V0536,Ecuador,37,F,Chan Chan,La Libertad,2025-01-07,1,4047.18,Avión
+V0537,Brasil,35,F,Líneas de Nazca,Ica,2025-05-03,6,1600.47,Avión
+V0538,Chile,66,F,Huacachina,La Libertad,2025-06-28,4,979.55,
+V0539,Ecuador,53,M,Huacachina,Ica,2024-11-21,2,3709.71,Bus
+V0540,Ecuador,33,M,Machu Picchu,Puno,2025-06-26,2,3323.31,Tren
+V0541,Brasil,65,M,Machu Picchu,Ica,2024-12-19,6,668.25,
+V0542,Argentina,47,M,Cañón del Colca,La Libertad,2025-02-27,10,917.07,Auto
+V0543,Ecuador,53,M,Machu Picchu,Ica,2024-11-25,2,3678.97,Auto
+V0544,Argentina,30,M,Lago Titicaca,Arequipa,2024-11-15,4,3661.16,Auto
+V0545,EE.UU.,64,M,Cañón del Colca,Cusco,2025-02-01,4,4864.57,NA
+V0546,Perú,39,M,Machu Picchu,La Libertad,2025-06-05,9,3864.73,Avión
+V0547,Perú,63,M,Cañón del Colca,Ica,2024-11-23,1,2442.52,NA
+V0548,EE.UU.,70,F,Chan Chan,Arequipa,2025-06-21,10,951.79,Avión
+V0549,Colombia,54,M,Machu Picchu,Puno,2025-10-15,6,421.5,NA
+V0550,Colombia,21,F,Machu Picchu,Ica,2025-04-20,7,4530.23,Auto
+V0551,Argentina,66,M,Cañón del Colca,Cusco,2025-04-19,2,4755.71,Bus
+V0552,Colombia,65,F,Líneas de Nazca,Ica,2024-10-31,9,4948.5,Tren
+V0553,EE.UU.,20,F,Lago Titicaca,Arequipa,2024-12-24,9,4496.83,
+V0554,Brasil,40,M,Chan Chan,Puno,2025-03-30,2,2773.18,Tren
+V0555,Chile,48,F,Lago Titicaca,Ica,2024-12-19,3,2926.83,NA
+V0556,Perú,31,F,Líneas de Nazca,Arequipa,2025-08-31,4,2478.61,Auto
+V0557,Ecuador,61,F,Machu Picchu,Ica,2024-12-24,2,1711.98,NA
+V0558,Brasil,36,F,Huacachina,La Libertad,2025-03-01,10,2897.48,Auto
+V0559,México,55,F,Chan Chan,La Libertad,2025-09-16,2,877.6,NA
+V0560,EE.UU.,20,M,Líneas de Nazca,La Libertad,2025-09-30,5,4520.26,Bus
+V0561,Perú,44,M,Cañón del Colca,La Libertad,2025-05-26,4,1299.18,
+V0562,Argentina,69,M,Lago Titicaca,Ica,2025-08-17,5,4159.31,Avión
+V0563,Brasil,32,F,Huacachina,Ica,2025-03-19,9,2163.54,
+V0564,Perú,60,F,Cañón del Colca,La Libertad,2025-01-14,3,558.39,Auto
+V0565,Brasil,62,M,Huacachina,Puno,2025-05-01,5,2029.56,Bus
+V0566,México,27,M,Chan Chan,Cusco,2025-05-14,8,3192.45,Avión
+V0567,México,33,M,Machu Picchu,Arequipa,2025-09-24,2,3313.99,NA
+V0568,México,26,M,Cañón del Colca,Puno,2024-11-28,7,1127.38,Auto
+V0569,México,42,F,Chan Chan,Cusco,2025-04-16,6,1616.82,
+V0570,México,57,M,Machu Picchu,Ica,2024-11-30,8,1682.22,NA
+V0571,Ecuador,25,F,Lago Titicaca,Ica,2025-01-12,5,2207.72,Avión
+V0572,México,55,F,Huacachina,La Libertad,2025-10-12,6,2535.5,Tren
+V0573,Brasil,29,F,Cañón del Colca,La Libertad,2025-01-10,1,3025.47,NA
+V0574,Brasil,50,F,Machu Picchu,Ica,2025-03-08,10,1723.97,NA
+V0575,Colombia,57,M,Líneas de Nazca,La Libertad,2025-05-29,7,2895.47,
+V0576,EE.UU.,25,M,Líneas de Nazca,Ica,2025-09-17,7,1370.99,Avión
+V0577,Ecuador,50,M,Líneas de Nazca,Puno,2025-06-23,8,3075.86,Bus
+V0578,Perú,53,M,Líneas de Nazca,Cusco,2025-08-15,8,4035.73,
+V0579,Argentina,58,M,Cañón del Colca,Ica,2024-12-24,8,1753.32,Avión
+V0580,EE.UU.,54,F,Huacachina,Arequipa,2024-10-31,4,2841.78,Bus
+V0581,Argentina,48,M,Machu Picchu,Arequipa,2024-12-24,5,4917.19,Avión
+V0582,Ecuador,24,M,Chan Chan,Arequipa,2025-06-24,3,525.25,Auto
+V0583,Chile,66,F,Lago Titicaca,Cusco,2025-01-31,8,801.89,Auto
+V0584,Perú,32,F,Lago Titicaca,Cusco,2025-03-04,4,2017.13,Tren
+V0585,Perú,24,F,Lago Titicaca,La Libertad,2025-07-28,5,3589.45,Auto
+V0586,EE.UU.,23,M,Líneas de Nazca,Cusco,2025-03-11,6,3633.35,
+V0587,Ecuador,59,F,Lago Titicaca,Puno,2025-06-01,3,1427.29,Bus
+V0588,Ecuador,60,M,Chan Chan,Cusco,2025-07-14,5,642.13,Tren
+V0589,Brasil,49,F,Lago Titicaca,Cusco,2025-05-28,1,1368.58,Avión
+V0590,EE.UU.,42,F,Chan Chan,Arequipa,2024-12-09,7,2171.81,Tren
+V0591,EE.UU.,49,F,Líneas de Nazca,Arequipa,2025-10-11,4,2858.54,Tren
+V0592,Brasil,60,F,Lago Titicaca,La Libertad,2024-12-25,2,4267.24,Tren
+V0593,México,22,M,Chan Chan,Arequipa,2025-06-29,1,1944.93,Avión
+V0594,Colombia,67,M,Chan Chan,Arequipa,2024-11-10,5,2454.36,
+V0595,Ecuador,58,M,Lago Titicaca,Cusco,2025-10-08,4,621.91,NA
+V0596,Argentina,34,F,Machu Picchu,La Libertad,2025-01-25,9,3791.05,Tren
+V0597,Colombia,61,M,Machu Picchu,Puno,2025-09-26,8,4655.43,Auto
+V0598,Chile,61,M,Huacachina,Arequipa,2025-03-07,9,2469.29,Bus
+V0599,Perú,25,M,Líneas de Nazca,Ica,2025-04-09,7,2381.91,Tren
+V0600,Brasil,40,F,Cañón del Colca,Puno,2025-10-16,10,1959.39,Auto
+V0601,Colombia,66,M,Líneas de Nazca,Arequipa,2024-11-27,9,1667.11,Tren
+V0602,Chile,54,F,Machu Picchu,Cusco,2025-09-25,5,1443.51,NA
+V0603,Colombia,21,F,Huacachina,Puno,2025-09-07,5,3266.27,NA
+V0604,México,26,M,Lago Titicaca,Cusco,2025-06-08,2,619.82,
+V0605,México,66,F,Chan Chan,La Libertad,2025-07-03,1,371.76,Auto
+V0606,EE.UU.,47,F,Huacachina,Ica,2024-11-14,5,4267.72,Auto
+V0607,Argentina,61,F,Huacachina,Ica,2025-01-14,1,802.45,Avión
+V0608,Ecuador,38,F,Líneas de Nazca,Puno,2025-05-18,10,1910.98,Bus
+V0609,Ecuador,49,M,Huacachina,La Libertad,2025-09-19,5,2805.08,Bus
+V0610,Colombia,64,F,Chan Chan,Arequipa,2025-01-11,5,2219.29,Bus
+V0611,Ecuador,33,F,Huacachina,Arequipa,2025-03-15,4,3227.68,Tren
+V0612,Brasil,56,F,Machu Picchu,Arequipa,2024-11-04,1,2269.92,Auto
+V0613,Colombia,51,F,Huacachina,Puno,2024-11-21,9,4557.37,Auto
+V0614,Perú,47,M,Cañón del Colca,Ica,2025-06-25,9,589.21,Auto
+V0615,Colombia,42,M,Líneas de Nazca,La Libertad,2025-08-17,9,2261.4,Bus
+V0616,Argentina,45,F,Chan Chan,La Libertad,2025-01-26,7,1141.49,Avión
+V0617,Brasil,49,M,Cañón del Colca,Cusco,2025-07-18,9,4451.55,Avión
+V0618,EE.UU.,32,F,Cañón del Colca,Puno,2025-02-19,3,4624.06,Bus
+V0619,Brasil,57,F,Machu Picchu,Ica,2025-07-01,10,3531.58,NA
+V0620,Brasil,30,F,Chan Chan,Cusco,2025-06-20,4,4343.33,NA
+V0621,México,59,M,Huacachina,La Libertad,2025-03-16,1,3597.98,Avión
+V0622,Colombia,32,M,Líneas de Nazca,Puno,2025-04-10,8,3573.65,Bus
+V0623,Chile,47,M,Cañón del Colca,Ica,2024-12-11,7,4428.09,Avión
+V0624,Brasil,45,M,Chan Chan,Ica,2024-12-10,9,4507.34,Auto
+V0625,EE.UU.,54,M,Huacachina,Puno,2025-03-23,9,4560.23,Auto
+V0626,Ecuador,46,M,Huacachina,Arequipa,2025-09-02,3,970.71,Tren
+V0627,México,35,F,Huacachina,Arequipa,2025-05-10,3,1911.12,Auto
+V0628,Ecuador,29,M,Lago Titicaca,Puno,2025-07-11,2,4269.46,Auto
+V0629,Perú,42,F,Chan Chan,Ica,2025-05-25,4,4625.08,Avión
+V0630,México,26,F,Lago Titicaca,Arequipa,2025-02-11,3,2999.22,Tren
+V0631,EE.UU.,30,M,Lago Titicaca,Cusco,2025-10-10,4,3175.71,Tren
+V0632,Argentina,56,F,Cañón del Colca,Cusco,2025-07-23,8,1920.56,NA
+V0633,EE.UU.,52,F,Lago Titicaca,La Libertad,2025-02-14,1,4530.68,Tren
+V0634,Brasil,20,F,Lago Titicaca,Arequipa,2024-11-04,4,3000.39,Avión
+V0635,Brasil,55,F,Lago Titicaca,Arequipa,2025-01-08,9,2480.62,Tren
+V0636,Argentina,25,F,Cañón del Colca,Ica,2025-02-18,4,2323.88,NA
+V0637,Chile,48,F,Cañón del Colca,Arequipa,2025-07-28,8,514.61,Bus
+V0638,Argentina,32,F,Líneas de Nazca,Ica,2024-11-08,6,4158.14,Avión
+V0639,Chile,34,M,Machu Picchu,Cusco,2025-09-28,3,1008.53,NA
+V0640,Ecuador,18,F,Líneas de Nazca,Cusco,2025-04-20,1,4518.68,Tren
+V0641,México,44,F,Huacachina,Cusco,2025-06-21,7,4291.45,Avión
+V0642,Ecuador,67,F,Líneas de Nazca,Puno,2024-12-06,9,4534.26,Bus
+V0643,Ecuador,30,M,Chan Chan,Ica,2025-04-13,4,2661.71,NA
+V0644,México,48,M,Machu Picchu,Arequipa,2025-01-02,9,2282.09,Tren
+V0645,Ecuador,27,F,Líneas de Nazca,La Libertad,2025-03-25,6,1977.96,Tren
+V0646,Ecuador,55,F,Chan Chan,Cusco,2025-03-23,7,4386.31,NA
+V0647,Brasil,36,F,Machu Picchu,Ica,2025-07-10,10,1039.75,Tren
+V0648,Brasil,46,M,Huacachina,Ica,2025-04-26,2,984.38,NA
+V0649,Chile,60,F,Líneas de Nazca,La Libertad,2025-09-30,5,2442.21,Tren
+V0650,Perú,34,F,Chan Chan,Cusco,2025-08-02,5,2802.74,Bus
+V0651,Perú,29,F,Chan Chan,Cusco,2025-04-03,7,3000.67,Bus
+V0652,Argentina,35,F,Lago Titicaca,Cusco,2025-01-09,1,1030.66,NA
+V0653,Brasil,58,M,Machu Picchu,Puno,2024-11-20,4,2440.93,
+V0654,Perú,44,M,Chan Chan,Cusco,2025-08-06,3,836.81,
+V0655,Ecuador,69,F,Líneas de Nazca,Arequipa,2025-10-03,9,4019.51,Tren
+V0656,Brasil,53,F,Huacachina,Cusco,2025-04-26,2,3659.87,Tren
+V0657,Chile,49,F,Huacachina,Puno,2024-12-31,4,2400.37,Bus
+V0658,Argentina,42,M,Machu Picchu,Ica,2025-09-30,6,1495.92,Bus
+V0659,México,32,F,Chan Chan,La Libertad,2025-10-10,6,4383.54,Tren
+V0660,Colombia,44,M,Chan Chan,Cusco,2025-07-28,9,2420.23,Auto
+V0661,Perú,19,M,Cañón del Colca,Cusco,2024-12-08,7,4845.71,Auto
+V0662,EE.UU.,62,M,Machu Picchu,Arequipa,2024-11-28,8,4661.51,Avión
+V0663,México,32,F,Cañón del Colca,Ica,2025-02-17,10,2562.78,NA
+V0664,Chile,28,M,Machu Picchu,Puno,2025-08-10,1,4234.49,Auto
+V0665,Chile,30,M,Machu Picchu,Cusco,2024-11-28,8,1516.92,Bus
+V0666,Ecuador,51,M,Huacachina,Puno,2025-07-27,10,2485.15,NA
+V0667,Brasil,42,M,Huacachina,La Libertad,2025-08-03,7,360.63,Tren
+V0668,EE.UU.,34,M,Lago Titicaca,Cusco,2025-06-15,3,717.34,Bus
+V0669,Argentina,51,F,Lago Titicaca,Puno,2025-09-01,2,4731.12,Bus
+V0670,Chile,70,F,Lago Titicaca,Ica,2025-10-06,7,399.27,Auto
+V0671,EE.UU.,29,F,Cañón del Colca,La Libertad,2025-05-14,4,852.2,
+V0672,Brasil,19,F,Chan Chan,La Libertad,2025-03-22,6,1729.49,Auto
+V0673,México,55,F,Machu Picchu,Ica,2025-04-27,3,534.01,Avión
+V0674,Perú,37,F,Lago Titicaca,Cusco,2025-09-27,4,1433.25,Tren
+V0675,México,68,F,Chan Chan,Ica,2025-02-04,1,1244.69,Avión
+V0676,México,39,F,Huacachina,Puno,2025-01-10,2,3598.06,Auto
+V0677,EE.UU.,28,M,Machu Picchu,Cusco,2025-05-18,6,1271.99,Avión
+V0678,Brasil,28,M,Líneas de Nazca,Puno,2025-01-10,3,4657.3,NA
+V0679,Ecuador,39,M,Cañón del Colca,Cusco,2025-02-21,4,1093.83,Auto
+V0680,EE.UU.,56,F,Lago Titicaca,La Libertad,2024-10-27,7,4801.49,Avión
+V0681,Argentina,50,M,Machu Picchu,Arequipa,2024-10-26,5,4879.93,Tren
+V0682,Chile,47,F,Huacachina,Ica,2024-12-15,6,3637.51,Tren
+V0683,Ecuador,43,M,Machu Picchu,La Libertad,2024-10-20,2,3458.91,
+V0684,Colombia,61,M,Machu Picchu,Ica,2024-11-03,3,3530.21,Tren
+V0685,Perú,45,F,Cañón del Colca,Ica,2024-12-20,3,4037.19,NA
+V0686,Ecuador,34,F,Cañón del Colca,Puno,2025-07-26,1,2539.6,NA
+V0687,Ecuador,54,M,Machu Picchu,Puno,2025-07-13,9,1350.19,Auto
+V0688,Argentina,21,M,Líneas de Nazca,Arequipa,2024-12-24,10,2921.14,Tren
+V0689,Colombia,40,F,Machu Picchu,Ica,2025-04-08,8,4744.7,Tren
+V0690,Colombia,43,F,Chan Chan,Puno,2025-02-12,3,3221.48,Auto
+V0691,Ecuador,69,F,Lago Titicaca,Puno,2025-07-16,1,516.17,
+V0692,Chile,58,M,Líneas de Nazca,Cusco,2025-01-02,3,4523.42,NA
+V0693,Colombia,32,F,Chan Chan,Cusco,2025-03-28,4,2748.46,Tren
+V0694,Perú,39,M,Huacachina,Cusco,2025-01-07,2,2008.12,Auto
+V0695,Perú,43,F,Huacachina,Cusco,2025-08-25,3,2952.46,NA
+V0696,EE.UU.,57,M,Lago Titicaca,Puno,2025-09-23,4,4372.75,
+V0697,EE.UU.,31,M,Machu Picchu,Arequipa,2025-07-21,6,443.3,Bus
+V0698,Ecuador,51,M,Machu Picchu,Puno,2025-10-08,8,3104.4,
+V0699,Colombia,28,M,Huacachina,Cusco,2025-09-11,4,3294.01,NA
+V0700,Brasil,30,M,Chan Chan,Arequipa,2024-12-06,7,386.54,
+V0701,Perú,33,M,Líneas de Nazca,Cusco,2025-10-10,4,1559.53,Avión
+V0702,Ecuador,64,M,Cañón del Colca,Arequipa,2025-08-09,5,494.18,Auto
+V0703,México,69,M,Lago Titicaca,Cusco,2024-12-17,7,1488.89,
+V0704,México,51,F,Cañón del Colca,La Libertad,2025-03-17,9,4531.89,Avión
+V0705,Perú,62,M,Huacachina,Ica,2025-09-09,1,1089.78,
+V0706,Brasil,35,F,Machu Picchu,Puno,2025-10-14,1,1960.91,Tren
+V0707,EE.UU.,67,M,Huacachina,Arequipa,2025-04-10,6,2554.81,NA
+V0708,EE.UU.,45,M,Cañón del Colca,La Libertad,2024-12-27,6,1546.67,Bus
+V0709,Ecuador,65,F,Machu Picchu,Puno,2025-07-30,1,3200.73,Tren
+V0710,Ecuador,40,F,Huacachina,Puno,2025-08-02,7,4282.63,NA
+V0711,EE.UU.,54,M,Líneas de Nazca,Ica,2025-08-16,10,2198.3,Auto
+V0712,Colombia,38,F,Chan Chan,La Libertad,2024-11-08,7,2745.82,Tren
+V0713,EE.UU.,23,M,Líneas de Nazca,Ica,2024-10-27,10,1512.86,Avión
+V0714,Chile,53,M,Huacachina,Arequipa,2025-08-15,2,2961.09,NA
+V0715,Argentina,42,M,Machu Picchu,Cusco,2025-08-06,8,865.8,
+V0716,Argentina,53,F,Machu Picchu,Arequipa,2025-07-01,6,4555.73,Avión
+V0717,Perú,33,M,Chan Chan,Cusco,2025-04-09,2,1924.59,Avión
+V0718,Colombia,29,M,Cañón del Colca,Cusco,2025-07-01,5,943.38,NA
+V0719,Chile,20,M,Chan Chan,La Libertad,2024-10-29,7,1139.62,Bus
+V0720,México,44,M,Huacachina,Arequipa,2024-11-21,10,2793.53,NA
+V0721,EE.UU.,41,F,Machu Picchu,Arequipa,2025-07-08,8,4798.48,
+V0722,Ecuador,51,F,Líneas de Nazca,Cusco,2024-12-25,2,1060.09,Bus
+V0723,EE.UU.,57,M,Chan Chan,Puno,2025-06-30,4,3422.99,NA
+V0724,México,31,F,Cañón del Colca,Puno,2024-12-06,10,3424.97,Bus
+V0725,Argentina,47,M,Líneas de Nazca,Ica,2024-12-02,6,2723.95,Tren
+V0726,Perú,55,F,Cañón del Colca,Cusco,2024-11-29,8,2836.46,Auto
+V0727,Perú,59,F,Huacachina,Arequipa,2025-03-21,3,3442.9,Auto
+V0728,Brasil,69,M,Huacachina,La Libertad,2025-09-28,8,1502.22,Auto
+V0729,Perú,20,M,Huacachina,Puno,2025-07-03,9,2454.25,
+V0730,EE.UU.,26,F,Cañón del Colca,Puno,2024-12-30,5,2464.8,NA
+V0731,Colombia,34,M,Machu Picchu,La Libertad,2024-11-24,3,1201.56,Avión
+V0732,Colombia,29,M,Líneas de Nazca,Cusco,2025-07-02,1,2632.4,Bus
+V0733,Brasil,30,F,Líneas de Nazca,La Libertad,2025-07-02,6,4603.1,Avión
+V0734,Colombia,65,M,Chan Chan,Cusco,2025-09-09,4,1244.43,Auto
+V0735,Brasil,54,F,Huacachina,Puno,2024-12-18,10,4834.97,Tren
+V0736,Colombia,40,F,Cañón del Colca,Puno,2025-09-24,2,3978.65,Auto
+V0737,Argentina,47,F,Huacachina,Arequipa,2024-12-21,5,1699.53,Auto
+V0738,Perú,35,M,Chan Chan,Puno,2025-06-29,4,2636.65,Auto
+V0739,Brasil,62,M,Huacachina,Arequipa,2024-10-31,10,3658.02,Auto
+V0740,Argentina,57,M,Líneas de Nazca,Cusco,2024-11-23,4,4116.42,Tren
+V0741,EE.UU.,36,F,Lago Titicaca,Ica,2024-12-20,2,1899.47,NA
+V0742,México,65,M,Cañón del Colca,Ica,2025-05-17,8,2480.03,Bus
+V0743,EE.UU.,63,M,Lago Titicaca,Ica,2025-01-31,2,3326.08,NA
+V0744,Colombia,47,F,Cañón del Colca,Ica,2025-07-25,4,1922.64,NA
+V0745,Argentina,54,M,Líneas de Nazca,Puno,2025-06-27,8,2363.62,Auto
+V0746,Brasil,50,F,Cañón del Colca,Cusco,2024-11-12,3,1642.95,NA
+V0747,EE.UU.,22,F,Cañón del Colca,Ica,2025-06-01,7,1524.94,
+V0748,Ecuador,44,M,Chan Chan,Ica,2025-03-24,10,2679.96,Avión
+V0749,Perú,22,M,Lago Titicaca,La Libertad,2025-06-21,7,2170.41,Auto
+V0750,Colombia,68,F,Machu Picchu,Puno,2025-03-21,8,847.47,Tren
+V0751,Perú,59,M,Lago Titicaca,Ica,2025-08-06,7,3182.36,Auto
+V0752,México,41,F,Huacachina,Cusco,2024-12-29,1,3085.02,Auto
+V0753,Ecuador,53,M,Cañón del Colca,Puno,2025-08-19,4,3554.04,Tren
+V0754,Argentina,69,M,Machu Picchu,Cusco,2025-09-19,9,3183.37,NA
+V0755,Chile,51,M,Cañón del Colca,Ica,2025-07-31,1,2756.53,Auto
+V0756,Colombia,34,F,Machu Picchu,Puno,2024-10-23,9,4283.34,
+V0757,México,20,M,Líneas de Nazca,Puno,2025-03-02,8,3000.61,Tren
+V0758,EE.UU.,50,M,Cañón del Colca,Arequipa,2025-06-29,2,1217.61,Avión
+V0759,Chile,44,M,Chan Chan,Puno,2025-10-14,10,4678.82,Auto
+V0760,Colombia,24,M,Machu Picchu,Cusco,2024-12-05,9,1344.82,NA
+V0761,Perú,23,M,Machu Picchu,Ica,2024-10-17,5,2601.74,Auto
+V0762,Perú,45,M,Chan Chan,Puno,2025-01-18,10,518.83,Avión
+V0763,México,63,M,Huacachina,Puno,2025-05-08,1,1829.42,NA
+V0764,Colombia,70,M,Chan Chan,Arequipa,2024-11-13,7,765.83,Auto
+V0765,Colombia,55,F,Lago Titicaca,La Libertad,2024-12-23,7,2460.68,Avión
+V0766,EE.UU.,57,M,Huacachina,La Libertad,2025-06-10,2,964.83,Bus
+V0767,Colombia,42,F,Cañón del Colca,Arequipa,2024-10-27,3,1573.01,Avión
+V0768,Ecuador,27,M,Líneas de Nazca,La Libertad,2025-07-30,7,606.73,Tren
+V0769,México,34,F,Chan Chan,La Libertad,2025-02-10,2,3061.6,
+V0770,EE.UU.,45,M,Machu Picchu,Cusco,2025-07-18,4,4796.11,Bus
+V0771,EE.UU.,52,F,Huacachina,Cusco,2024-12-11,8,2535.29,
+V0772,México,30,M,Machu Picchu,Cusco,2025-04-16,1,3025.82,Bus
+V0773,México,55,M,Líneas de Nazca,Ica,2025-03-28,2,827.13,Auto
+V0774,Brasil,40,M,Huacachina,Cusco,2025-06-25,4,2922.99,
+V0775,Perú,31,M,Huacachina,Ica,2025-06-18,5,4344.14,NA
+V0776,Argentina,63,F,Chan Chan,Arequipa,2025-07-23,7,3425.18,Auto
+V0777,México,65,F,Chan Chan,Cusco,2024-12-17,2,2818.88,Tren
+V0778,Perú,59,M,Líneas de Nazca,Puno,2025-01-17,1,4187.54,NA
+V0779,Colombia,37,M,Líneas de Nazca,Puno,2025-01-11,7,1498.38,Bus
+V0780,Colombia,21,M,Chan Chan,Ica,2025-08-26,9,951.45,Avión
+V0781,EE.UU.,62,M,Machu Picchu,Puno,2025-04-14,3,1481.07,Tren
+V0782,Chile,22,M,Líneas de Nazca,Ica,2024-11-19,1,4439.56,Tren
+V0783,EE.UU.,35,M,Líneas de Nazca,La Libertad,2024-12-12,9,2620.61,NA
+V0784,Chile,60,F,Chan Chan,Cusco,2025-04-09,1,2461.25,Avión
+V0785,EE.UU.,44,M,Machu Picchu,Ica,2024-11-29,2,3072.58,NA
+V0786,Brasil,20,F,Chan Chan,La Libertad,2025-05-28,1,3556.24,Tren
+V0787,México,19,M,Lago Titicaca,Puno,2024-12-03,9,1612.55,Bus
+V0788,EE.UU.,21,M,Huacachina,Arequipa,2025-07-28,5,3379.72,
+V0789,Chile,24,F,Cañón del Colca,Arequipa,2024-11-02,10,3263.89,Auto
+V0790,Argentina,37,M,Huacachina,La Libertad,2025-08-20,3,2909.75,NA
+V0791,EE.UU.,37,M,Cañón del Colca,Cusco,2025-01-20,3,3279.15,Auto
+V0792,Colombia,59,M,Huacachina,Ica,2025-05-02,10,2605.17,Avión
+V0793,Ecuador,43,F,Lago Titicaca,Puno,2025-03-14,6,3438.24,Avión
+V0794,Colombia,22,F,Líneas de Nazca,Ica,2024-12-27,7,4195.97,NA
+V0795,Ecuador,31,F,Huacachina,Ica,2025-06-13,2,355.46,NA
+V0796,Ecuador,25,M,Chan Chan,Ica,2025-03-17,9,1525.43,Avión
+V0797,Brasil,20,M,Lago Titicaca,Cusco,2025-02-15,8,2297.33,NA
+V0798,Perú,60,M,Machu Picchu,La Libertad,2024-12-03,1,4549.22,Tren
+V0799,Perú,38,F,Huacachina,Puno,2024-10-25,1,1311.38,Tren
+V0800,EE.UU.,33,M,Líneas de Nazca,Arequipa,2025-08-23,2,2478.88,
+V0801,Brasil,31,M,Líneas de Nazca,Ica,2024-11-08,7,2890.78,Avión
+V0802,Ecuador,18,F,Chan Chan,Arequipa,2025-04-25,10,2708.31,Bus
+V0803,EE.UU.,64,M,Cañón del Colca,Arequipa,2024-10-16,10,3136.24,
+V0804,Colombia,32,M,Huacachina,Puno,2024-12-20,4,4774.13,
+V0805,México,39,F,Chan Chan,Cusco,2025-01-22,2,3682.82,Auto
+V0806,Chile,34,F,Huacachina,Ica,2025-09-14,9,3855.8,Bus
+V0807,EE.UU.,56,F,Líneas de Nazca,Puno,2025-06-21,2,1562.91,
+V0808,Argentina,25,F,Cañón del Colca,La Libertad,2025-03-01,4,4688.74,Bus
+V0809,Ecuador,32,M,Líneas de Nazca,Arequipa,2025-10-09,6,1662.83,NA
+V0810,Perú,55,M,Huacachina,Cusco,2025-05-11,8,1921.91,
+V0811,México,53,F,Machu Picchu,Puno,2025-07-14,3,2469.55,Auto
+V0812,Colombia,49,F,Machu Picchu,Puno,2025-10-14,5,736.06,Avión
+V0813,Brasil,41,F,Líneas de Nazca,La Libertad,2025-04-07,1,3683.89,Bus
+V0814,Perú,42,M,Lago Titicaca,Arequipa,2024-12-25,7,3351.66,Auto
+V0815,Ecuador,62,F,Cañón del Colca,Puno,2024-11-23,4,4613.66,
+V0816,Argentina,48,M,Chan Chan,La Libertad,2025-01-28,9,1619.68,NA
+V0817,Ecuador,58,F,Machu Picchu,La Libertad,2025-09-03,7,3096.44,Bus
+V0818,Brasil,33,F,Huacachina,Arequipa,2025-07-26,8,4531.8,
+V0819,México,58,F,Cañón del Colca,Cusco,2025-02-21,8,4196.25,Auto
+V0820,Chile,57,F,Chan Chan,La Libertad,2025-01-28,10,892.51,NA
+V0821,Chile,47,F,Lago Titicaca,Ica,2025-07-01,8,4689.29,Tren
+V0822,Brasil,27,M,Machu Picchu,Cusco,2025-01-12,3,1364.44,
+V0823,EE.UU.,44,M,Líneas de Nazca,Ica,2025-09-10,7,4854.57,Bus
+V0824,EE.UU.,29,M,Cañón del Colca,La Libertad,2025-01-25,4,512.46,Tren
+V0825,Ecuador,32,M,Huacachina,Puno,2025-09-27,1,1414.58,Bus
+V0826,EE.UU.,67,M,Chan Chan,Arequipa,2025-01-05,8,3008.8,NA
+V0827,Ecuador,18,M,Cañón del Colca,La Libertad,2025-03-05,9,2323.93,Bus
+V0828,EE.UU.,41,M,Chan Chan,Arequipa,2025-03-15,2,2643.76,Tren
+V0829,EE.UU.,54,M,Lago Titicaca,Puno,2025-05-01,8,394.18,NA
+V0830,Perú,38,F,Huacachina,La Libertad,2025-06-13,3,1922.89,Tren
+V0831,México,45,F,Chan Chan,Arequipa,2025-07-04,3,1979.31,NA
+V0832,Chile,28,M,Cañón del Colca,Cusco,2025-04-22,4,775.56,Tren
+V0833,Chile,18,M,Machu Picchu,Arequipa,2025-04-08,1,4030.29,
+V0834,Chile,58,F,Huacachina,Arequipa,2025-03-30,2,3255.82,
+V0835,EE.UU.,42,M,Cañón del Colca,Ica,2025-06-05,1,3704.47,Bus
+V0836,México,33,M,Líneas de Nazca,Cusco,2025-04-09,8,2557.24,Bus
+V0837,Ecuador,67,M,Lago Titicaca,Ica,2025-03-18,5,2655.16,Auto
+V0838,EE.UU.,65,M,Líneas de Nazca,Arequipa,2025-09-18,3,617.19,Bus
+V0839,Argentina,54,M,Cañón del Colca,Cusco,2024-10-30,10,3516.46,Avión
+V0840,Ecuador,54,M,Huacachina,Arequipa,2024-12-22,4,1238.97,Avión
+V0841,EE.UU.,60,M,Líneas de Nazca,Cusco,2025-07-07,1,666.84,NA
+V0842,EE.UU.,63,F,Lago Titicaca,La Libertad,2025-09-08,9,4207.99,NA
+V0843,Brasil,46,M,Lago Titicaca,La Libertad,2025-09-13,10,4650.05,Auto
+V0844,EE.UU.,51,M,Lago Titicaca,Cusco,2025-03-05,6,4957.97,NA
+V0845,Colombia,35,F,Lago Titicaca,La Libertad,2025-03-09,7,3312.89,Avión
+V0846,EE.UU.,31,F,Huacachina,La Libertad,2025-02-22,5,4202.86,Tren
+V0847,Colombia,30,F,Chan Chan,Puno,2024-10-28,5,4607.52,Bus
+V0848,Ecuador,46,F,Lago Titicaca,Arequipa,2025-08-27,2,2748.32,NA
+V0849,Chile,59,M,Cañón del Colca,Cusco,2025-06-25,3,1621.11,
+V0850,Brasil,44,M,Machu Picchu,La Libertad,2025-08-16,6,2160.67,
+V0851,Ecuador,50,F,Lago Titicaca,Puno,2024-10-18,2,2524.09,
+V0852,EE.UU.,27,M,Chan Chan,Puno,2024-11-03,4,2401.85,Tren
+V0853,México,30,M,Lago Titicaca,La Libertad,2025-01-16,7,2910.78,Auto
+V0854,Brasil,31,M,Machu Picchu,Ica,2025-05-22,3,2768.89,Bus
+V0855,México,60,M,Chan Chan,Cusco,2025-05-21,7,2988.39,Bus
+V0856,Argentina,58,F,Líneas de Nazca,Ica,2025-03-23,3,1433.72,Tren
+V0857,Argentina,37,M,Machu Picchu,Cusco,2025-10-16,1,4493.08,NA
+V0858,Chile,19,M,Chan Chan,Ica,2025-08-11,6,593.86,Avión
+V0859,EE.UU.,45,M,Machu Picchu,Puno,2025-08-05,8,2992.43,Auto
+V0860,México,40,M,Lago Titicaca,La Libertad,2025-03-01,3,1264.79,Avión
+V0861,Chile,28,M,Cañón del Colca,La Libertad,2025-08-21,7,3194.51,NA
+V0862,Argentina,37,F,Líneas de Nazca,Puno,2024-12-05,5,3982.41,NA
+V0863,Colombia,57,F,Líneas de Nazca,Ica,2025-07-28,3,3619.1,Avión
+V0864,Ecuador,50,M,Líneas de Nazca,Ica,2025-04-20,2,4936.86,Avión
+V0865,México,41,M,Lago Titicaca,La Libertad,2024-11-26,9,3443.83,NA
+V0866,Argentina,29,F,Chan Chan,Ica,2025-07-19,2,485.47,Auto
+V0867,Argentina,61,F,Líneas de Nazca,La Libertad,2024-12-10,7,2648.48,NA
+V0868,Argentina,66,F,Cañón del Colca,Cusco,2025-09-18,7,2480.95,Auto
+V0869,Perú,22,F,Chan Chan,Arequipa,2025-06-30,5,2403.43,Auto
+V0870,Argentina,65,M,Machu Picchu,La Libertad,2025-01-20,8,1930.94,NA
+V0871,EE.UU.,59,M,Cañón del Colca,Arequipa,2025-01-06,6,2077.94,NA
+V0872,Argentina,35,F,Huacachina,Puno,2024-11-24,8,729.34,Auto
+V0873,Ecuador,22,M,Huacachina,Arequipa,2025-03-24,9,3908.42,Auto
+V0874,Brasil,22,M,Huacachina,Puno,2025-02-15,7,3426.77,Tren
+V0875,México,36,F,Machu Picchu,La Libertad,2025-08-09,3,941.39,
+V0876,Ecuador,30,M,Machu Picchu,Puno,2025-06-19,4,1248.22,Avión
+V0877,Argentina,29,F,Huacachina,Cusco,2025-01-27,7,3246.94,Avión
+V0878,EE.UU.,52,F,Huacachina,Cusco,2025-03-15,3,1680.75,Avión
+V0879,Ecuador,59,M,Chan Chan,Puno,2024-12-18,10,1990.79,
+V0880,Ecuador,52,F,Cañón del Colca,Puno,2025-03-02,7,3280.45,Tren
+V0881,Perú,50,M,Huacachina,Cusco,2025-09-07,3,569.58,Avión
+V0882,Brasil,49,M,Líneas de Nazca,Cusco,2025-03-26,2,2656.87,Tren
+V0883,Argentina,56,F,Líneas de Nazca,Cusco,2024-11-07,8,2871.69,Avión
+V0884,Perú,68,F,Machu Picchu,Arequipa,2025-03-08,5,3640.61,Tren
+V0885,Chile,25,F,Machu Picchu,Ica,2025-04-11,10,1526.07,
+V0886,Perú,20,M,Machu Picchu,La Libertad,2025-04-29,8,1124.41,
+V0887,Perú,60,F,Cañón del Colca,Puno,2025-07-15,4,2952.92,Bus
+V0888,Brasil,47,M,Lago Titicaca,Puno,2025-08-18,1,2812.19,Bus
+V0889,Chile,42,F,Chan Chan,Arequipa,2025-02-13,8,842.76,Auto
+V0890,Chile,57,M,Chan Chan,Arequipa,2025-02-17,3,3018.23,Bus
+V0891,Ecuador,60,F,Huacachina,Puno,2025-09-27,7,3580.92,Avión
+V0892,Argentina,65,F,Chan Chan,Puno,2025-08-13,4,1630.15,NA
+V0893,Ecuador,51,M,Líneas de Nazca,Ica,2025-07-12,10,4863.9,Bus
+V0894,Colombia,58,F,Chan Chan,Puno,2025-07-12,2,1267.5,Auto
+V0895,México,70,M,Huacachina,Arequipa,2024-11-16,1,2965.0,Avión
+V0896,Brasil,44,M,Huacachina,Arequipa,2025-04-28,2,4783.85,NA
+V0897,Brasil,30,M,Huacachina,Arequipa,2025-01-15,3,2715.14,NA
+V0898,EE.UU.,27,M,Lago Titicaca,Puno,2025-07-06,10,1843.48,Auto
+V0899,Brasil,35,M,Líneas de Nazca,La Libertad,2024-11-10,2,2245.73,
+V0900,EE.UU.,70,F,Chan Chan,La Libertad,2025-03-15,3,2216.76,Bus
+V0901,Colombia,50,M,Huacachina,Puno,2025-08-08,7,3241.87,Tren
+V0902,Brasil,48,F,Huacachina,Arequipa,2025-01-28,3,627.07,
+V0903,Argentina,44,M,Huacachina,Puno,2025-01-30,1,4141.55,Avión
+V0904,Colombia,69,F,Lago Titicaca,Cusco,2024-11-05,7,1223.35,Bus
+V0905,Brasil,42,F,Huacachina,Cusco,2025-09-22,9,2821.95,
+V0906,Perú,27,F,Líneas de Nazca,Cusco,2025-03-22,3,3903.77,Tren
+V0907,Ecuador,21,F,Líneas de Nazca,Arequipa,2025-08-10,9,577.39,
+V0908,Chile,46,M,Lago Titicaca,Puno,2025-09-11,9,3845.32,Bus
+V0909,Chile,28,M,Lago Titicaca,La Libertad,2025-07-18,1,3374.44,Auto
+V0910,Perú,26,M,Huacachina,Cusco,2025-05-10,8,421.24,
+V0911,Colombia,53,F,Líneas de Nazca,Puno,2024-11-19,2,4278.38,
+V0912,Colombia,49,F,Lago Titicaca,Arequipa,2024-12-25,2,2389.04,Bus
+V0913,Perú,26,M,Huacachina,Arequipa,2025-05-04,4,2528.61,Tren
+V0914,Brasil,55,F,Líneas de Nazca,Cusco,2025-01-28,9,1651.97,
+V0915,Colombia,31,M,Chan Chan,Cusco,2025-07-28,7,1653.88,Bus
+V0916,EE.UU.,21,F,Lago Titicaca,Ica,2025-02-14,9,2375.55,Avión
+V0917,Colombia,39,F,Cañón del Colca,Puno,2025-08-22,10,3600.54,Avión
+V0918,México,63,F,Líneas de Nazca,Arequipa,2025-09-07,4,3836.68,Avión
+V0919,Perú,24,F,Chan Chan,Arequipa,2025-05-02,9,4573.75,Bus
+V0920,Brasil,20,F,Huacachina,Ica,2025-04-07,5,720.44,Avión
+V0921,Brasil,28,M,Cañón del Colca,Cusco,2024-11-16,6,1129.63,Bus
+V0922,Chile,55,M,Líneas de Nazca,La Libertad,2025-01-04,4,2105.27,
+V0923,Perú,36,M,Cañón del Colca,Cusco,2024-11-30,2,2248.43,Tren
+V0924,México,31,F,Machu Picchu,Arequipa,2025-09-22,2,4968.33,Tren
+V0925,Colombia,65,M,Machu Picchu,Cusco,2025-04-11,3,1586.21,Avión
+V0926,Perú,34,M,Lago Titicaca,Puno,2025-02-16,1,3711.31,Bus
+V0927,EE.UU.,46,F,Cañón del Colca,La Libertad,2025-05-11,10,1929.36,Tren
+V0928,México,27,F,Lago Titicaca,Arequipa,2024-12-20,10,942.34,Bus
+V0929,EE.UU.,58,F,Lago Titicaca,Arequipa,2025-02-20,9,3434.45,NA
+V0930,Chile,28,F,Huacachina,Cusco,2025-08-23,6,1271.28,Bus
+V0931,EE.UU.,36,M,Huacachina,Puno,2024-12-03,2,1877.7,Auto
+V0932,Perú,20,F,Huacachina,Arequipa,2025-09-14,7,3224.95,Bus
+V0933,Argentina,49,F,Huacachina,Arequipa,2025-08-19,10,4469.87,Bus
+V0934,EE.UU.,69,M,Líneas de Nazca,La Libertad,2025-04-10,7,3982.11,Bus
+V0935,EE.UU.,53,M,Chan Chan,La Libertad,2025-06-11,7,1031.04,NA
+V0936,Chile,66,M,Cañón del Colca,Arequipa,2025-07-12,9,469.25,Bus
+V0937,Chile,57,M,Lago Titicaca,La Libertad,2024-12-23,6,1420.88,Tren
+V0938,Ecuador,28,M,Lago Titicaca,Arequipa,2025-03-14,2,2056.99,Bus
+V0939,Argentina,50,F,Líneas de Nazca,Ica,2024-12-18,8,3174.84,
+V0940,Chile,53,M,Huacachina,Arequipa,2024-10-24,9,1230.25,Avión
+V0941,Colombia,57,M,Machu Picchu,Puno,2025-02-02,3,723.0,Avión
+V0942,Brasil,47,M,Líneas de Nazca,Puno,2025-05-11,8,3350.25,Auto
+V0943,Ecuador,45,M,Lago Titicaca,Puno,2025-04-12,10,3037.24,Tren
+V0944,Colombia,59,F,Huacachina,Ica,2025-02-21,4,1438.21,NA
+V0945,Argentina,26,F,Huacachina,Cusco,2025-09-20,7,4668.19,
+V0946,México,65,F,Cañón del Colca,Ica,2024-10-25,10,3688.72,Avión
+V0947,Colombia,19,M,Chan Chan,Ica,2025-05-11,8,1481.52,NA
+V0948,México,67,F,Líneas de Nazca,Puno,2025-03-19,9,2211.0,Avión
+V0949,México,50,M,Cañón del Colca,Puno,2025-06-20,5,2479.48,NA
+V0950,Argentina,48,F,Cañón del Colca,Cusco,2025-08-04,10,1186.58,NA
+V0951,Perú,56,F,Huacachina,Arequipa,2024-11-30,10,792.01,NA
+V0952,Colombia,42,F,Líneas de Nazca,Cusco,2024-12-01,4,4489.53,Avión
+V0953,Brasil,36,M,Huacachina,Cusco,2025-06-01,1,370.92,NA
+V0954,Argentina,54,M,Cañón del Colca,Cusco,2025-06-03,1,564.34,Auto
+V0955,Perú,32,F,Machu Picchu,Puno,2025-01-13,1,3458.13,Bus
+V0956,Brasil,66,M,Huacachina,Arequipa,2025-06-11,10,3307.15,NA
+V0957,Ecuador,54,F,Huacachina,Ica,2025-02-01,6,1858.07,NA
+V0958,Chile,55,M,Machu Picchu,Cusco,2025-01-17,7,1263.7,
+V0959,Perú,64,F,Chan Chan,Puno,2025-08-20,1,1590.67,Bus
+V0960,Perú,54,F,Chan Chan,Ica,2025-08-12,8,4198.95,Tren
+V0961,Argentina,52,M,Cañón del Colca,Arequipa,2024-11-30,3,2283.69,Avión
+V0962,EE.UU.,29,M,Chan Chan,Puno,2024-12-14,1,4299.34,
+V0963,Ecuador,47,F,Chan Chan,Arequipa,2025-01-25,7,2747.34,Avión
+V0964,Chile,38,M,Chan Chan,Cusco,2025-10-08,5,1320.81,Tren
+V0965,México,44,M,Lago Titicaca,Ica,2025-05-09,5,315.08,NA
+V0966,Perú,36,F,Chan Chan,Ica,2025-04-09,3,1244.5,Tren
+V0967,Chile,64,F,Cañón del Colca,Cusco,2025-03-21,7,1896.39,Bus
+V0968,México,22,M,Lago Titicaca,Cusco,2025-02-24,9,4830.52,Avión
+V0969,EE.UU.,33,M,Chan Chan,La Libertad,2024-12-23,5,2476.42,Bus
+V0970,Perú,47,F,Cañón del Colca,Arequipa,2025-09-27,3,3299.9,Auto
+V0971,México,43,M,Lago Titicaca,Puno,2025-07-26,6,1007.84,Bus
+V0972,Brasil,34,F,Líneas de Nazca,Puno,2024-12-11,8,3909.81,Avión
+V0973,Ecuador,62,M,Líneas de Nazca,Cusco,2025-02-10,8,3793.37,NA
+V0974,Chile,68,M,Chan Chan,La Libertad,2025-10-09,2,2745.12,NA
+V0975,Argentina,48,M,Cañón del Colca,Ica,2024-10-18,9,2024.95,Avión
+V0976,Perú,66,M,Huacachina,Cusco,2025-09-09,4,1736.1,NA
+V0977,Argentina,38,M,Huacachina,Puno,2025-01-20,5,3270.61,Auto
+V0978,Colombia,40,F,Huacachina,Cusco,2025-07-01,9,1077.3,Bus
+V0979,México,52,M,Cañón del Colca,Arequipa,2025-08-27,6,3195.75,Bus
+V0980,Perú,28,M,Lago Titicaca,Puno,2024-11-03,9,887.02,Bus
+V0981,México,22,M,Líneas de Nazca,Arequipa,2024-11-04,3,4566.29,Tren
+V0982,Chile,51,F,Machu Picchu,La Libertad,2024-11-19,2,4086.21,Auto
+V0983,Ecuador,39,F,Machu Picchu,Arequipa,2025-09-05,9,3030.48,Avión
+V0984,Perú,67,M,Lago Titicaca,Arequipa,2025-09-02,9,1017.43,Auto
+V0985,Ecuador,67,F,Chan Chan,Cusco,2025-02-21,3,4719.58,Auto
+V0986,Brasil,36,M,Machu Picchu,Arequipa,2025-01-29,3,2838.16,Avión
+V0987,EE.UU.,26,F,Huacachina,Cusco,2024-11-19,9,1168.39,Bus
+V0988,Ecuador,28,M,Chan Chan,Ica,2025-09-06,9,4433.18,Bus
+V0989,EE.UU.,39,F,Cañón del Colca,Puno,2024-10-24,4,4515.02,
+V0990,Brasil,69,M,Huacachina,Ica,2025-04-11,4,4356.06,Bus
+V0991,Brasil,29,M,Machu Picchu,Arequipa,2025-02-23,7,2959.52,Tren
+V0992,Colombia,56,F,Cañón del Colca,Cusco,2025-01-27,6,2900.81,
+V0993,México,63,M,Líneas de Nazca,Cusco,2025-10-05,10,4343.4,Avión
+V0994,Argentina,32,M,Lago Titicaca,Arequipa,2025-02-08,6,3739.85,Bus
+V0995,Chile,60,F,Líneas de Nazca,Puno,2025-07-13,8,718.08,Auto
+V0996,Perú,19,F,Lago Titicaca,La Libertad,2024-12-30,9,3903.6,Auto
+V0997,EE.UU.,31,M,Líneas de Nazca,Arequipa,2025-05-09,1,1135.58,NA
+V0998,Colombia,31,F,Líneas de Nazca,Puno,2025-05-19,7,728.38,Tren
+V0999,Brasil,47,F,Cañón del Colca,La Libertad,2025-02-27,10,3463.51,Auto
+V1000,EE.UU.,41,M,Huacachina,Cusco,2025-05-10,1,4884.56,Bus
+V1001,EE.UU.,39,M,Huacachina,Arequipa,2025-01-27,7,2338.89,Bus
+V1002,Ecuador,69,M,Cañón del Colca,Cusco,2025-06-30,6,3426.53,Tren
+V1003,Argentina,61,M,Chan Chan,Ica,2025-07-09,8,2175.74,Auto
+V1004,EE.UU.,21,F,Cañón del Colca,Puno,2025-04-21,7,390.43,
+V1005,Perú,22,M,Líneas de Nazca,Puno,2025-06-13,6,2952.47,Tren
+V1006,Chile,28,M,Líneas de Nazca,Ica,2025-07-30,4,3451.46,Tren
+V1007,Colombia,57,F,Líneas de Nazca,Puno,2025-09-25,3,1940.52,Auto
+V1008,Ecuador,69,F,Machu Picchu,Puno,2025-09-01,5,525.36,NA
+V1009,EE.UU.,22,M,Machu Picchu,La Libertad,2025-09-19,10,3489.84,Bus
+V1010,México,44,M,Huacachina,Cusco,2025-05-02,4,4634.58,
+V1011,Perú,64,M,Chan Chan,Puno,2025-02-23,9,1360.35,Tren
+V1012,Chile,49,M,Líneas de Nazca,La Libertad,2024-12-03,1,2182.66,NA
+V1013,Perú,36,M,Cañón del Colca,Arequipa,2024-11-22,8,1037.43,Bus
+V1014,México,39,F,Machu Picchu,La Libertad,2025-01-16,7,3279.07,Bus
+V1015,Argentina,44,M,Cañón del Colca,Puno,2025-05-07,8,4535.78,NA
+V1016,Perú,68,F,Machu Picchu,Ica,2025-02-03,7,2275.68,
+V1017,Ecuador,61,F,Lago Titicaca,Arequipa,2024-12-29,3,3687.07,
+V1018,México,33,M,Huacachina,La Libertad,2025-03-17,4,1183.8,Avión
+V1019,Colombia,36,F,Machu Picchu,Cusco,2025-04-18,6,2305.81,Avión
+V1020,Brasil,23,M,Machu Picchu,La Libertad,2025-01-24,4,2529.28,
+V1021,México,61,M,Cañón del Colca,Ica,2024-10-18,1,1965.62,Auto
+V1022,Colombia,60,F,Cañón del Colca,Ica,2024-11-04,1,2151.96,Auto
+V1023,Colombia,36,F,Líneas de Nazca,Cusco,2025-02-19,10,4708.06,Auto
+V1024,EE.UU.,67,F,Machu Picchu,Arequipa,2025-10-10,1,4617.84,Avión
+V1025,Colombia,45,F,Huacachina,Puno,2024-12-10,8,4886.06,
+V1026,Argentina,46,M,Líneas de Nazca,Puno,2025-09-07,1,4557.71,NA
+V1027,Perú,37,M,Machu Picchu,Arequipa,2025-06-08,9,2740.49,Auto
+V1028,Chile,59,M,Chan Chan,Arequipa,2025-06-16,7,4989.49,Bus
+V1029,Chile,56,M,Lago Titicaca,La Libertad,2025-05-06,6,4821.98,Avión
+V1030,Brasil,27,M,Huacachina,Arequipa,2025-08-09,10,740.16,NA
+V1031,Brasil,42,F,Cañón del Colca,Ica,2025-06-24,1,2160.68,Tren
+V1032,México,35,M,Cañón del Colca,Arequipa,2025-04-22,4,4696.63,Tren
+V1033,México,35,F,Chan Chan,Arequipa,2025-02-21,5,4574.73,Auto
+V1034,Ecuador,41,F,Cañón del Colca,La Libertad,2024-12-03,1,4575.47,Avión
+V1035,Chile,48,F,Machu Picchu,Cusco,2025-02-25,1,1793.71,NA
+V1036,Brasil,32,M,Líneas de Nazca,Cusco,2025-03-26,7,4669.19,Bus
+V1037,Ecuador,69,F,Lago Titicaca,Arequipa,2025-01-20,9,1520.98,Bus
+V1038,Ecuador,38,F,Lago Titicaca,Puno,2024-11-11,4,4395.69,
+V1039,Brasil,35,F,Machu Picchu,Cusco,2025-04-07,2,2855.12,Auto
+V1040,Argentina,41,M,Huacachina,Arequipa,2024-11-02,9,1222.66,Avión
+V1041,Brasil,58,M,Chan Chan,Puno,2025-10-02,2,4628.52,
+V1042,Ecuador,49,M,Cañón del Colca,Arequipa,2025-05-19,9,2592.11,Auto
+V1043,Chile,61,M,Machu Picchu,Arequipa,2025-04-05,4,3971.44,Tren
+V1044,Argentina,65,F,Líneas de Nazca,Arequipa,2024-10-28,7,2294.93,NA
+V1045,Colombia,43,M,Lago Titicaca,Puno,2025-01-27,6,3846.47,Auto
+V1046,Brasil,70,F,Líneas de Nazca,La Libertad,2025-01-04,7,1607.58,
+V1047,Colombia,31,M,Chan Chan,Arequipa,2025-04-20,5,3115.15,NA
+V1048,México,21,F,Machu Picchu,Puno,2025-06-23,3,4747.37,
+V1049,Argentina,65,M,Chan Chan,Ica,2024-11-17,8,3111.57,
+V1050,Colombia,31,M,Cañón del Colca,Arequipa,2025-01-01,7,3779.97,Tren
+V1051,Argentina,50,M,Chan Chan,La Libertad,2024-12-01,1,4518.5,Auto
+V1052,Colombia,66,F,Lago Titicaca,Puno,2024-10-20,7,3569.06,Auto
+V1053,Ecuador,33,M,Huacachina,Ica,2025-04-05,7,1590.09,Bus
+V1054,Chile,68,M,Lago Titicaca,Ica,2025-06-06,8,2923.12,NA
+V1055,Perú,31,M,Lago Titicaca,Ica,2025-01-01,4,727.12,Auto
+V1056,EE.UU.,58,F,Chan Chan,Arequipa,2025-08-07,9,638.47,
+V1057,Colombia,63,M,Chan Chan,Ica,2025-06-09,6,2731.84,Auto
+V1058,Argentina,30,F,Lago Titicaca,Arequipa,2025-10-05,3,362.61,Auto
+V1059,EE.UU.,35,F,Líneas de Nazca,Arequipa,2025-08-22,7,2866.58,Tren
+V1060,Brasil,41,F,Chan Chan,Puno,2025-06-27,8,3330.08,NA
+V1061,México,65,M,Lago Titicaca,La Libertad,2025-02-19,3,1509.42,Tren
+V1062,Perú,24,F,Lago Titicaca,Ica,2025-01-16,5,2340.29,Auto
+V1063,EE.UU.,55,M,Chan Chan,Puno,2025-07-20,4,2764.78,
+V1064,Colombia,42,F,Lago Titicaca,Cusco,2025-01-11,9,746.68,NA
+V1065,México,43,F,Machu Picchu,Ica,2025-04-24,6,602.96,Bus
+V1066,Brasil,45,F,Chan Chan,Cusco,2025-02-02,3,301.17,Bus
+V1067,Colombia,34,M,Cañón del Colca,Arequipa,2025-01-16,8,1279.25,Bus
+V1068,EE.UU.,53,F,Chan Chan,Arequipa,2025-08-03,1,1841.09,Auto
+V1069,Colombia,19,M,Líneas de Nazca,Ica,2025-07-16,3,4704.7,Auto
+V1070,México,36,F,Machu Picchu,Arequipa,2024-11-13,1,1052.25,Avión
+V1071,Ecuador,53,M,Machu Picchu,Cusco,2025-09-24,5,2775.88,NA
+V1072,EE.UU.,33,M,Huacachina,La Libertad,2025-06-09,2,1439.74,NA
+V1073,Colombia,23,M,Machu Picchu,Puno,2025-05-17,3,4271.64,Auto
+V1074,Colombia,25,F,Huacachina,Ica,2024-12-20,9,4227.44,NA
+V1075,Colombia,65,M,Cañón del Colca,Puno,2025-06-23,7,3048.82,Bus
+V1076,Perú,60,F,Machu Picchu,Cusco,2025-04-09,7,2927.04,Avión
+V1077,Brasil,35,M,Huacachina,La Libertad,2025-08-29,7,4020.51,
+V1078,Chile,33,M,Machu Picchu,La Libertad,2025-04-30,1,1642.28,Bus
+V1079,Chile,60,M,Lago Titicaca,Ica,2024-11-05,8,1136.02,
+V1080,Perú,39,M,Machu Picchu,Ica,2025-10-10,6,778.15,Auto
+V1081,Chile,24,M,Chan Chan,La Libertad,2025-09-04,7,1372.04,Bus
+V1082,Perú,21,F,Lago Titicaca,La Libertad,2025-05-19,8,434.18,Auto
+V1083,Ecuador,57,M,Machu Picchu,Ica,2024-11-17,6,4080.68,
+V1084,EE.UU.,33,F,Lago Titicaca,Puno,2025-06-23,6,2984.77,NA
+V1085,Brasil,68,M,Machu Picchu,La Libertad,2024-11-20,6,2145.84,Tren
+V1086,Colombia,47,F,Huacachina,Ica,2024-10-28,7,4882.84,Tren
+V1087,México,40,F,Cañón del Colca,Arequipa,2025-08-22,10,3098.4,Auto
+V1088,Chile,66,F,Machu Picchu,Arequipa,2025-08-31,5,3748.14,Auto
+V1089,Argentina,61,M,Líneas de Nazca,Cusco,2025-05-21,8,836.21,Bus
+V1090,Colombia,62,M,Cañón del Colca,La Libertad,2024-11-30,10,4312.63,Avión
+V1091,Colombia,20,F,Cañón del Colca,Puno,2024-11-01,8,2266.98,NA
+V1092,Ecuador,21,F,Líneas de Nazca,Cusco,2025-08-13,4,1642.87,Avión
+V1093,Colombia,20,M,Cañón del Colca,Puno,2024-12-05,6,1492.38,
+V1094,México,56,M,Líneas de Nazca,La Libertad,2025-02-19,9,1917.35,Auto
+V1095,México,42,M,Líneas de Nazca,Ica,2025-04-30,5,1623.77,Auto
+V1096,Colombia,25,M,Líneas de Nazca,Ica,2024-12-27,8,3147.73,Avión
+V1097,México,38,F,Machu Picchu,Arequipa,2024-10-16,1,2779.07,Auto
+V1098,México,62,F,Lago Titicaca,Ica,2024-11-04,3,1023.73,Bus
+V1099,EE.UU.,47,M,Lago Titicaca,Arequipa,2025-05-11,7,4712.37,Avión
+V1100,Brasil,70,F,Cañón del Colca,Arequipa,2025-07-05,5,4814.45,NA
+V1101,EE.UU.,41,M,Machu Picchu,Arequipa,2025-07-31,5,2802.24,NA
+V1102,Colombia,52,M,Lago Titicaca,La Libertad,2025-08-28,4,2021.07,
+V1103,Colombia,25,M,Lago Titicaca,Ica,2025-03-09,9,3742.72,Avión
+V1104,Brasil,40,F,Huacachina,Cusco,2025-05-20,5,1411.02,
+V1105,Chile,70,M,Cañón del Colca,Puno,2024-10-31,5,3760.89,Tren
+V1106,México,30,F,Huacachina,Cusco,2024-12-11,2,2915.28,NA
+V1107,México,52,M,Machu Picchu,Cusco,2024-12-24,3,4078.46,Tren
+V1108,Ecuador,33,M,Huacachina,Cusco,2025-06-21,10,1047.72,Tren
+V1109,Perú,70,F,Chan Chan,Arequipa,2025-02-15,3,4760.33,Auto
+V1110,Argentina,48,F,Machu Picchu,Puno,2025-06-04,7,824.47,Auto
+V1111,Colombia,42,F,Machu Picchu,La Libertad,2025-07-07,7,3251.8,Tren
+V1112,Ecuador,50,M,Líneas de Nazca,Cusco,2024-12-22,5,4228.54,Tren
+V1113,México,60,M,Machu Picchu,Arequipa,2025-06-30,10,3569.35,NA
+V1114,Brasil,58,F,Huacachina,Arequipa,2025-08-19,9,2767.65,
+V1115,Perú,66,M,Lago Titicaca,Ica,2025-04-24,1,3999.37,Avión
+V1116,Colombia,39,F,Machu Picchu,Cusco,2025-02-27,8,1947.15,
+V1117,Colombia,39,M,Chan Chan,Ica,2025-06-16,3,4809.59,
+V1118,Brasil,28,M,Cañón del Colca,Arequipa,2025-06-21,10,2641.12,
+V1119,Chile,54,M,Chan Chan,La Libertad,2024-10-26,9,3746.46,Tren
+V1120,Colombia,29,F,Huacachina,Puno,2025-04-04,3,1011.88,
+V1121,Chile,20,M,Cañón del Colca,Ica,2025-08-18,5,3841.29,NA
+V1122,México,46,F,Machu Picchu,Puno,2024-12-10,10,4446.41,Bus
+V1123,Colombia,53,M,Cañón del Colca,Puno,2025-07-27,4,2892.2,Avión
+V1124,EE.UU.,57,M,Lago Titicaca,Cusco,2024-12-21,10,2662.85,Bus
+V1125,Argentina,24,M,Huacachina,Puno,2025-01-15,9,1406.46,Tren
+V1126,Colombia,34,F,Machu Picchu,La Libertad,2025-04-09,10,4500.66,Bus
+V1127,Chile,57,F,Lago Titicaca,Ica,2025-08-06,10,2488.06,NA
+V1128,Colombia,25,F,Cañón del Colca,Cusco,2025-09-05,3,4023.81,Tren
+V1129,EE.UU.,61,F,Huacachina,Cusco,2024-12-02,5,1252.62,Auto
+V1130,Ecuador,32,M,Lago Titicaca,Cusco,2025-08-22,4,3247.31,Tren
+V1131,EE.UU.,52,M,Cañón del Colca,Arequipa,2025-05-24,3,4170.63,
+V1132,Chile,50,F,Cañón del Colca,Puno,2025-05-10,3,513.35,Bus
+V1133,Ecuador,67,M,Chan Chan,Ica,2024-12-21,6,2657.12,Auto
+V1134,México,62,M,Líneas de Nazca,La Libertad,2025-03-31,8,1150.03,NA
+V1135,Colombia,45,F,Líneas de Nazca,Ica,2025-01-14,4,4973.38,Auto
+V1136,Chile,42,F,Lago Titicaca,Ica,2025-04-05,2,1939.07,Auto
+V1137,Perú,63,M,Machu Picchu,Ica,2024-10-22,4,1977.92,Avión
+V1138,Brasil,48,F,Lago Titicaca,Puno,2025-07-01,2,2682.25,NA
+V1139,EE.UU.,69,F,Líneas de Nazca,Puno,2025-05-03,10,1345.87,NA
+V1140,Argentina,55,F,Chan Chan,La Libertad,2025-04-22,5,4665.19,Bus
+V1141,Ecuador,25,F,Machu Picchu,Puno,2025-05-21,6,2465.95,Avión
+V1142,Chile,37,F,Lago Titicaca,Cusco,2024-10-20,1,4150.79,
+V1143,México,18,F,Huacachina,Ica,2025-02-16,5,2517.22,
+V1144,México,60,M,Líneas de Nazca,Arequipa,2025-03-31,4,2888.65,
+V1145,Ecuador,63,M,Cañón del Colca,La Libertad,2025-05-20,2,4930.22,Auto
+V1146,Brasil,53,M,Cañón del Colca,Ica,2025-06-12,5,4106.21,
+V1147,Brasil,51,M,Lago Titicaca,Arequipa,2025-03-16,7,2171.5,Tren
+V1148,Brasil,66,F,Chan Chan,La Libertad,2025-03-22,1,4363.13,Tren
+V1149,Perú,49,M,Machu Picchu,Arequipa,2025-04-02,7,581.23,
+V1150,Chile,35,F,Lago Titicaca,Puno,2025-01-10,8,3032.16,Tren
+V1151,Ecuador,66,F,Cañón del Colca,Arequipa,2025-08-09,8,3921.39,
+V1152,Perú,43,F,Líneas de Nazca,Arequipa,2025-07-09,10,4427.25,Auto
+V1153,México,49,F,Chan Chan,Cusco,2025-06-04,1,4539.32,Auto
+V1154,Argentina,34,F,Cañón del Colca,La Libertad,2025-04-27,5,3804.12,NA
+V1155,Argentina,26,M,Huacachina,Puno,2025-08-14,6,3596.44,Bus
+V1156,México,69,M,Chan Chan,Cusco,2025-09-05,1,4764.8,Avión
+V1157,Argentina,56,M,Chan Chan,Puno,2025-01-15,5,1010.8,NA
+V1158,Argentina,66,M,Chan Chan,La Libertad,2025-06-08,1,733.4,Bus
+V1159,México,29,M,Chan Chan,Ica,2025-06-11,9,4895.1,NA
+V1160,Brasil,41,M,Líneas de Nazca,Puno,2025-01-07,5,1571.93,Bus
+V1161,Brasil,25,F,Lago Titicaca,Cusco,2025-03-26,6,1296.71,Auto
+V1162,Ecuador,59,F,Machu Picchu,Cusco,2025-06-01,2,2331.62,Avión
+V1163,Perú,45,F,Lago Titicaca,Cusco,2025-09-29,7,628.96,Tren
+V1164,Argentina,49,F,Huacachina,Arequipa,2024-11-19,5,2712.79,Auto
+V1165,Brasil,55,F,Lago Titicaca,Arequipa,2025-07-29,6,2912.94,Auto
+V1166,México,28,M,Cañón del Colca,Cusco,2025-06-17,9,1710.22,NA
+V1167,México,48,M,Cañón del Colca,Cusco,2025-05-22,2,2336.01,NA
+V1168,Chile,42,M,Lago Titicaca,Arequipa,2025-05-07,10,3772.7,Auto
+V1169,México,50,M,Líneas de Nazca,Ica,2024-11-22,9,816.86,
+V1170,EE.UU.,49,F,Cañón del Colca,La Libertad,2025-09-15,8,1660.94,
+V1171,Brasil,28,F,Huacachina,Puno,2025-08-18,6,3083.26,Auto
+V1172,México,68,F,Huacachina,Puno,2025-03-11,3,4935.23,Bus
+V1173,Argentina,18,F,Huacachina,Cusco,2025-06-22,2,3626.55,
+V1174,México,48,M,Chan Chan,Ica,2025-02-24,7,2212.33,
+V1175,Chile,30,F,Huacachina,Arequipa,2025-06-14,10,3994.53,Avión
+V1176,Ecuador,36,F,Líneas de Nazca,Cusco,2025-06-05,5,4522.78,
+V1177,Argentina,48,M,Cañón del Colca,Cusco,2024-10-19,3,4139.39,NA
+V1178,Ecuador,68,F,Líneas de Nazca,Ica,2025-04-23,3,4868.86,
+V1179,México,69,F,Cañón del Colca,Ica,2025-03-10,6,3347.33,Bus
+V1180,Brasil,53,F,Chan Chan,Arequipa,2025-10-14,9,4261.16,Avión
+V1181,Perú,41,M,Cañón del Colca,Cusco,2024-12-16,7,1389.1,
+V1182,Chile,52,F,Chan Chan,Arequipa,2025-06-22,5,744.18,Tren
+V1183,Argentina,24,F,Chan Chan,Arequipa,2025-01-03,3,4058.7,Avión
+V1184,EE.UU.,35,F,Chan Chan,Arequipa,2025-05-22,1,2664.95,Bus
+V1185,Ecuador,26,F,Chan Chan,Ica,2025-10-04,3,2523.65,Avión
+V1186,Argentina,22,M,Huacachina,Arequipa,2025-08-20,7,949.37,Bus
+V1187,Argentina,59,F,Cañón del Colca,Ica,2025-04-24,4,1506.23,Tren
+V1188,Perú,39,F,Líneas de Nazca,La Libertad,2025-06-14,4,1020.65,NA
+V1189,Argentina,26,M,Líneas de Nazca,Cusco,2025-05-05,10,2265.85,
+V1190,Colombia,47,M,Machu Picchu,Arequipa,2024-11-05,10,4120.31,Auto
+V1191,Colombia,37,M,Líneas de Nazca,Arequipa,2025-08-04,6,3378.8,
+V1192,Ecuador,28,F,Lago Titicaca,Arequipa,2024-11-21,8,1915.93,Auto
+V1193,Perú,19,M,Cañón del Colca,Puno,2025-03-31,8,1358.42,
+V1194,Colombia,45,F,Machu Picchu,Arequipa,2024-11-26,8,1350.8,Tren
+V1195,Brasil,62,F,Lago Titicaca,Arequipa,2025-03-24,5,3287.65,Tren
+V1196,EE.UU.,44,F,Líneas de Nazca,Puno,2025-09-25,7,4416.46,Bus
+V1197,México,30,M,Líneas de Nazca,Ica,2025-06-28,5,4119.43,
+V1198,Perú,66,F,Huacachina,Cusco,2025-09-03,5,815.33,
+V1199,México,20,M,Cañón del Colca,Puno,2025-09-22,3,4471.09,
+V1200,Ecuador,69,M,Chan Chan,La Libertad,2024-12-15,5,3158.71,
+V1201,México,42,M,Machu Picchu,La Libertad,2024-12-17,3,829.04,NA
+V1202,Brasil,34,M,Chan Chan,Ica,2025-07-06,10,4067.64,NA
+V1203,Colombia,36,F,Lago Titicaca,La Libertad,2025-03-26,8,1414.95,Bus
+V1204,Chile,49,F,Chan Chan,Arequipa,2025-10-06,1,3606.81,Avión
+V1205,Perú,51,F,Chan Chan,Ica,2025-03-10,2,3901.31,
+V1206,Colombia,30,M,Lago Titicaca,La Libertad,2025-06-26,1,3729.75,Tren
+V1207,Brasil,31,M,Huacachina,Cusco,2025-06-20,7,3856.48,Bus
+V1208,México,26,M,Huacachina,Puno,2025-08-06,2,1588.09,Auto
+V1209,Ecuador,47,F,Líneas de Nazca,Puno,2025-04-15,2,800.72,
+V1210,Argentina,68,F,Cañón del Colca,Arequipa,2024-11-05,3,3084.0,Avión
+V1211,Brasil,20,F,Chan Chan,Ica,2025-01-13,10,3953.25,NA
+V1212,Brasil,31,F,Lago Titicaca,Arequipa,2025-08-29,2,2837.48,Avión
+V1213,Brasil,18,F,Cañón del Colca,Arequipa,2025-05-17,6,4810.35,Auto
+V1214,Brasil,56,F,Machu Picchu,Ica,2025-10-07,8,2596.76,
+V1215,EE.UU.,26,F,Huacachina,Arequipa,2025-02-25,5,2562.15,
+V1216,Colombia,30,F,Chan Chan,Arequipa,2025-07-22,8,4359.31,Auto
+V1217,México,44,M,Chan Chan,Cusco,2025-06-24,7,4726.34,Tren
+V1218,Colombia,48,M,Cañón del Colca,Cusco,2024-11-04,4,1638.75,Bus
+V1219,México,44,M,Lago Titicaca,La Libertad,2025-02-22,1,3581.86,NA
+V1220,Brasil,23,F,Machu Picchu,Arequipa,2025-02-19,9,535.32,
+V1221,EE.UU.,36,F,Huacachina,La Libertad,2025-02-07,7,995.89,Tren
+V1222,Colombia,39,M,Lago Titicaca,Arequipa,2025-10-02,1,4611.75,Tren
+V1223,Ecuador,18,F,Machu Picchu,Ica,2025-04-11,2,3125.44,NA
+V1224,Perú,56,F,Líneas de Nazca,Cusco,2025-08-27,9,1885.4,
+V1225,Brasil,70,M,Lago Titicaca,Cusco,2024-11-01,6,2701.94,Avión
+V1226,EE.UU.,61,M,Machu Picchu,La Libertad,2024-12-14,6,727.47,Avión
+V1227,México,46,F,Machu Picchu,Cusco,2024-12-14,9,880.82,
+V1228,Argentina,60,M,Cañón del Colca,La Libertad,2025-09-16,7,3198.18,NA
+V1229,Chile,46,M,Chan Chan,Arequipa,2025-10-08,8,4407.23,Auto
+V1230,Colombia,31,F,Líneas de Nazca,Ica,2025-06-24,8,563.25,Tren
+V1231,Brasil,49,M,Cañón del Colca,Puno,2024-12-29,4,643.3,Tren
+V1232,Perú,67,M,Machu Picchu,Arequipa,2025-07-09,3,4008.48,
+V1233,EE.UU.,70,M,Cañón del Colca,Arequipa,2025-04-18,10,1644.88,Bus
+V1234,Chile,48,M,Lago Titicaca,La Libertad,2025-04-16,10,4558.78,Avión
+V1235,Argentina,28,M,Líneas de Nazca,Ica,2024-11-14,7,2127.95,
+V1236,Argentina,50,F,Huacachina,Ica,2025-05-21,5,2850.53,
+V1237,Perú,53,M,Machu Picchu,Cusco,2025-06-01,5,3576.55,Tren
+V1238,Perú,59,F,Cañón del Colca,Puno,2025-09-03,4,1217.21,Auto
+V1239,Colombia,52,M,Machu Picchu,La Libertad,2025-05-07,4,4772.86,Tren
+V1240,Brasil,19,M,Machu Picchu,Cusco,2025-04-07,7,3597.5,Tren
+V1241,EE.UU.,63,F,Cañón del Colca,Ica,2025-09-08,3,4888.46,Tren
+V1242,Ecuador,60,F,Lago Titicaca,Ica,2025-04-09,10,1071.71,NA
+V1243,Colombia,54,F,Cañón del Colca,Cusco,2025-05-17,4,2921.17,Avión
+V1244,Colombia,66,M,Líneas de Nazca,Arequipa,2025-07-02,9,3226.98,Avión
+V1245,Argentina,52,F,Cañón del Colca,La Libertad,2025-07-14,8,660.89,
+V1246,Chile,60,M,Machu Picchu,Arequipa,2024-11-05,2,3266.58,Auto
+V1247,Brasil,40,F,Lago Titicaca,Ica,2025-06-05,6,857.53,Avión
+V1248,Colombia,58,M,Líneas de Nazca,Ica,2025-09-27,2,4886.29,Auto
+V1249,Chile,41,M,Huacachina,La Libertad,2024-11-04,5,1449.62,Avión
+V1250,Colombia,54,M,Machu Picchu,Cusco,2025-03-16,1,4086.53,Tren
+V1251,EE.UU.,47,F,Líneas de Nazca,Cusco,2025-02-06,9,4854.67,
+V1252,Chile,69,F,Líneas de Nazca,Ica,2025-04-19,3,4232.88,NA
+V1253,EE.UU.,45,F,Líneas de Nazca,La Libertad,2024-11-27,3,991.12,
+V1254,Argentina,47,F,Huacachina,La Libertad,2025-08-15,6,1974.0,NA
+V1255,México,18,F,Cañón del Colca,Ica,2025-04-12,6,4632.63,Bus
+V1256,Colombia,18,F,Líneas de Nazca,Puno,2024-11-09,1,3830.77,Tren
+V1257,Ecuador,44,F,Chan Chan,Ica,2025-09-20,7,2427.42,NA
+V1258,EE.UU.,30,M,Líneas de Nazca,Arequipa,2025-01-11,1,4116.16,Tren
+V1259,Brasil,29,M,Huacachina,Ica,2025-03-30,3,2969.81,Bus
+V1260,Chile,61,F,Machu Picchu,Puno,2025-03-22,1,4993.18,
+V1261,Colombia,48,F,Cañón del Colca,Ica,2024-11-14,7,2004.07,Avión
+V1262,Chile,51,F,Huacachina,Ica,2024-12-16,10,3015.02,Tren
+V1263,México,35,M,Cañón del Colca,Ica,2024-11-03,1,2393.21,Tren
+V1264,Colombia,68,M,Huacachina,Ica,2025-02-06,6,1678.3,
+V1265,Chile,36,M,Cañón del Colca,Arequipa,2025-03-12,5,1336.31,Auto
+V1266,Colombia,36,F,Líneas de Nazca,Cusco,2025-09-29,7,3721.04,Auto
+V1267,Ecuador,43,M,Cañón del Colca,La Libertad,2024-10-16,3,4425.19,Auto
+V1268,México,67,M,Huacachina,Ica,2024-10-27,6,1424.61,Avión
+V1269,Colombia,46,M,Machu Picchu,Ica,2025-03-09,5,4644.81,Tren
+V1270,Argentina,65,M,Lago Titicaca,Arequipa,2024-12-31,2,4791.97,Auto
+V1271,Colombia,60,M,Huacachina,Arequipa,2025-04-05,5,4774.66,Auto
+V1272,EE.UU.,42,M,Lago Titicaca,Ica,2025-01-20,8,3523.5,Bus
+V1273,Colombia,56,M,Chan Chan,Ica,2024-12-30,9,3856.46,Tren
+V1274,Perú,21,M,Chan Chan,Puno,2025-08-25,8,1042.49,NA
+V1275,Chile,52,M,Machu Picchu,Arequipa,2025-04-13,6,3858.95,Avión
+V1276,Colombia,24,M,Lago Titicaca,La Libertad,2025-04-06,1,1747.22,Tren
+V1277,Chile,36,F,Chan Chan,Cusco,2025-07-27,10,1172.44,Tren
+V1278,Argentina,36,M,Machu Picchu,Ica,2025-09-11,2,3410.8,NA
+V1279,EE.UU.,24,F,Cañón del Colca,Ica,2025-01-13,7,1771.39,Bus
+V1280,Chile,39,F,Huacachina,Puno,2025-06-10,9,3252.73,NA
+V1281,Brasil,34,F,Chan Chan,Cusco,2025-05-29,9,934.22,Avión
+V1282,Chile,39,F,Cañón del Colca,Ica,2025-05-21,7,1705.91,Auto
+V1283,Perú,56,F,Huacachina,Ica,2025-06-01,9,2542.71,Avión
+V1284,EE.UU.,53,F,Chan Chan,Cusco,2024-11-13,4,1747.94,NA
+V1285,Chile,38,F,Machu Picchu,Ica,2024-11-05,9,1105.65,
+V1286,Colombia,40,M,Cañón del Colca,La Libertad,2025-08-14,8,2430.88,NA
+V1287,Colombia,57,F,Huacachina,Cusco,2025-04-02,5,3553.51,
+V1288,Argentina,46,M,Huacachina,La Libertad,2025-07-08,1,4411.43,Tren
+V1289,México,41,M,Cañón del Colca,La Libertad,2025-06-07,6,2489.29,Auto
+V1290,Colombia,58,F,Lago Titicaca,Puno,2025-05-09,5,3543.17,NA
+V1291,Brasil,68,F,Huacachina,La Libertad,2025-04-05,1,3525.5,Auto
+V1292,EE.UU.,34,M,Machu Picchu,Arequipa,2025-03-22,8,4357.68,NA
+V1293,Argentina,18,F,Líneas de Nazca,La Libertad,2025-04-25,8,4454.33,
+V1294,Brasil,42,M,Líneas de Nazca,La Libertad,2024-10-24,1,1807.19,
+V1295,México,47,M,Lago Titicaca,Ica,2025-08-10,7,2399.66,NA
+V1296,Ecuador,38,M,Cañón del Colca,La Libertad,2024-10-18,9,4672.22,NA
+V1297,México,65,F,Machu Picchu,Cusco,2025-09-24,5,3424.78,Bus
+V1298,Ecuador,26,F,Huacachina,Puno,2024-10-19,8,2573.13,NA
+V1299,México,61,M,Machu Picchu,Puno,2025-04-27,9,3747.26,Auto
+V1300,México,50,F,Cañón del Colca,Cusco,2025-06-08,7,4819.03,Auto
+V1301,Chile,25,F,Machu Picchu,Cusco,2025-01-04,2,4325.66,Auto
+V1302,Ecuador,46,M,Líneas de Nazca,Arequipa,2025-04-07,5,4691.87,Tren
+V1303,Argentina,32,M,Chan Chan,La Libertad,2025-09-20,2,657.87,
+V1304,Chile,59,M,Lago Titicaca,Cusco,2024-12-27,4,1251.16,NA
+V1305,Colombia,56,F,Machu Picchu,Cusco,2025-10-06,7,3375.7,Tren
+V1306,EE.UU.,36,M,Lago Titicaca,Puno,2025-08-20,10,4406.83,Auto
+V1307,Argentina,52,M,Machu Picchu,La Libertad,2025-04-18,1,2774.9,Tren
+V1308,Chile,31,M,Lago Titicaca,La Libertad,2025-04-11,2,3217.75,Tren
+V1309,Brasil,51,M,Líneas de Nazca,Cusco,2025-01-04,9,3392.35,Auto
+V1310,Chile,60,M,Cañón del Colca,Cusco,2025-08-16,5,609.76,Tren
+V1311,Brasil,55,F,Cañón del Colca,Arequipa,2025-02-08,6,2538.68,NA
+V1312,Argentina,26,F,Machu Picchu,Puno,2025-09-29,10,1653.9,Avión
+V1313,Colombia,39,M,Chan Chan,Arequipa,2025-09-26,4,1643.42,
+V1314,Colombia,59,M,Chan Chan,Cusco,2024-12-19,10,4147.71,Avión
+V1315,Perú,22,M,Lago Titicaca,Ica,2025-03-21,1,429.63,Auto
+V1316,México,26,M,Chan Chan,Ica,2024-11-05,4,4153.18,Auto
+V1317,Brasil,20,M,Lago Titicaca,Cusco,2025-02-10,4,4655.3,
+V1318,Argentina,66,M,Líneas de Nazca,Ica,2025-09-27,9,975.02,Avión
+V1319,Perú,18,F,Líneas de Nazca,Ica,2024-10-21,5,4046.66,Avión
+V1320,México,51,M,Huacachina,La Libertad,2025-05-27,5,4226.21,Auto
+V1321,Perú,54,M,Lago Titicaca,Ica,2025-03-13,3,2208.88,
+V1322,Ecuador,54,M,Chan Chan,Cusco,2024-11-27,3,2111.58,NA
+V1323,Chile,66,F,Huacachina,Ica,2025-03-04,6,3018.27,Tren
+V1324,Brasil,21,F,Lago Titicaca,Ica,2025-03-23,3,1257.82,Bus
+V1325,Argentina,26,M,Huacachina,Cusco,2025-08-02,7,1248.08,Bus
+V1326,Brasil,39,F,Machu Picchu,Puno,2025-09-05,4,4774.28,Bus
+V1327,EE.UU.,47,M,Machu Picchu,Puno,2024-10-28,6,3728.48,
+V1328,Brasil,52,F,Machu Picchu,Ica,2024-12-13,1,2244.2,Bus
+V1329,Ecuador,32,M,Cañón del Colca,Cusco,2024-12-12,1,1454.6,Bus
+V1330,Chile,28,F,Lago Titicaca,Arequipa,2025-08-07,2,3707.27,Avión
+V1331,Chile,35,M,Machu Picchu,Arequipa,2025-01-04,9,2377.6,NA
+V1332,Colombia,20,F,Machu Picchu,La Libertad,2025-07-01,2,1559.42,NA
+V1333,Ecuador,47,M,Machu Picchu,Cusco,2025-04-17,1,1717.71,Tren
+V1334,EE.UU.,37,F,Cañón del Colca,Arequipa,2025-04-27,4,1445.19,NA
+V1335,Chile,18,M,Machu Picchu,Cusco,2025-06-26,2,2056.17,Tren
+V1336,Brasil,39,F,Chan Chan,Ica,2024-12-09,4,4550.98,Avión
+V1337,Argentina,46,M,Lago Titicaca,Cusco,2025-03-02,1,3456.47,
+V1338,Ecuador,22,M,Machu Picchu,Cusco,2024-10-28,2,2046.55,Auto
+V1339,Argentina,62,F,Lago Titicaca,Puno,2025-05-28,9,3010.01,NA
+V1340,EE.UU.,52,F,Lago Titicaca,La Libertad,2025-06-07,1,896.33,Auto
+V1341,Colombia,51,F,Machu Picchu,Arequipa,2025-07-16,3,4416.91,Auto
+V1342,Brasil,50,F,Huacachina,Ica,2025-08-22,5,2715.01,NA
+V1343,Colombia,55,M,Huacachina,La Libertad,2025-05-18,1,4631.56,Auto
+V1344,Ecuador,67,F,Lago Titicaca,Ica,2025-04-12,4,4978.11,NA
+V1345,EE.UU.,40,F,Huacachina,Puno,2025-01-06,10,2771.4,Tren
+V1346,Ecuador,27,M,Líneas de Nazca,Cusco,2025-09-17,4,1802.77,Tren
+V1347,Ecuador,57,M,Líneas de Nazca,La Libertad,2025-03-06,10,4574.03,
+V1348,EE.UU.,33,F,Lago Titicaca,Cusco,2025-07-17,10,3072.23,Bus
+V1349,Chile,44,M,Cañón del Colca,Cusco,2025-08-21,1,4138.63,Auto
+V1350,Argentina,48,F,Chan Chan,Ica,2025-01-01,8,2923.91,Tren
+V1351,Argentina,49,F,Chan Chan,Puno,2025-09-29,6,3170.92,Tren
+V1352,Colombia,66,F,Huacachina,Puno,2024-11-14,10,4580.2,Bus
+V1353,Perú,55,F,Lago Titicaca,Puno,2025-04-29,6,1301.35,Avión
+V1354,EE.UU.,70,M,Lago Titicaca,Ica,2024-10-31,1,2065.0,Auto
+V1355,Colombia,61,M,Machu Picchu,Cusco,2025-09-17,4,3030.48,Auto
+V1356,Colombia,24,F,Líneas de Nazca,Cusco,2025-05-16,6,3723.61,NA
+V1357,Brasil,20,M,Líneas de Nazca,Puno,2025-02-10,7,2949.04,
+V1358,Brasil,26,M,Lago Titicaca,La Libertad,2025-04-07,3,824.49,NA
+V1359,Chile,50,F,Machu Picchu,Puno,2025-10-06,9,4657.35,
+V1360,EE.UU.,56,M,Huacachina,Arequipa,2025-08-25,3,4720.16,Tren
+V1361,Colombia,19,M,Líneas de Nazca,Ica,2025-02-18,1,3324.39,Tren
+V1362,Argentina,46,F,Huacachina,Ica,2024-11-26,6,2732.55,Bus
+V1363,Colombia,48,M,Cañón del Colca,Ica,2025-03-19,3,807.55,NA
+V1364,Colombia,50,M,Lago Titicaca,Arequipa,2025-04-16,3,850.23,Tren
+V1365,Brasil,25,F,Chan Chan,Arequipa,2025-08-26,8,594.62,NA
+V1366,Colombia,34,M,Lago Titicaca,Arequipa,2025-08-05,7,3856.6,Tren
+V1367,Perú,25,M,Lago Titicaca,Cusco,2024-12-10,5,543.45,
+V1368,Ecuador,64,F,Lago Titicaca,Arequipa,2025-05-14,3,1136.02,Auto
+V1369,EE.UU.,33,M,Lago Titicaca,Puno,2025-08-03,7,4909.35,
+V1370,Argentina,37,M,Lago Titicaca,Puno,2025-07-30,1,4454.4,Bus
+V1371,Perú,58,F,Lago Titicaca,Cusco,2025-09-16,1,3484.05,Avión
+V1372,Colombia,20,M,Cañón del Colca,Arequipa,2024-12-13,3,1273.25,Avión
+V1373,Brasil,19,M,Huacachina,Cusco,2025-09-19,1,1620.93,
+V1374,Perú,66,M,Machu Picchu,Ica,2025-02-26,4,4338.64,NA
+V1375,Ecuador,70,M,Cañón del Colca,Puno,2025-09-08,8,2164.85,Auto
+V1376,Brasil,22,F,Lago Titicaca,Ica,2025-10-04,2,1722.01,
+V1377,Chile,36,F,Líneas de Nazca,Puno,2024-12-14,10,2083.2,Bus
+V1378,Chile,41,M,Lago Titicaca,Ica,2025-09-02,5,1748.03,Avión
+V1379,Perú,41,M,Machu Picchu,Cusco,2025-06-13,2,1006.64,Tren
+V1380,Colombia,22,F,Machu Picchu,Ica,2025-04-23,2,3252.03,Tren
+V1381,Argentina,38,F,Lago Titicaca,Arequipa,2024-11-11,3,2500.66,Auto
+V1382,México,66,M,Huacachina,Puno,2025-05-22,4,1251.61,NA
+V1383,Colombia,39,F,Líneas de Nazca,La Libertad,2025-05-22,9,4434.76,Tren
+V1384,Argentina,47,F,Líneas de Nazca,Ica,2025-02-10,5,4028.62,Tren
+V1385,Ecuador,33,M,Cañón del Colca,La Libertad,2025-08-08,2,4851.24,NA
+V1386,Argentina,22,M,Chan Chan,Arequipa,2025-08-05,7,782.54,Tren
+V1387,EE.UU.,70,F,Cañón del Colca,La Libertad,2025-09-08,5,1127.26,Bus
+V1388,Perú,53,F,Cañón del Colca,La Libertad,2025-04-27,10,1701.21,
+V1389,Chile,47,F,Líneas de Nazca,Arequipa,2025-01-15,2,3040.06,Bus
+V1390,Brasil,25,F,Lago Titicaca,Arequipa,2025-06-10,10,1971.67,Auto
+V1391,EE.UU.,49,M,Huacachina,Puno,2025-07-21,3,2620.47,Avión
+V1392,Argentina,54,M,Chan Chan,Cusco,2025-01-06,3,4988.08,Auto
+V1393,Perú,33,F,Chan Chan,La Libertad,2024-11-08,6,4795.56,Tren
+V1394,Argentina,56,F,Chan Chan,Puno,2024-11-21,9,404.56,
+V1395,Argentina,44,F,Líneas de Nazca,Puno,2025-06-12,5,393.14,Avión
+V1396,EE.UU.,31,F,Machu Picchu,La Libertad,2025-01-20,5,4849.88,Auto
+V1397,Chile,61,M,Líneas de Nazca,Arequipa,2025-03-19,10,2537.73,Avión
+V1398,Perú,20,F,Líneas de Nazca,Puno,2024-12-07,4,799.66,Auto
+V1399,Perú,70,F,Huacachina,Puno,2025-08-26,7,2729.32,Bus
+V1400,Argentina,25,F,Machu Picchu,Ica,2025-09-05,6,555.29,NA
+V1401,EE.UU.,41,F,Huacachina,Arequipa,2025-06-21,1,4097.74,Avión
+V1402,EE.UU.,30,F,Cañón del Colca,La Libertad,2025-07-12,6,3230.42,NA
+V1403,Chile,29,M,Machu Picchu,Puno,2025-05-10,6,4918.38,Tren
+V1404,Chile,69,F,Machu Picchu,Ica,2025-06-04,10,1189.81,Auto
+V1405,Perú,65,F,Chan Chan,Ica,2025-04-20,7,4471.33,NA
+V1406,México,66,F,Huacachina,Ica,2025-08-14,6,1887.94,Tren
+V1407,México,23,F,Machu Picchu,La Libertad,2025-05-26,1,1624.75,
+V1408,Argentina,32,M,Huacachina,Cusco,2025-08-11,10,1732.35,
+V1409,México,69,M,Chan Chan,Cusco,2025-07-23,3,3431.46,
+V1410,EE.UU.,23,M,Lago Titicaca,Ica,2024-10-30,7,1234.85,Tren
+V1411,EE.UU.,37,F,Lago Titicaca,Cusco,2024-12-20,6,2864.94,Auto
+V1412,Perú,43,M,Cañón del Colca,Ica,2024-11-05,4,2662.31,Auto
+V1413,Chile,56,M,Huacachina,La Libertad,2025-09-22,8,4530.9,NA
+V1414,Chile,42,F,Cañón del Colca,Cusco,2025-09-15,3,2280.73,Tren
+V1415,Ecuador,27,M,Machu Picchu,Ica,2024-12-11,7,2572.87,Bus
+V1416,Colombia,54,F,Cañón del Colca,Ica,2025-01-14,5,890.57,NA
+V1417,Colombia,49,F,Cañón del Colca,Ica,2025-02-11,4,2052.47,Tren
+V1418,Argentina,66,M,Machu Picchu,La Libertad,2025-08-01,2,580.41,Bus
+V1419,EE.UU.,38,F,Machu Picchu,Cusco,2024-12-22,4,2740.61,Avión
+V1420,Chile,29,M,Huacachina,La Libertad,2025-06-12,2,1446.72,Tren
+V1421,Chile,33,M,Líneas de Nazca,Cusco,2025-03-14,5,1791.86,Tren
+V1422,Argentina,19,M,Cañón del Colca,Cusco,2025-04-27,7,4989.11,Bus
+V1423,EE.UU.,27,F,Huacachina,La Libertad,2025-05-07,3,1899.1,Tren
+V1424,Colombia,63,F,Cañón del Colca,Puno,2025-08-03,2,4050.02,Bus
+V1425,México,20,M,Cañón del Colca,Puno,2024-12-08,1,1440.69,NA
+V1426,EE.UU.,38,M,Líneas de Nazca,Ica,2025-08-26,1,1587.83,Bus
+V1427,Colombia,22,F,Cañón del Colca,Ica,2024-10-19,5,352.58,Tren
+V1428,Colombia,41,F,Líneas de Nazca,Puno,2024-11-13,9,1239.17,Auto
+V1429,Ecuador,43,M,Chan Chan,Ica,2025-06-20,6,2730.14,Bus
+V1430,Ecuador,29,M,Cañón del Colca,Puno,2025-05-08,5,4549.15,Auto
+V1431,Chile,20,M,Líneas de Nazca,Puno,2025-07-31,8,859.38,Bus
+V1432,México,22,F,Lago Titicaca,Ica,2025-05-09,2,840.12,Auto
+V1433,Ecuador,44,M,Chan Chan,Arequipa,2025-02-13,10,383.28,Avión
+V1434,Brasil,48,F,Lago Titicaca,Cusco,2024-12-07,4,4670.27,Auto
+V1435,Perú,22,F,Cañón del Colca,Cusco,2025-02-04,3,4202.29,Tren
+V1436,Perú,38,F,Machu Picchu,Puno,2025-07-13,1,1494.61,Tren
+V1437,Ecuador,38,F,Chan Chan,La Libertad,2025-10-07,8,2906.2,Tren
+V1438,Colombia,56,M,Chan Chan,La Libertad,2025-07-17,5,1933.02,Avión
+V1439,EE.UU.,33,M,Machu Picchu,Ica,2025-01-26,3,335.2,Bus
+V1440,Argentina,19,F,Machu Picchu,Cusco,2025-08-30,9,2356.24,Tren
+V1441,México,68,F,Cañón del Colca,Puno,2024-12-11,5,3608.19,Bus
+V1442,Brasil,18,M,Chan Chan,Ica,2025-09-06,9,4221.26,Avión
+V1443,Chile,33,F,Cañón del Colca,Puno,2024-11-06,10,4527.1,
+V1444,Brasil,55,M,Chan Chan,Ica,2025-03-12,5,1596.74,Avión
+V1445,EE.UU.,25,F,Líneas de Nazca,Puno,2025-09-08,9,1165.83,NA
+V1446,Chile,33,M,Huacachina,La Libertad,2025-02-05,9,1673.86,Avión
+V1447,Brasil,18,F,Cañón del Colca,Arequipa,2024-12-23,3,4865.71,
+V1448,Chile,46,F,Machu Picchu,Puno,2024-12-30,6,1036.17,NA
+V1449,Colombia,19,F,Lago Titicaca,La Libertad,2025-05-23,1,4864.99,Bus
+V1450,Brasil,56,M,Líneas de Nazca,Arequipa,2025-05-03,9,1158.94,Avión
+V1451,Chile,49,M,Cañón del Colca,Puno,2025-04-23,3,407.06,Tren
+V1452,Perú,70,M,Lago Titicaca,Cusco,2025-03-22,1,2858.95,Auto
+V1453,México,32,M,Líneas de Nazca,Ica,2025-09-12,5,324.92,Bus
+V1454,EE.UU.,40,F,Huacachina,Arequipa,2025-06-16,4,4683.62,
+V1455,Argentina,48,F,Chan Chan,Arequipa,2025-04-03,3,2549.06,Avión
+V1456,Chile,30,M,Líneas de Nazca,Arequipa,2025-06-15,3,1006.0,Auto
+V1457,Argentina,43,F,Cañón del Colca,Puno,2024-10-28,1,3800.87,Bus
+V1458,EE.UU.,63,M,Cañón del Colca,Cusco,2025-09-05,6,1764.49,Auto
+V1459,Brasil,19,F,Huacachina,Puno,2025-04-13,9,952.89,Avión
+V1460,Brasil,29,M,Huacachina,Ica,2024-12-12,3,4021.48,NA
+V1461,México,68,M,Huacachina,Ica,2025-09-08,4,3833.48,NA
+V1462,Chile,38,M,Lago Titicaca,Puno,2025-07-14,10,1214.43,Bus
+V1463,Ecuador,53,F,Cañón del Colca,Ica,2025-10-01,10,432.25,
+V1464,Perú,19,M,Lago Titicaca,Arequipa,2025-06-05,9,2773.53,NA
+V1465,México,30,F,Lago Titicaca,Cusco,2025-07-13,4,2763.79,NA
+V1466,Argentina,69,M,Machu Picchu,Puno,2025-05-13,6,4019.11,Avión
+V1467,México,23,F,Huacachina,Ica,2025-04-26,4,3072.29,Bus
+V1468,México,21,M,Huacachina,Ica,2025-04-29,6,4948.68,Avión
+V1469,Ecuador,69,M,Chan Chan,La Libertad,2024-11-14,10,3880.49,NA
+V1470,Brasil,62,M,Lago Titicaca,Cusco,2025-05-18,9,4653.93,
+V1471,EE.UU.,27,M,Líneas de Nazca,Arequipa,2025-06-07,4,2654.23,Bus
+V1472,Argentina,24,M,Líneas de Nazca,Puno,2025-06-16,8,2110.37,NA
+V1473,Ecuador,48,M,Lago Titicaca,Ica,2025-01-26,2,466.03,Bus
+V1474,Chile,60,M,Lago Titicaca,Ica,2025-04-24,3,4395.17,Auto
+V1475,Brasil,30,F,Cañón del Colca,Arequipa,2025-08-29,4,4286.52,NA
+V1476,Perú,58,F,Huacachina,La Libertad,2024-11-14,1,2580.45,Tren
+V1477,Argentina,59,M,Huacachina,Arequipa,2025-07-03,3,4371.69,NA
+V1478,EE.UU.,42,F,Líneas de Nazca,La Libertad,2025-04-11,1,610.24,Bus
+V1479,México,50,M,Lago Titicaca,La Libertad,2025-05-29,5,4484.3,NA
+V1480,México,18,F,Cañón del Colca,Ica,2025-03-15,2,4798.12,Avión
+V1481,Brasil,65,M,Lago Titicaca,Ica,2025-08-13,3,2420.58,Bus
+V1482,Ecuador,65,F,Machu Picchu,Puno,2025-01-12,6,4891.48,
+V1483,Colombia,55,F,Líneas de Nazca,Ica,2025-04-16,4,2289.4,NA
+V1484,Brasil,59,M,Líneas de Nazca,Cusco,2024-12-07,6,3594.6,
+V1485,Chile,33,M,Lago Titicaca,La Libertad,2024-11-20,2,3932.46,Avión
+V1486,Colombia,27,M,Lago Titicaca,Cusco,2025-01-01,9,2354.81,Bus
+V1487,Argentina,26,M,Machu Picchu,Cusco,2025-01-30,9,2347.18,Tren
+V1488,Ecuador,46,F,Cañón del Colca,Ica,2025-03-26,2,1119.37,NA
+V1489,EE.UU.,50,M,Líneas de Nazca,La Libertad,2024-11-29,6,3745.84,NA
+V1490,EE.UU.,60,M,Machu Picchu,Puno,2025-10-04,9,1023.53,Auto
+V1491,Chile,45,M,Machu Picchu,Puno,2025-08-11,10,2708.76,NA
+V1492,Colombia,38,F,Lago Titicaca,Arequipa,2025-02-02,10,4493.77,Tren
+V1493,EE.UU.,68,M,Huacachina,Ica,2025-02-02,3,4131.9,Bus
+V1494,Colombia,35,M,Lago Titicaca,Cusco,2025-08-03,1,1579.19,Tren
+V1495,EE.UU.,62,F,Cañón del Colca,Arequipa,2025-05-22,1,1172.54,NA
+V1496,México,47,M,Cañón del Colca,Ica,2025-04-09,5,1997.45,
+V1497,Argentina,21,F,Machu Picchu,Ica,2025-08-04,4,4769.08,NA
+V1498,Ecuador,23,F,Machu Picchu,Ica,2024-11-11,5,4868.62,NA
+V1499,Perú,39,F,Huacachina,Ica,2025-08-08,8,1925.2,Avión
+V1500,Colombia,20,F,Líneas de Nazca,Ica,2024-11-27,9,2843.95,NA
+V1501,Perú,47,F,Chan Chan,La Libertad,2025-04-20,8,1910.11,NA
+V1502,Ecuador,19,F,Chan Chan,Ica,2025-03-02,5,863.71,Avión
+V1503,Ecuador,45,F,Chan Chan,La Libertad,2024-10-29,9,1866.19,
+V1504,Perú,40,M,Chan Chan,Puno,2025-08-07,7,2929.92,Avión
+V1505,Brasil,45,F,Lago Titicaca,La Libertad,2024-10-29,5,1611.75,Auto
+V1506,Perú,27,F,Chan Chan,La Libertad,2025-06-17,7,2003.02,Avión
+V1507,Chile,30,F,Líneas de Nazca,Puno,2024-10-30,6,4167.87,Tren
+V1508,Ecuador,45,M,Machu Picchu,Cusco,2025-07-09,6,4207.59,Auto
+V1509,Perú,37,M,Huacachina,Cusco,2025-01-13,10,1425.91,Auto
+V1510,EE.UU.,48,M,Chan Chan,Cusco,2025-09-04,3,608.87,Bus
+V1511,Chile,41,M,Lago Titicaca,Arequipa,2025-10-09,3,1019.0,Bus
+V1512,Ecuador,29,M,Líneas de Nazca,Ica,2025-08-09,4,4931.49,
+V1513,Chile,27,F,Líneas de Nazca,Cusco,2025-01-29,10,4909.39,NA
+V1514,Perú,31,F,Lago Titicaca,La Libertad,2025-09-08,5,953.18,
+V1515,Ecuador,49,M,Machu Picchu,Puno,2025-09-28,1,2170.59,Tren
+V1516,México,53,F,Cañón del Colca,Puno,2025-03-26,4,4829.74,
+V1517,Perú,32,M,Cañón del Colca,Arequipa,2025-07-02,9,4698.82,Auto
+V1518,Brasil,61,M,Líneas de Nazca,La Libertad,2025-05-16,4,2914.2,Tren
+V1519,Perú,55,M,Lago Titicaca,Puno,2025-05-04,5,461.71,Tren
+V1520,Brasil,56,F,Lago Titicaca,La Libertad,2025-10-09,1,1098.14,Avión
+V1521,Colombia,20,F,Líneas de Nazca,La Libertad,2025-01-03,1,1586.27,Auto
+V1522,Ecuador,44,M,Lago Titicaca,Cusco,2024-12-25,5,4542.29,Tren
+V1523,Ecuador,37,F,Huacachina,Ica,2025-07-10,9,566.03,
+V1524,Chile,69,M,Machu Picchu,Ica,2024-12-27,2,2698.6,Auto
+V1525,México,38,F,Líneas de Nazca,Puno,2025-07-12,3,560.12,Bus
+V1526,Argentina,43,M,Líneas de Nazca,Puno,2025-02-28,4,2077.06,Bus
+V1527,México,64,M,Huacachina,Ica,2025-10-12,6,3745.12,Auto
+V1528,EE.UU.,46,M,Machu Picchu,La Libertad,2025-09-07,3,1378.39,Tren
+V1529,Ecuador,29,M,Cañón del Colca,Cusco,2025-10-07,4,852.06,Auto
+V1530,Perú,31,M,Cañón del Colca,Ica,2025-05-20,1,3804.16,NA
+V1531,EE.UU.,65,M,Líneas de Nazca,Arequipa,2025-05-14,9,4260.07,
+V1532,México,44,F,Machu Picchu,Puno,2025-03-06,7,880.3,NA
+V1533,Argentina,27,M,Lago Titicaca,La Libertad,2025-05-23,7,327.54,Tren
+V1534,México,50,M,Cañón del Colca,Puno,2025-08-07,5,1445.23,NA
+V1535,México,33,F,Huacachina,La Libertad,2025-10-05,3,363.48,Bus
+V1536,Ecuador,60,F,Cañón del Colca,Puno,2025-03-24,10,4345.44,NA
+V1537,Chile,51,F,Cañón del Colca,Puno,2024-12-04,9,3043.95,Avión
+V1538,Perú,28,F,Machu Picchu,Arequipa,2025-02-05,10,1322.39,Bus
+V1539,Chile,55,M,Líneas de Nazca,Puno,2024-12-08,2,3816.06,NA
+V1540,Perú,66,M,Huacachina,Puno,2024-10-27,1,3764.15,Bus
+V1541,EE.UU.,61,F,Huacachina,Cusco,2025-04-05,3,1126.52,
+V1542,EE.UU.,65,M,Machu Picchu,Cusco,2025-01-11,2,2853.42,
+V1543,EE.UU.,29,F,Cañón del Colca,Arequipa,2025-10-15,2,2882.76,Tren
+V1544,EE.UU.,42,F,Machu Picchu,Ica,2025-02-09,9,1269.64,Tren
+V1545,Chile,61,M,Huacachina,Arequipa,2025-01-29,10,460.54,NA
+V1546,México,37,M,Huacachina,Cusco,2025-04-24,10,4101.53,NA
+V1547,Chile,68,F,Chan Chan,Cusco,2025-01-06,4,2579.32,
+V1548,EE.UU.,28,F,Líneas de Nazca,La Libertad,2024-10-27,2,552.47,Tren
+V1549,Brasil,68,M,Chan Chan,Arequipa,2024-11-22,5,2920.31,Bus
+V1550,Chile,28,F,Líneas de Nazca,Cusco,2025-03-16,4,4585.1,
+V1551,Brasil,64,F,Huacachina,Puno,2024-12-16,3,2341.06,Tren
+V1552,Brasil,68,F,Chan Chan,Arequipa,2025-05-23,9,4275.08,Avión
+V1553,Perú,54,F,Chan Chan,Ica,2025-05-22,5,4941.65,NA
+V1554,México,28,F,Machu Picchu,Arequipa,2025-02-22,6,1852.46,Auto
+V1555,México,60,F,Machu Picchu,Arequipa,2025-06-02,1,2938.96,Auto
+V1556,Ecuador,35,F,Chan Chan,Ica,2025-10-02,9,3515.45,Avión
+V1557,Brasil,57,M,Lago Titicaca,Arequipa,2024-11-27,9,327.13,Tren
+V1558,México,56,M,Chan Chan,Cusco,2025-08-05,6,409.65,Tren
+V1559,EE.UU.,61,F,Chan Chan,Ica,2025-04-21,4,3046.85,Tren
+V1560,Brasil,36,M,Cañón del Colca,Arequipa,2025-01-03,2,1140.75,NA
+V1561,México,32,F,Cañón del Colca,Ica,2024-12-28,9,3613.47,Bus
+V1562,Colombia,59,M,Líneas de Nazca,Puno,2025-10-01,8,3595.52,NA
+V1563,México,60,F,Huacachina,Arequipa,2025-07-29,9,3882.29,Tren
+V1564,Ecuador,56,M,Chan Chan,Ica,2025-09-06,6,2218.59,Bus
+V1565,Chile,28,F,Machu Picchu,Cusco,2024-12-08,1,770.33,NA
+V1566,Chile,60,F,Chan Chan,La Libertad,2025-08-05,7,4713.83,
+V1567,Ecuador,50,M,Lago Titicaca,Cusco,2025-09-12,3,4164.37,Bus
+V1568,Colombia,70,M,Chan Chan,La Libertad,2025-08-08,9,1789.8,NA
+V1569,México,49,F,Lago Titicaca,Puno,2025-04-09,8,592.9,Avión
+V1570,Argentina,61,F,Cañón del Colca,Arequipa,2024-12-22,6,1145.87,Bus
+V1571,Argentina,30,F,Huacachina,La Libertad,2025-02-05,7,488.63,
+V1572,Brasil,42,M,Machu Picchu,Ica,2025-06-06,9,2790.46,Bus
+V1573,Colombia,48,F,Cañón del Colca,Ica,2025-05-11,3,4976.8,Auto
+V1574,Argentina,64,M,Chan Chan,La Libertad,2025-08-19,2,4353.75,
+V1575,Ecuador,47,F,Cañón del Colca,Puno,2025-08-06,3,3149.06,Tren
+V1576,Brasil,39,F,Líneas de Nazca,Ica,2025-04-07,4,3757.14,Bus
+V1577,Colombia,42,F,Machu Picchu,Arequipa,2024-11-17,8,440.04,NA
+V1578,Chile,49,M,Lago Titicaca,Cusco,2025-07-16,1,3082.82,Auto
+V1579,Brasil,30,F,Chan Chan,Cusco,2025-05-15,6,2034.77,Tren
+V1580,Chile,69,M,Cañón del Colca,Ica,2024-12-02,4,4458.64,Bus
+V1581,Perú,29,M,Cañón del Colca,Arequipa,2025-08-16,3,903.74,Tren
+V1582,EE.UU.,31,M,Machu Picchu,Arequipa,2025-04-10,4,1261.47,Avión
+V1583,Brasil,69,M,Cañón del Colca,La Libertad,2024-11-11,3,4716.22,Bus
+V1584,EE.UU.,55,F,Machu Picchu,Puno,2025-09-28,4,1393.12,NA
+V1585,Brasil,58,M,Machu Picchu,Cusco,2024-11-26,7,1996.8,
+V1586,Colombia,62,M,Huacachina,La Libertad,2025-05-16,4,824.24,
+V1587,Ecuador,54,F,Huacachina,La Libertad,2025-03-03,6,2427.56,Auto
+V1588,Perú,23,F,Chan Chan,La Libertad,2024-12-02,2,3762.67,Auto
+V1589,México,26,M,Cañón del Colca,Ica,2025-06-24,6,3408.32,
+V1590,Brasil,18,M,Machu Picchu,Arequipa,2025-08-17,8,1686.55,NA
+V1591,Perú,42,F,Lago Titicaca,Ica,2025-10-06,3,2219.79,Avión
+V1592,Perú,56,M,Chan Chan,Puno,2024-11-22,4,3408.95,Avión
+V1593,Ecuador,53,M,Chan Chan,Puno,2025-05-15,9,4663.39,Avión
+V1594,Chile,22,F,Chan Chan,Cusco,2025-06-30,10,2923.83,Auto
+V1595,Argentina,29,M,Líneas de Nazca,Arequipa,2024-11-08,8,1331.13,Auto
+V1596,Ecuador,31,M,Cañón del Colca,Ica,2024-12-19,3,4505.81,Bus
+V1597,EE.UU.,41,M,Líneas de Nazca,Arequipa,2024-11-11,2,2567.68,Auto
+V1598,Ecuador,33,M,Huacachina,Ica,2025-08-14,7,1102.42,Avión
+V1599,Colombia,53,F,Lago Titicaca,Ica,2025-06-21,9,1674.08,
+V1600,Perú,69,M,Líneas de Nazca,Arequipa,2024-12-09,2,3344.23,Avión
+V1601,Argentina,34,F,Chan Chan,Ica,2025-04-26,3,4359.25,
+V1602,Argentina,36,M,Machu Picchu,Cusco,2024-11-22,1,4825.94,
+V1603,Ecuador,49,F,Huacachina,La Libertad,2024-12-27,6,4766.48,
+V1604,Chile,31,M,Cañón del Colca,Puno,2024-12-23,10,1249.11,Bus
+V1605,Brasil,47,M,Lago Titicaca,Ica,2025-06-22,10,901.72,Tren
+V1606,Argentina,66,M,Cañón del Colca,La Libertad,2025-08-17,7,4239.13,Auto
+V1607,Argentina,36,M,Machu Picchu,Cusco,2025-02-01,1,3629.03,
+V1608,EE.UU.,40,M,Machu Picchu,Puno,2025-07-30,3,353.96,
+V1609,Colombia,65,M,Machu Picchu,Puno,2024-10-30,6,1983.51,Auto
+V1610,Argentina,29,M,Machu Picchu,Cusco,2025-05-17,3,4101.72,Tren
+V1611,Argentina,70,M,Chan Chan,Puno,2025-09-05,7,4169.83,Auto
+V1612,Ecuador,65,M,Cañón del Colca,Puno,2025-02-28,9,1889.79,Avión
+V1613,EE.UU.,50,F,Huacachina,Cusco,2025-03-27,9,4383.48,
+V1614,EE.UU.,19,M,Cañón del Colca,Ica,2025-05-29,1,4930.91,
+V1615,EE.UU.,37,F,Lago Titicaca,Ica,2025-08-21,4,4094.17,NA
+V1616,Brasil,60,M,Lago Titicaca,Arequipa,2025-02-08,1,1267.47,Avión
+V1617,Colombia,19,F,Chan Chan,Ica,2025-03-22,1,3032.69,NA
+V1618,Argentina,62,M,Líneas de Nazca,Cusco,2024-10-27,6,2785.87,Avión
+V1619,EE.UU.,51,F,Machu Picchu,Ica,2025-08-28,1,4767.65,
+V1620,Colombia,63,F,Chan Chan,Ica,2024-11-22,6,3531.61,NA
+V1621,Colombia,41,F,Chan Chan,Cusco,2025-09-23,7,3579.1,NA
+V1622,Perú,25,F,Chan Chan,Arequipa,2025-07-18,8,2542.59,Auto
+V1623,Chile,59,F,Chan Chan,Puno,2024-10-27,4,3268.77,Auto
+V1624,EE.UU.,41,M,Huacachina,La Libertad,2025-07-05,3,1617.32,NA
+V1625,Chile,22,F,Chan Chan,Puno,2024-11-15,6,4114.71,Bus
+V1626,EE.UU.,29,M,Lago Titicaca,Arequipa,2024-11-14,9,503.96,Bus
+V1627,Ecuador,38,F,Chan Chan,La Libertad,2025-02-09,8,3508.83,Bus
+V1628,México,31,F,Cañón del Colca,Arequipa,2025-03-17,1,3755.8,Tren
+V1629,Colombia,33,F,Huacachina,Ica,2025-09-11,6,3637.74,
+V1630,México,38,M,Machu Picchu,La Libertad,2024-10-31,7,4357.74,
+V1631,Perú,33,M,Cañón del Colca,Arequipa,2025-08-18,6,4898.33,NA
+V1632,Colombia,52,M,Lago Titicaca,Puno,2025-03-31,7,2449.62,
+V1633,EE.UU.,21,F,Machu Picchu,Cusco,2025-09-04,8,1872.4,Bus
+V1634,Argentina,65,M,Líneas de Nazca,La Libertad,2024-12-17,4,2039.79,Avión
+V1635,Colombia,18,M,Líneas de Nazca,Cusco,2025-07-21,8,3796.21,Avión
+V1636,Colombia,65,F,Lago Titicaca,Ica,2024-12-20,7,3426.14,Bus
+V1637,Perú,38,F,Líneas de Nazca,Arequipa,2025-06-13,6,1094.76,
+V1638,Perú,55,F,Cañón del Colca,Arequipa,2024-10-22,9,2704.11,
+V1639,Perú,26,F,Lago Titicaca,Arequipa,2025-01-24,2,4399.49,Avión
+V1640,Perú,35,F,Machu Picchu,Arequipa,2025-08-20,5,3900.08,Tren
+V1641,Chile,40,M,Huacachina,Cusco,2025-07-19,1,1769.31,NA
+V1642,México,31,F,Cañón del Colca,La Libertad,2024-12-20,10,1538.42,Bus
+V1643,Ecuador,45,M,Cañón del Colca,Cusco,2024-11-18,6,1765.85,Tren
+V1644,Ecuador,55,F,Líneas de Nazca,Puno,2024-10-18,9,627.69,Bus
+V1645,Colombia,23,F,Machu Picchu,La Libertad,2025-08-31,1,3170.15,
+V1646,Ecuador,66,F,Chan Chan,Arequipa,2025-08-08,4,2795.61,Auto
+V1647,EE.UU.,62,M,Huacachina,Arequipa,2025-07-18,10,1548.51,NA
+V1648,Perú,31,F,Líneas de Nazca,Puno,2025-05-19,8,1605.48,Tren
+V1649,Chile,23,F,Lago Titicaca,Ica,2024-12-21,7,3250.42,Auto
+V1650,Colombia,19,F,Lago Titicaca,Puno,2025-04-22,4,3754.78,Tren
+V1651,Brasil,67,M,Huacachina,Cusco,2025-08-19,2,1823.1,Avión
+V1652,México,52,F,Machu Picchu,Arequipa,2025-05-14,3,2034.17,Tren
+V1653,Colombia,27,F,Chan Chan,Puno,2025-06-23,2,3208.09,
+V1654,EE.UU.,54,M,Lago Titicaca,Cusco,2025-09-25,6,1170.97,Tren
+V1655,México,27,M,Chan Chan,Puno,2024-11-22,1,4419.22,Tren
+V1656,Argentina,65,F,Machu Picchu,Arequipa,2024-11-30,10,817.46,
+V1657,EE.UU.,44,M,Cañón del Colca,Cusco,2025-06-26,5,4134.45,Bus
+V1658,EE.UU.,44,M,Chan Chan,Arequipa,2025-04-27,9,2967.41,Bus
+V1659,Brasil,52,M,Huacachina,Ica,2025-10-03,8,896.07,
+V1660,EE.UU.,18,M,Machu Picchu,Arequipa,2025-05-15,7,1947.24,NA
+V1661,Ecuador,21,M,Chan Chan,Puno,2025-04-01,10,2018.03,NA
+V1662,EE.UU.,56,M,Lago Titicaca,Puno,2025-07-19,2,1930.86,Avión
+V1663,Colombia,70,F,Cañón del Colca,La Libertad,2024-10-20,3,599.38,Avión
+V1664,Chile,27,F,Machu Picchu,Ica,2024-11-08,7,1750.95,Bus
+V1665,Brasil,57,F,Chan Chan,Puno,2025-06-14,1,2393.65,Avión
+V1666,EE.UU.,51,M,Machu Picchu,Arequipa,2025-05-03,4,1033.22,NA
+V1667,Perú,52,F,Huacachina,La Libertad,2025-07-20,9,4151.55,
+V1668,Perú,29,M,Cañón del Colca,Arequipa,2025-07-03,8,4596.83,Tren
+V1669,Perú,37,F,Chan Chan,Puno,2025-07-08,7,900.82,
+V1670,Ecuador,57,M,Chan Chan,Arequipa,2025-03-08,7,4905.49,Tren
+V1671,Chile,21,M,Machu Picchu,La Libertad,2025-05-08,9,1077.36,
+V1672,Perú,54,M,Chan Chan,Cusco,2025-01-17,7,3638.8,NA
+V1673,México,58,F,Lago Titicaca,Puno,2025-02-14,9,336.93,Tren
+V1674,Argentina,38,M,Huacachina,La Libertad,2025-03-22,5,2729.25,Auto
+V1675,EE.UU.,68,F,Chan Chan,Ica,2025-09-20,10,4867.63,NA
+V1676,Ecuador,34,F,Lago Titicaca,Arequipa,2025-05-31,8,4588.67,Tren
+V1677,Argentina,60,F,Huacachina,La Libertad,2024-12-28,8,1346.34,Bus
+V1678,Argentina,65,F,Líneas de Nazca,Arequipa,2025-08-07,3,4483.07,Bus
+V1679,México,39,F,Lago Titicaca,Cusco,2024-11-10,2,2955.57,Bus
+V1680,Brasil,28,F,Huacachina,La Libertad,2025-02-09,4,3957.9,Avión
+V1681,Argentina,38,M,Lago Titicaca,La Libertad,2025-09-07,8,3474.58,
+V1682,Brasil,62,F,Líneas de Nazca,Arequipa,2025-02-13,9,4270.3,Tren
+V1683,Perú,45,F,Lago Titicaca,La Libertad,2024-12-11,7,4864.2,NA
+V1684,México,51,F,Cañón del Colca,Arequipa,2025-09-13,6,904.96,
+V1685,Brasil,55,F,Cañón del Colca,Cusco,2025-09-02,8,1962.46,Bus
+V1686,Perú,62,F,Líneas de Nazca,Ica,2025-02-26,3,4993.47,Avión
+V1687,México,27,F,Cañón del Colca,Ica,2025-06-01,3,309.53,Tren
+V1688,Colombia,42,F,Líneas de Nazca,La Libertad,2025-01-02,3,3592.8,Tren
+V1689,Chile,23,F,Huacachina,Ica,2025-08-20,6,2036.31,NA
+V1690,Perú,43,M,Lago Titicaca,La Libertad,2025-06-30,7,3873.8,Tren
+V1691,Ecuador,68,F,Cañón del Colca,Cusco,2025-04-13,9,1096.92,Tren
+V1692,Chile,26,M,Líneas de Nazca,La Libertad,2025-10-13,3,4293.56,NA
+V1693,México,66,M,Chan Chan,Arequipa,2025-01-08,3,3802.97,Bus
+V1694,EE.UU.,50,F,Huacachina,Cusco,2025-08-28,2,3122.97,
+V1695,Brasil,58,F,Líneas de Nazca,Cusco,2025-01-12,3,526.91,Auto
+V1696,Perú,40,F,Líneas de Nazca,Puno,2024-12-26,3,1238.39,Bus
+V1697,Colombia,47,M,Machu Picchu,Ica,2025-04-16,3,2660.56,Auto
+V1698,Colombia,48,M,Chan Chan,Ica,2025-05-03,3,1949.22,NA
+V1699,Perú,55,F,Huacachina,Ica,2025-09-30,10,3833.42,Auto
+V1700,Argentina,27,F,Cañón del Colca,Arequipa,2025-09-16,9,4945.26,Tren
+V1701,Colombia,56,F,Lago Titicaca,La Libertad,2025-04-14,1,1828.52,Bus
+V1702,EE.UU.,61,F,Lago Titicaca,La Libertad,2024-10-28,5,3721.0,Auto
+V1703,EE.UU.,18,F,Huacachina,Puno,2024-12-01,6,2829.31,Avión
+V1704,Colombia,61,M,Machu Picchu,Puno,2024-10-21,3,4462.89,Bus
+V1705,Perú,31,F,Chan Chan,Puno,2025-07-07,10,3914.86,Avión
+V1706,México,29,F,Lago Titicaca,Ica,2025-01-21,7,3773.44,Tren
+V1707,México,57,F,Machu Picchu,Cusco,2025-02-06,6,1602.92,Bus
+V1708,Chile,67,M,Cañón del Colca,Ica,2025-07-26,9,2068.05,Tren
+V1709,Colombia,23,M,Lago Titicaca,Puno,2024-11-05,1,1579.35,Bus
+V1710,Colombia,21,M,Huacachina,Ica,2025-03-11,6,1982.33,Bus
+V1711,EE.UU.,31,F,Cañón del Colca,Cusco,2025-07-31,5,4432.63,
+V1712,Perú,63,M,Huacachina,Cusco,2025-03-07,4,4177.79,Avión
+V1713,Ecuador,62,M,Cañón del Colca,Arequipa,2025-05-23,1,362.7,Avión
+V1714,Perú,46,M,Lago Titicaca,Ica,2025-04-19,3,4318.91,Avión
+V1715,Chile,52,F,Chan Chan,Arequipa,2025-03-24,2,874.74,Avión
+V1716,EE.UU.,55,F,Chan Chan,Arequipa,2025-09-25,2,3822.57,
+V1717,Chile,64,F,Lago Titicaca,Cusco,2025-03-29,8,4403.23,Bus
+V1718,Ecuador,64,M,Huacachina,Ica,2024-12-23,8,4516.49,Bus
+V1719,EE.UU.,20,F,Machu Picchu,Puno,2025-07-16,8,321.16,Bus
+V1720,México,70,F,Huacachina,La Libertad,2024-10-30,5,730.51,Tren
+V1721,Brasil,36,F,Lago Titicaca,Puno,2024-10-26,6,4291.57,Bus
+V1722,Colombia,23,M,Machu Picchu,La Libertad,2024-10-21,6,2318.72,
+V1723,Ecuador,39,F,Huacachina,Puno,2025-08-12,5,401.8,NA
+V1724,EE.UU.,36,F,Machu Picchu,La Libertad,2025-09-25,2,3519.98,Bus
+V1725,Brasil,34,F,Cañón del Colca,Arequipa,2025-08-02,7,4771.98,NA
+V1726,Brasil,31,M,Líneas de Nazca,Arequipa,2024-11-23,3,2413.56,Auto
+V1727,Argentina,46,M,Machu Picchu,Arequipa,2025-05-21,10,1780.31,Tren
+V1728,Chile,68,F,Lago Titicaca,Arequipa,2025-09-20,10,1325.46,Bus
+V1729,EE.UU.,58,M,Huacachina,Arequipa,2024-11-20,9,638.96,Avión
+V1730,Brasil,42,F,Lago Titicaca,Puno,2025-06-25,9,2745.54,Avión
+V1731,Colombia,68,F,Machu Picchu,Ica,2025-08-26,9,2121.67,
+V1732,México,65,F,Huacachina,La Libertad,2025-09-15,7,4491.3,Auto
+V1733,Chile,36,F,Lago Titicaca,Arequipa,2025-07-31,7,606.28,Bus
+V1734,Brasil,68,F,Machu Picchu,Arequipa,2025-07-23,8,2143.65,Tren
+V1735,Perú,66,M,Huacachina,Cusco,2025-04-24,6,3646.73,NA
+V1736,México,42,M,Lago Titicaca,La Libertad,2025-02-07,9,418.88,Bus
+V1737,Perú,37,F,Chan Chan,Puno,2025-01-04,9,4714.4,NA
+V1738,Argentina,42,F,Líneas de Nazca,Ica,2025-08-28,1,4384.27,
+V1739,EE.UU.,21,F,Chan Chan,Ica,2025-01-22,6,3360.28,NA
+V1740,Argentina,48,F,Cañón del Colca,Puno,2025-03-21,5,3911.99,Auto
+V1741,Perú,55,M,Lago Titicaca,Puno,2025-04-26,8,424.1,
+V1742,México,55,M,Machu Picchu,La Libertad,2025-10-08,5,4827.49,Tren
+V1743,Argentina,30,F,Machu Picchu,Cusco,2025-08-27,4,4002.47,Tren
+V1744,Argentina,19,M,Lago Titicaca,Ica,2025-07-15,3,2069.75,Avión
+V1745,Argentina,64,F,Machu Picchu,Arequipa,2025-05-31,2,1228.8,Tren
+V1746,Chile,59,F,Líneas de Nazca,La Libertad,2025-08-30,8,4734.46,Tren
+V1747,Argentina,33,M,Machu Picchu,Arequipa,2024-12-23,8,2690.68,Tren
+V1748,Colombia,69,F,Huacachina,Ica,2025-03-28,10,4298.55,Tren
+V1749,Perú,27,F,Machu Picchu,Ica,2025-08-18,5,1803.54,NA
+V1750,Chile,18,M,Machu Picchu,Ica,2025-05-14,3,3380.01,Tren
+V1751,Argentina,50,F,Machu Picchu,La Libertad,2025-10-06,5,3427.21,
+V1752,Perú,41,F,Lago Titicaca,La Libertad,2025-01-29,10,3718.93,Auto
+V1753,EE.UU.,28,M,Líneas de Nazca,Ica,2025-04-28,2,3932.62,
+V1754,Colombia,42,F,Líneas de Nazca,Ica,2025-03-29,8,3057.36,Bus
+V1755,Argentina,23,M,Huacachina,La Libertad,2025-08-28,10,2699.95,Bus
+V1756,EE.UU.,53,M,Huacachina,Arequipa,2025-02-12,3,679.77,Avión
+V1757,EE.UU.,30,M,Lago Titicaca,Ica,2024-12-11,3,3690.0,NA
+V1758,México,35,F,Cañón del Colca,Arequipa,2025-06-05,8,2571.93,NA
+V1759,México,18,F,Lago Titicaca,Arequipa,2025-04-06,4,1369.6,Avión
+V1760,Ecuador,36,F,Lago Titicaca,Puno,2024-12-15,1,737.34,Auto
+V1761,Argentina,60,F,Lago Titicaca,Puno,2025-05-19,7,1327.46,
+V1762,Argentina,31,M,Chan Chan,La Libertad,2025-04-14,5,3860.55,Bus
+V1763,Perú,33,M,Huacachina,La Libertad,2024-12-02,10,3009.56,
+V1764,Chile,28,M,Chan Chan,Ica,2025-01-17,1,1810.74,NA
+V1765,México,18,F,Chan Chan,Ica,2025-07-12,7,4348.97,Auto
+V1766,Perú,21,F,Líneas de Nazca,Cusco,2024-11-09,5,3160.04,Tren
+V1767,Argentina,18,M,Lago Titicaca,Puno,2025-09-27,2,4116.71,Auto
+V1768,Argentina,64,M,Cañón del Colca,Arequipa,2025-10-12,7,2479.05,Bus
+V1769,Argentina,28,M,Cañón del Colca,Cusco,2024-12-19,4,2783.23,Bus
+V1770,Brasil,69,F,Lago Titicaca,Ica,2025-09-04,5,4567.72,
+V1771,Ecuador,37,F,Chan Chan,La Libertad,2025-03-24,5,411.94,
+V1772,Brasil,21,M,Chan Chan,Puno,2025-04-28,4,3636.07,Avión
+V1773,Argentina,20,M,Cañón del Colca,Arequipa,2025-02-05,3,3439.22,NA
+V1774,Perú,57,F,Machu Picchu,Puno,2025-03-31,10,1291.34,Tren
+V1775,EE.UU.,18,M,Cañón del Colca,Arequipa,2025-02-23,6,2059.04,Tren
+V1776,Argentina,66,F,Lago Titicaca,Puno,2025-08-29,4,3299.09,Auto
+V1777,EE.UU.,18,F,Líneas de Nazca,La Libertad,2024-11-24,5,1387.35,Tren
+V1778,EE.UU.,36,M,Machu Picchu,Cusco,2025-04-12,10,3004.58,Tren
+V1779,México,51,F,Chan Chan,La Libertad,2025-04-17,6,2029.54,Bus
+V1780,Colombia,28,M,Machu Picchu,Ica,2025-05-28,5,3024.47,NA
+V1781,Brasil,68,M,Machu Picchu,Arequipa,2025-04-13,1,429.37,Avión
+V1782,Chile,37,F,Lago Titicaca,Ica,2025-02-08,7,2478.24,Auto
+V1783,Perú,56,M,Líneas de Nazca,La Libertad,2025-04-22,4,859.32,Avión
+V1784,Chile,55,M,Líneas de Nazca,La Libertad,2025-05-19,4,2428.28,
+V1785,EE.UU.,46,F,Machu Picchu,Cusco,2025-02-19,2,4256.51,Auto
+V1786,Brasil,31,M,Huacachina,Cusco,2025-06-20,7,1420.37,NA
+V1787,Ecuador,67,M,Lago Titicaca,Puno,2025-02-20,5,545.28,
+V1788,Perú,22,F,Huacachina,Puno,2024-10-27,2,4913.02,Auto
+V1789,Perú,46,M,Lago Titicaca,Arequipa,2025-03-18,1,4533.6,Auto
+V1790,México,49,F,Huacachina,La Libertad,2025-02-16,3,2541.43,
+V1791,Brasil,44,F,Cañón del Colca,Ica,2024-12-27,4,2372.06,Tren
+V1792,EE.UU.,26,F,Cañón del Colca,Ica,2025-10-02,7,2443.33,
+V1793,Brasil,37,F,Machu Picchu,La Libertad,2024-12-05,3,2054.79,Auto
+V1794,Chile,26,F,Cañón del Colca,Ica,2024-12-31,9,2271.18,Tren
+V1795,México,52,F,Chan Chan,Ica,2025-03-16,7,2527.82,NA
+V1796,Colombia,67,F,Machu Picchu,Cusco,2025-07-26,6,4960.44,
+V1797,México,69,M,Lago Titicaca,Cusco,2025-01-21,8,3372.59,NA
+V1798,Brasil,40,M,Huacachina,Arequipa,2025-09-18,10,874.66,
+V1799,Argentina,41,F,Chan Chan,Arequipa,2025-09-26,6,2973.37,NA
+V1800,Ecuador,26,M,Líneas de Nazca,Puno,2025-09-09,2,2749.89,
+V1801,Brasil,45,F,Cañón del Colca,Arequipa,2024-12-25,5,3968.2,Auto
+V1802,EE.UU.,63,M,Chan Chan,Arequipa,2025-06-03,2,2290.03,Bus
+V1803,Argentina,23,F,Chan Chan,Arequipa,2024-10-16,2,1482.85,Auto
+V1804,Chile,60,F,Lago Titicaca,Ica,2025-09-03,10,1466.35,NA
+V1805,Chile,46,F,Líneas de Nazca,La Libertad,2025-09-24,5,1944.13,Avión
+V1806,EE.UU.,27,M,Machu Picchu,La Libertad,2025-10-07,1,1064.66,Avión
+V1807,Perú,46,F,Machu Picchu,La Libertad,2025-03-29,9,3183.9,
+V1808,EE.UU.,35,M,Cañón del Colca,Ica,2024-12-12,4,4012.57,NA
+V1809,Brasil,59,F,Líneas de Nazca,Arequipa,2025-01-12,8,2804.28,NA
+V1810,Colombia,38,M,Líneas de Nazca,La Libertad,2025-06-06,3,2434.42,Avión
+V1811,México,36,M,Huacachina,La Libertad,2025-08-01,5,973.76,Tren
+V1812,Argentina,29,F,Huacachina,Puno,2025-03-26,5,1861.48,NA
+V1813,Perú,23,F,Líneas de Nazca,Puno,2025-01-20,8,2683.21,Auto
+V1814,Colombia,40,F,Huacachina,Cusco,2024-12-29,5,866.37,Avión
+V1815,México,32,M,Cañón del Colca,Ica,2025-08-30,3,2266.3,Bus
+V1816,Argentina,47,M,Chan Chan,La Libertad,2025-08-20,6,4587.76,Auto
+V1817,Perú,48,F,Chan Chan,Puno,2025-08-17,7,3681.11,Tren
+V1818,Perú,46,F,Huacachina,Puno,2025-09-27,6,547.39,Tren
+V1819,Chile,19,F,Cañón del Colca,Puno,2024-11-02,1,3511.91,Auto
+V1820,Argentina,36,F,Machu Picchu,Arequipa,2025-10-10,7,3154.97,Auto
+V1821,Brasil,69,M,Huacachina,Arequipa,2025-01-18,4,2277.0,Bus
+V1822,Brasil,26,F,Chan Chan,Ica,2025-03-12,4,723.05,
+V1823,Brasil,18,F,Lago Titicaca,Cusco,2024-12-01,3,960.05,
+V1824,México,52,M,Líneas de Nazca,Arequipa,2025-08-22,2,2582.81,Auto
+V1825,Ecuador,45,M,Líneas de Nazca,Cusco,2025-04-02,2,1178.82,
+V1826,Colombia,35,M,Lago Titicaca,Ica,2025-05-18,3,4318.23,Avión
+V1827,EE.UU.,24,F,Lago Titicaca,Ica,2025-02-03,2,3870.17,Auto
+V1828,EE.UU.,31,F,Machu Picchu,Cusco,2024-12-03,5,2408.36,Avión
+V1829,Ecuador,55,F,Huacachina,Arequipa,2025-08-10,1,3436.63,
+V1830,Perú,52,M,Líneas de Nazca,Ica,2025-03-21,6,4925.62,Avión
+V1831,México,19,F,Lago Titicaca,Ica,2025-08-09,5,4218.48,Tren
+V1832,Colombia,56,F,Machu Picchu,Puno,2025-05-26,10,3116.56,
+V1833,Chile,48,M,Machu Picchu,Cusco,2025-02-01,10,4532.87,
+V1834,México,60,F,Chan Chan,Cusco,2025-09-28,9,4642.51,Avión
+V1835,México,21,F,Cañón del Colca,Arequipa,2024-12-02,2,1828.41,NA
+V1836,Colombia,63,F,Lago Titicaca,Puno,2024-10-27,8,3964.13,Avión
+V1837,Colombia,35,M,Lago Titicaca,Arequipa,2025-06-20,9,2568.52,Bus
+V1838,México,34,M,Cañón del Colca,Puno,2025-03-18,2,1853.73,Avión
+V1839,México,66,F,Lago Titicaca,Cusco,2025-06-17,8,4547.66,NA
+V1840,Argentina,54,M,Chan Chan,Cusco,2024-12-22,5,1714.86,
+V1841,Perú,43,F,Huacachina,Arequipa,2024-10-24,8,1665.9,Auto
+V1842,Chile,67,F,Huacachina,Puno,2025-03-13,8,1513.59,Auto
+V1843,Colombia,42,F,Lago Titicaca,Cusco,2025-05-15,4,3551.81,Tren
+V1844,Argentina,51,M,Huacachina,La Libertad,2025-03-20,9,3296.15,Tren
+V1845,Perú,20,M,Cañón del Colca,La Libertad,2025-04-15,3,4368.82,Tren
+V1846,Ecuador,22,F,Cañón del Colca,Arequipa,2025-08-20,5,398.0,
+V1847,EE.UU.,67,F,Machu Picchu,La Libertad,2025-07-07,4,1132.3,Bus
+V1848,Chile,19,M,Lago Titicaca,Puno,2024-12-15,5,4463.33,NA
+V1849,EE.UU.,55,M,Machu Picchu,Cusco,2025-07-21,10,4036.32,
+V1850,Chile,30,F,Huacachina,Ica,2025-04-10,9,1398.9,Auto
+V1851,Colombia,45,F,Lago Titicaca,Ica,2024-12-01,10,2281.93,Avión
+V1852,Perú,58,M,Líneas de Nazca,Cusco,2025-04-20,9,3093.0,Bus
+V1853,Perú,31,F,Líneas de Nazca,Cusco,2025-06-26,6,3238.71,Avión
+V1854,Brasil,23,F,Lago Titicaca,La Libertad,2025-09-25,5,475.98,
+V1855,Perú,41,M,Huacachina,Puno,2025-06-26,6,1588.05,Tren
+V1856,México,64,M,Machu Picchu,Ica,2025-07-01,5,1512.66,
+V1857,Colombia,64,M,Chan Chan,Cusco,2025-03-18,9,3146.13,Auto
+V1858,Colombia,32,M,Chan Chan,La Libertad,2025-03-03,6,1460.95,Bus
+V1859,Brasil,61,F,Líneas de Nazca,Ica,2025-08-09,3,1376.85,Tren
+V1860,México,24,M,Líneas de Nazca,Puno,2025-05-02,6,827.93,Auto
+V1861,Chile,48,F,Lago Titicaca,Puno,2025-04-04,4,676.8,Auto
+V1862,Argentina,69,M,Huacachina,Cusco,2025-02-02,4,3154.43,NA
+V1863,Argentina,41,F,Líneas de Nazca,Arequipa,2024-11-06,1,4032.71,
+V1864,Perú,45,M,Machu Picchu,La Libertad,2025-10-05,7,1204.16,Avión
+V1865,México,20,M,Machu Picchu,La Libertad,2025-03-19,2,1460.46,Tren
+V1866,Colombia,26,M,Cañón del Colca,Puno,2024-12-31,9,2891.76,Auto
+V1867,Argentina,58,F,Cañón del Colca,Arequipa,2025-01-18,3,4926.7,Tren
+V1868,Colombia,45,M,Huacachina,Arequipa,2025-06-23,3,925.3,Auto
+V1869,Brasil,45,M,Machu Picchu,La Libertad,2025-10-06,2,1691.7,Bus
+V1870,Perú,43,F,Lago Titicaca,La Libertad,2025-08-26,1,1284.55,Tren
+V1871,EE.UU.,27,M,Cañón del Colca,Arequipa,2025-07-03,9,3574.66,Bus
+V1872,Brasil,62,M,Huacachina,La Libertad,2025-05-06,8,2766.32,NA
+V1873,Argentina,58,M,Líneas de Nazca,Arequipa,2025-05-09,6,1783.98,Bus
+V1874,Argentina,37,F,Chan Chan,Puno,2025-09-24,10,3034.96,Avión
+V1875,Chile,60,M,Lago Titicaca,Ica,2025-05-10,8,3492.42,Auto
+V1876,Brasil,31,M,Huacachina,La Libertad,2025-10-14,8,4627.34,Tren
+V1877,Ecuador,46,M,Lago Titicaca,La Libertad,2025-05-08,4,1386.27,Tren
+V1878,EE.UU.,59,M,Cañón del Colca,Arequipa,2025-07-23,8,461.05,Auto
+V1879,Colombia,59,F,Lago Titicaca,Arequipa,2024-10-30,8,4285.52,Tren
+V1880,EE.UU.,21,F,Chan Chan,Cusco,2024-10-16,1,1339.34,Auto
+V1881,México,53,M,Machu Picchu,Arequipa,2025-03-04,4,1379.75,Avión
+V1882,Colombia,34,F,Huacachina,Arequipa,2025-02-20,1,4485.76,Auto
+V1883,EE.UU.,55,M,Machu Picchu,Puno,2025-08-19,1,3080.11,NA
+V1884,EE.UU.,41,F,Huacachina,Arequipa,2025-05-29,10,840.87,Bus
+V1885,EE.UU.,56,F,Huacachina,Cusco,2025-03-03,3,2977.39,Bus
+V1886,Perú,66,M,Cañón del Colca,Arequipa,2025-07-08,8,2168.38,NA
+V1887,México,24,F,Líneas de Nazca,Ica,2025-01-17,1,1994.97,Bus
+V1888,Colombia,43,F,Huacachina,Arequipa,2024-11-16,6,3177.41,NA
+V1889,Chile,56,M,Cañón del Colca,Cusco,2025-07-21,8,3959.09,Bus
+V1890,Ecuador,32,M,Huacachina,Cusco,2025-04-30,9,3285.3,
+V1891,Perú,59,M,Machu Picchu,Arequipa,2025-07-25,1,2135.71,NA
+V1892,Chile,25,F,Huacachina,Ica,2024-11-26,4,687.27,Avión
+V1893,EE.UU.,26,F,Machu Picchu,Puno,2025-09-23,9,4846.71,Auto
+V1894,Ecuador,20,F,Líneas de Nazca,Cusco,2025-02-05,2,4478.54,Bus
+V1895,Chile,56,F,Machu Picchu,Ica,2025-06-22,9,4648.68,
+V1896,Perú,20,F,Machu Picchu,Ica,2025-10-16,1,1300.6,
+V1897,Chile,45,F,Lago Titicaca,La Libertad,2025-07-28,5,3180.93,NA
+V1898,Perú,41,M,Líneas de Nazca,Cusco,2025-07-25,2,1257.63,Tren
+V1899,Ecuador,35,M,Lago Titicaca,Cusco,2024-11-28,8,805.59,NA
+V1900,Argentina,61,F,Huacachina,Ica,2024-11-23,9,4656.1,Avión
+V1901,México,36,M,Huacachina,Ica,2025-06-14,1,4911.63,Auto
+V1902,Chile,59,F,Machu Picchu,Ica,2025-05-15,9,955.2,
+V1903,Ecuador,25,F,Machu Picchu,Arequipa,2025-06-28,4,4189.35,
+V1904,Ecuador,26,M,Líneas de Nazca,La Libertad,2025-09-03,4,4890.2,
+V1905,Brasil,36,M,Chan Chan,Puno,2024-12-29,4,2960.96,Auto
+V1906,Perú,31,M,Chan Chan,Arequipa,2025-06-05,6,2699.67,Avión
+V1907,Ecuador,60,M,Cañón del Colca,Cusco,2024-11-26,1,3962.24,Avión
+V1908,Perú,36,F,Machu Picchu,Puno,2025-03-10,2,791.25,NA
+V1909,Brasil,53,F,Chan Chan,Ica,2025-05-14,10,433.52,NA
+V1910,Perú,68,M,Machu Picchu,Cusco,2025-07-21,2,4413.71,Bus
+V1911,Perú,26,M,Líneas de Nazca,Ica,2025-05-10,4,1783.05,Avión
+V1912,Colombia,53,M,Machu Picchu,Ica,2025-09-05,4,844.6,Auto
+V1913,Ecuador,27,F,Cañón del Colca,Ica,2025-08-25,7,4498.96,NA
+V1914,Brasil,32,M,Líneas de Nazca,Arequipa,2025-05-12,8,4332.07,Avión
+V1915,Perú,48,F,Chan Chan,Ica,2024-12-11,1,1826.42,Avión
+V1916,Chile,67,M,Líneas de Nazca,Puno,2025-04-18,2,4977.66,Avión
+V1917,Argentina,50,M,Chan Chan,Puno,2024-12-21,3,3077.91,Tren
+V1918,Brasil,38,F,Huacachina,Puno,2025-04-26,1,3922.23,Avión
+V1919,México,24,F,Líneas de Nazca,Ica,2025-06-03,6,2520.02,Auto
+V1920,Argentina,22,F,Líneas de Nazca,Puno,2024-11-18,5,3461.46,Tren
+V1921,Perú,56,M,Machu Picchu,La Libertad,2024-12-30,1,378.45,NA
+V1922,Chile,47,F,Cañón del Colca,Puno,2024-11-28,1,1572.49,Bus
+V1923,Chile,53,M,Cañón del Colca,La Libertad,2025-03-22,8,3456.09,Auto
+V1924,Argentina,67,F,Huacachina,Puno,2024-10-27,9,1628.49,Auto
+V1925,Ecuador,44,F,Lago Titicaca,Cusco,2024-12-22,8,3140.5,Avión
+V1926,Colombia,45,M,Cañón del Colca,Ica,2024-12-20,8,3675.47,Avión
+V1927,México,20,F,Cañón del Colca,Arequipa,2025-10-08,2,1666.49,
+V1928,Ecuador,67,M,Huacachina,La Libertad,2025-01-10,9,4482.46,Avión
+V1929,Brasil,66,M,Huacachina,Cusco,2025-06-26,3,3234.65,Tren
+V1930,Argentina,19,M,Huacachina,Ica,2025-08-11,9,2732.71,Tren
+V1931,EE.UU.,54,F,Chan Chan,La Libertad,2025-08-18,2,303.74,Auto
+V1932,Chile,39,F,Lago Titicaca,Puno,2025-05-20,8,2693.49,Avión
+V1933,Colombia,25,F,Lago Titicaca,Arequipa,2025-01-28,5,4590.02,Tren
+V1934,Ecuador,46,F,Huacachina,Ica,2024-12-18,3,4541.06,Auto
+V1935,Colombia,67,M,Cañón del Colca,Puno,2025-05-02,1,4449.21,Auto
+V1936,Colombia,42,M,Lago Titicaca,La Libertad,2025-07-04,5,2542.8,
+V1937,Colombia,36,M,Cañón del Colca,La Libertad,2025-03-14,2,1687.87,
+V1938,Brasil,65,M,Huacachina,Cusco,2024-12-27,7,4515.85,Auto
+V1939,Colombia,65,F,Cañón del Colca,Cusco,2024-10-23,9,4860.89,Avión
+V1940,México,56,F,Lago Titicaca,Ica,2025-01-04,3,4558.81,NA
+V1941,Brasil,56,F,Lago Titicaca,Cusco,2025-10-04,2,740.38,Auto
+V1942,Perú,50,M,Líneas de Nazca,La Libertad,2025-04-17,8,527.72,Tren
+V1943,EE.UU.,35,F,Machu Picchu,Puno,2025-02-19,10,1944.22,NA
+V1944,EE.UU.,60,M,Líneas de Nazca,Arequipa,2025-05-16,10,2213.88,
+V1945,Argentina,28,M,Huacachina,Cusco,2025-06-07,10,2396.02,Auto
+V1946,Chile,33,M,Cañón del Colca,Ica,2025-09-21,7,4894.07,Tren
+V1947,Colombia,61,F,Cañón del Colca,La Libertad,2025-03-19,5,736.29,Auto
+V1948,Chile,50,M,Huacachina,Puno,2025-01-31,2,2114.23,
+V1949,Colombia,38,F,Cañón del Colca,Ica,2025-02-22,7,2579.83,Bus
+V1950,Argentina,33,F,Huacachina,Cusco,2025-09-24,7,3851.8,Tren
+V1951,Brasil,54,M,Lago Titicaca,Puno,2025-07-23,5,984.58,Avión
+V1952,Argentina,27,M,Lago Titicaca,Ica,2025-08-08,9,4632.13,
+V1953,Argentina,32,M,Chan Chan,Cusco,2025-02-20,4,3040.67,
+V1954,Brasil,23,M,Machu Picchu,Puno,2024-11-24,2,3221.8,Auto
+V1955,Perú,37,M,Líneas de Nazca,Cusco,2025-06-14,6,2597.49,
+V1956,Ecuador,25,M,Lago Titicaca,Puno,2024-11-01,8,1182.83,Avión
+V1957,Perú,59,M,Cañón del Colca,Cusco,2025-01-24,6,1950.44,NA
+V1958,Argentina,20,F,Líneas de Nazca,Ica,2025-08-06,3,3145.55,
+V1959,Brasil,33,F,Chan Chan,Cusco,2025-02-19,8,1245.5,Tren
+V1960,Ecuador,62,F,Líneas de Nazca,Ica,2025-09-22,6,3650.99,NA
+V1961,Brasil,50,F,Cañón del Colca,Ica,2025-02-21,5,2409.56,Bus
+V1962,Argentina,22,F,Chan Chan,Cusco,2025-02-21,5,4537.54,
+V1963,México,67,F,Líneas de Nazca,La Libertad,2025-04-18,1,1047.49,
+V1964,Chile,20,M,Líneas de Nazca,Arequipa,2025-02-17,4,2264.35,Bus
+V1965,Chile,46,F,Machu Picchu,Arequipa,2025-05-03,4,3322.99,NA
+V1966,Brasil,50,F,Huacachina,Cusco,2025-09-26,9,1747.08,Avión
+V1967,Brasil,59,M,Huacachina,Arequipa,2025-05-22,2,2423.25,Auto
+V1968,EE.UU.,51,M,Huacachina,Puno,2025-05-11,5,3852.42,Auto
+V1969,Chile,29,M,Lago Titicaca,La Libertad,2024-11-21,6,596.61,Auto
+V1970,EE.UU.,25,M,Líneas de Nazca,Arequipa,2025-08-02,8,2494.15,NA
+V1971,Brasil,24,M,Chan Chan,Arequipa,2025-08-02,4,684.83,Bus
+V1972,Perú,30,M,Lago Titicaca,Cusco,2025-08-27,2,2871.37,Bus
+V1973,Perú,29,M,Chan Chan,Puno,2025-08-26,3,702.12,Tren
+V1974,Perú,42,F,Cañón del Colca,La Libertad,2025-06-12,4,2815.6,Avión
+V1975,Chile,18,F,Líneas de Nazca,La Libertad,2025-03-10,3,3015.86,Auto
+V1976,Colombia,38,F,Huacachina,Puno,2025-06-14,2,538.67,Avión
+V1977,Chile,36,M,Machu Picchu,La Libertad,2025-08-19,3,4901.3,Tren
+V1978,EE.UU.,68,F,Huacachina,Ica,2025-01-01,7,4122.69,Bus
+V1979,EE.UU.,51,M,Chan Chan,Ica,2025-02-16,2,3278.81,Bus
+V1980,Argentina,65,M,Huacachina,Arequipa,2025-08-29,5,995.46,Avión
+V1981,EE.UU.,60,F,Cañón del Colca,La Libertad,2025-02-18,7,4183.72,Bus
+V1982,Colombia,36,M,Lago Titicaca,La Libertad,2025-09-09,10,3647.77,Avión
+V1983,EE.UU.,44,F,Lago Titicaca,Arequipa,2025-03-02,3,2173.52,Bus
+V1984,Chile,60,M,Líneas de Nazca,Puno,2025-04-07,8,3597.87,Tren
+V1985,Perú,23,F,Machu Picchu,Cusco,2025-04-28,3,748.59,Bus
+V1986,México,32,M,Chan Chan,Cusco,2025-08-29,6,2479.56,NA
+V1987,Perú,36,F,Chan Chan,Puno,2025-03-18,7,403.75,Avión
+V1988,Chile,60,F,Líneas de Nazca,Puno,2025-07-14,3,3486.44,Tren
+V1989,México,57,M,Lago Titicaca,Ica,2025-06-06,6,4483.34,Tren
+V1990,EE.UU.,27,F,Cañón del Colca,La Libertad,2025-05-01,4,2564.43,Bus
+V1991,México,48,M,Cañón del Colca,Arequipa,2025-06-08,10,2745.68,
+V1992,México,58,F,Lago Titicaca,La Libertad,2025-04-18,2,2296.75,Tren
+V1993,Colombia,58,M,Machu Picchu,Puno,2025-06-15,4,4331.21,NA
+V1994,México,23,F,Huacachina,Puno,2025-03-08,7,3791.11,Bus
+V1995,Brasil,62,F,Machu Picchu,La Libertad,2025-09-02,7,4110.43,
+V1996,Ecuador,46,F,Machu Picchu,Ica,2025-02-18,7,3046.33,Auto
+V1997,Brasil,41,M,Lago Titicaca,Cusco,2025-01-16,1,4203.39,Tren
+V1998,México,38,M,Líneas de Nazca,La Libertad,2025-06-17,1,765.96,Tren
+V1999,Brasil,57,F,Cañón del Colca,Ica,2025-04-21,5,3266.45,
+V2000,EE.UU.,70,F,Cañón del Colca,Cusco,2025-07-13,5,4967.97,Bus
+V2001,Ecuador,44,F,Líneas de Nazca,Ica,2025-06-24,3,1112.51,
+V2002,Brasil,59,F,Huacachina,Ica,2024-10-27,5,532.1,Bus
+V2003,Brasil,45,M,Cañón del Colca,Ica,2025-01-10,7,1103.33,
+V2004,Perú,59,F,Huacachina,La Libertad,2025-06-20,6,3904.04,Auto
+V2005,Colombia,46,F,Chan Chan,Arequipa,2025-05-23,9,4159.93,Bus
+V2006,Colombia,62,F,Lago Titicaca,Puno,2025-02-24,6,3037.3,Avión
+V2007,México,27,M,Machu Picchu,Ica,2025-02-06,9,3183.75,Avión
+V2008,Chile,21,M,Huacachina,La Libertad,2025-04-28,2,1803.22,Bus
+V2009,Brasil,25,M,Machu Picchu,Puno,2025-08-21,3,2616.84,Bus
+V2010,Colombia,65,F,Chan Chan,Arequipa,2025-03-18,1,2861.02,Bus
+V2011,Perú,18,M,Lago Titicaca,Cusco,2025-02-01,8,1994.33,Auto
+V2012,Chile,28,F,Líneas de Nazca,Cusco,2025-02-24,5,4343.0,Auto
+V2013,Ecuador,26,M,Machu Picchu,La Libertad,2025-04-06,8,1088.51,Bus
+V2014,Perú,63,M,Lago Titicaca,Puno,2025-04-02,3,3452.11,Auto
+V2015,Perú,68,F,Huacachina,Puno,2024-11-17,9,1506.2,Bus
+V2016,México,56,M,Cañón del Colca,Puno,2025-08-24,6,2507.79,Tren
+V2017,Brasil,65,F,Líneas de Nazca,Cusco,2025-08-03,2,425.36,Tren
+V2018,México,69,F,Lago Titicaca,Ica,2025-04-21,2,1771.11,Bus
+V2019,Brasil,59,F,Huacachina,Arequipa,2025-04-17,9,4982.55,Auto
+V2020,Brasil,29,M,Lago Titicaca,Puno,2025-09-12,6,3088.68,Tren
+V2021,Argentina,37,F,Cañón del Colca,Puno,2025-05-02,5,4644.34,NA
+V2022,México,65,F,Cañón del Colca,Ica,2025-02-23,9,334.28,Avión
+V2023,Brasil,49,F,Lago Titicaca,La Libertad,2024-12-30,8,1040.15,Auto
+V2024,México,50,M,Machu Picchu,Ica,2025-01-29,4,4610.62,Auto
+V2025,Argentina,36,M,Líneas de Nazca,Cusco,2025-03-03,9,1264.14,Tren
+V2026,Brasil,66,M,Líneas de Nazca,Ica,2025-02-06,3,1310.97,NA
+V2027,Argentina,53,F,Chan Chan,Cusco,2024-12-27,8,2055.23,Auto
+V2028,Chile,66,M,Machu Picchu,Puno,2025-03-17,1,2978.43,NA
+V2029,Ecuador,47,M,Cañón del Colca,La Libertad,2025-07-14,2,2991.26,Bus
+V2030,EE.UU.,67,M,Cañón del Colca,Puno,2025-04-21,6,391.26,NA
+V2031,Colombia,31,F,Huacachina,Arequipa,2025-01-02,8,1155.75,Tren
+V2032,Ecuador,37,F,Líneas de Nazca,Arequipa,2024-12-28,5,4413.02,NA
+V2033,Chile,59,M,Cañón del Colca,La Libertad,2025-03-18,2,3057.03,NA
+V2034,Brasil,37,M,Machu Picchu,Cusco,2025-03-15,10,3696.57,Bus
+V2035,EE.UU.,34,F,Cañón del Colca,Ica,2025-09-28,5,3530.9,Bus
+V2036,EE.UU.,48,M,Lago Titicaca,La Libertad,2025-10-16,1,1834.31,Bus
+V2037,Perú,57,M,Machu Picchu,Puno,2025-02-26,4,2543.38,Tren
+V2038,México,66,F,Lago Titicaca,Ica,2025-09-05,8,2963.42,Auto
+V2039,EE.UU.,69,F,Lago Titicaca,Puno,2025-07-29,6,4851.93,NA
+V2040,Perú,59,M,Líneas de Nazca,Cusco,2025-02-03,6,366.81,Tren
+V2041,EE.UU.,51,M,Chan Chan,Arequipa,2024-11-02,6,464.37,Avión
+V2042,Ecuador,34,F,Líneas de Nazca,Cusco,2025-09-16,6,2603.16,Tren
+V2043,Chile,35,M,Cañón del Colca,Puno,2025-05-27,3,2646.41,NA
+V2044,EE.UU.,18,F,Cañón del Colca,Cusco,2025-09-11,4,3637.7,Avión
+V2045,Colombia,57,M,Líneas de Nazca,La Libertad,2025-01-14,5,2681.94,
+V2046,Ecuador,30,F,Chan Chan,Cusco,2025-03-02,4,2831.74,Bus
+V2047,Perú,40,F,Chan Chan,Ica,2025-06-24,6,426.09,
+V2048,Chile,58,F,Líneas de Nazca,Puno,2025-06-05,6,2602.32,Auto
+V2049,EE.UU.,51,F,Cañón del Colca,Arequipa,2025-01-05,3,4203.48,Avión
+V2050,Argentina,58,M,Huacachina,La Libertad,2024-12-21,6,1986.93,NA
+V2051,Colombia,46,F,Chan Chan,La Libertad,2025-06-12,10,1588.79,NA
+V2052,Ecuador,44,F,Machu Picchu,La Libertad,2025-06-21,10,2706.74,Avión
+V2053,México,23,M,Cañón del Colca,Puno,2024-12-29,10,1224.52,Auto
+V2054,Perú,25,F,Chan Chan,Cusco,2025-10-06,6,4248.89,
+V2055,Chile,56,F,Machu Picchu,La Libertad,2025-01-14,4,4482.72,Avión
+V2056,Chile,23,M,Machu Picchu,Puno,2025-06-24,7,1579.22,
+V2057,EE.UU.,57,M,Machu Picchu,La Libertad,2024-11-05,7,1398.11,Bus
+V2058,Brasil,30,M,Líneas de Nazca,La Libertad,2025-05-24,2,1313.96,Avión
+V2059,México,63,F,Machu Picchu,Puno,2025-07-06,10,2595.95,
+V2060,Perú,38,M,Machu Picchu,Puno,2025-07-30,3,4126.76,Bus
+V2061,Chile,18,F,Huacachina,Cusco,2025-09-29,3,813.03,Avión
+V2062,Brasil,28,M,Huacachina,Arequipa,2024-12-10,8,1650.34,
+V2063,Ecuador,39,M,Huacachina,Ica,2025-08-25,8,2456.0,Tren
+V2064,EE.UU.,69,M,Machu Picchu,Puno,2024-11-04,10,2788.82,Avión
+V2065,México,57,M,Líneas de Nazca,Arequipa,2025-02-08,8,3037.73,Avión
+V2066,Colombia,18,M,Huacachina,Cusco,2024-11-27,5,549.23,
+V2067,Chile,25,M,Líneas de Nazca,Cusco,2025-09-09,8,476.92,Bus
+V2068,México,49,F,Chan Chan,Arequipa,2025-01-15,6,321.62,Auto
+V2069,Chile,35,F,Chan Chan,Ica,2025-06-02,1,2442.26,Auto
+V2070,Argentina,62,M,Machu Picchu,Cusco,2024-10-27,9,4555.29,NA
+V2071,Brasil,19,M,Chan Chan,Arequipa,2025-09-13,4,4108.78,Avión
+V2072,Ecuador,61,M,Lago Titicaca,Ica,2025-04-04,5,4156.56,NA
+V2073,Perú,32,M,Huacachina,Ica,2025-01-05,1,327.53,NA
+V2074,Perú,39,F,Líneas de Nazca,Cusco,2025-09-26,2,4311.49,NA
+V2075,Argentina,29,M,Lago Titicaca,La Libertad,2025-10-12,8,2110.6,Bus
+V2076,Perú,61,F,Machu Picchu,Ica,2025-05-14,6,599.82,Auto
+V2077,Perú,64,F,Huacachina,Cusco,2025-04-10,1,1095.36,NA
+V2078,México,36,F,Líneas de Nazca,La Libertad,2025-09-24,9,2487.52,Avión
+V2079,Ecuador,54,M,Cañón del Colca,Puno,2025-03-09,1,1643.42,Tren
+V2080,Ecuador,22,F,Huacachina,Puno,2024-10-17,1,2792.16,
+V2081,Colombia,58,F,Cañón del Colca,Ica,2024-10-26,2,1560.54,Auto
+V2082,Chile,44,M,Huacachina,Cusco,2025-05-19,4,1319.37,NA
+V2083,Chile,20,F,Chan Chan,Puno,2025-09-10,6,2761.79,Bus
+V2084,Argentina,52,F,Cañón del Colca,La Libertad,2025-08-08,2,4304.83,NA
+V2085,México,39,F,Lago Titicaca,Puno,2025-04-29,9,2492.36,Avión
+V2086,Ecuador,41,M,Cañón del Colca,Arequipa,2024-12-13,2,3745.25,Avión
+V2087,Brasil,35,M,Machu Picchu,Cusco,2024-11-17,1,1859.04,Auto
+V2088,Brasil,33,F,Líneas de Nazca,Cusco,2025-08-30,8,1548.16,Auto
+V2089,Perú,60,M,Cañón del Colca,Puno,2025-01-25,2,3361.19,NA
+V2090,Colombia,46,F,Lago Titicaca,Arequipa,2025-05-12,5,1766.16,Tren
+V2091,Ecuador,28,F,Huacachina,Cusco,2024-11-16,2,1506.52,NA
+V2092,México,38,M,Huacachina,Puno,2025-09-11,5,2755.97,Auto
+V2093,Ecuador,41,M,Huacachina,Ica,2025-08-17,4,1630.75,Tren
+V2094,Brasil,51,F,Lago Titicaca,La Libertad,2025-04-24,3,1638.76,NA
+V2095,México,46,M,Lago Titicaca,Puno,2025-09-11,2,4194.67,NA
+V2096,EE.UU.,66,F,Líneas de Nazca,La Libertad,2024-11-14,8,1245.2,
+V2097,Perú,40,M,Líneas de Nazca,Ica,2025-04-04,1,1853.32,Auto
+V2098,Brasil,34,M,Líneas de Nazca,Cusco,2025-02-11,10,453.28,NA
+V2099,Chile,50,M,Líneas de Nazca,Arequipa,2025-04-10,6,1819.25,Auto
+V2100,Colombia,36,F,Huacachina,La Libertad,2025-07-08,8,3406.6,Bus
+V2101,Chile,29,F,Líneas de Nazca,Arequipa,2025-01-19,7,1084.39,
+V2102,Brasil,63,M,Huacachina,Puno,2025-03-19,2,4272.26,
+V2103,EE.UU.,56,M,Líneas de Nazca,La Libertad,2024-11-23,8,4466.66,Bus
+V2104,Colombia,26,F,Chan Chan,La Libertad,2024-12-24,10,847.0,
+V2105,Chile,32,F,Huacachina,Ica,2025-04-24,10,583.29,Avión
+V2106,Colombia,61,F,Lago Titicaca,Puno,2025-06-06,1,1836.94,Avión
+V2107,Argentina,69,M,Chan Chan,Ica,2025-07-07,5,4787.95,NA
+V2108,Perú,48,F,Huacachina,Arequipa,2025-06-03,3,2441.91,Tren
+V2109,Argentina,41,F,Lago Titicaca,Ica,2024-12-17,6,1383.65,Bus
+V2110,Chile,43,M,Líneas de Nazca,Arequipa,2025-01-25,8,3767.71,Avión
+V2111,Chile,29,M,Machu Picchu,La Libertad,2025-04-20,2,4202.26,Avión
+V2112,Perú,31,F,Chan Chan,Ica,2025-08-03,3,366.54,NA
+V2113,México,59,F,Líneas de Nazca,Arequipa,2025-09-29,8,3818.12,Auto
+V2114,Brasil,29,F,Machu Picchu,Arequipa,2025-09-07,5,2974.56,Avión
+V2115,Perú,68,F,Huacachina,Cusco,2025-02-26,10,955.52,Auto
+V2116,Colombia,62,F,Machu Picchu,Puno,2025-07-20,5,4890.14,Tren
+V2117,Chile,49,M,Cañón del Colca,Puno,2025-08-25,4,2461.96,
+V2118,Ecuador,34,M,Huacachina,La Libertad,2025-02-14,7,2847.02,Bus
+V2119,Chile,64,M,Cañón del Colca,Puno,2025-03-17,2,4662.22,NA
+V2120,Ecuador,28,M,Chan Chan,Ica,2024-11-15,5,4256.6,Avión
+V2121,Colombia,48,F,Lago Titicaca,Ica,2025-04-04,7,3414.48,Tren
+V2122,Colombia,23,M,Huacachina,Ica,2025-08-09,6,4677.19,NA
+V2123,Perú,57,F,Líneas de Nazca,Puno,2025-02-11,5,1518.54,Auto
+V2124,Perú,27,F,Lago Titicaca,Cusco,2025-03-27,5,3661.31,
+V2125,Argentina,47,M,Chan Chan,Cusco,2025-08-22,10,3918.71,Auto
+V2126,Perú,63,M,Chan Chan,La Libertad,2025-02-21,1,565.26,NA
+V2127,Ecuador,31,F,Líneas de Nazca,Cusco,2025-02-08,9,3966.46,
+V2128,Ecuador,34,M,Machu Picchu,La Libertad,2024-12-30,7,3872.58,Avión
+V2129,México,55,M,Huacachina,Ica,2025-08-04,6,4698.29,Tren
+V2130,México,31,M,Cañón del Colca,Ica,2025-02-25,9,1536.37,Auto
+V2131,Colombia,69,M,Huacachina,La Libertad,2024-11-30,2,4325.51,Auto
+V2132,Brasil,37,F,Machu Picchu,La Libertad,2025-08-05,3,1184.27,Auto
+V2133,Perú,57,M,Cañón del Colca,La Libertad,2025-06-18,9,2506.62,Auto
+V2134,EE.UU.,20,F,Lago Titicaca,Cusco,2024-12-16,4,2989.58,Tren
+V2135,México,61,F,Cañón del Colca,La Libertad,2025-01-23,8,3899.77,
+V2136,Brasil,20,F,Lago Titicaca,Ica,2024-11-25,4,3105.2,
+V2137,Ecuador,66,F,Machu Picchu,La Libertad,2025-06-30,9,1708.51,
+V2138,Brasil,44,M,Chan Chan,Ica,2024-12-07,3,1737.02,Avión
+V2139,EE.UU.,69,F,Chan Chan,La Libertad,2025-08-23,9,2950.34,Auto
+V2140,Perú,66,M,Huacachina,Arequipa,2025-05-04,1,1051.53,Tren
+V2141,Brasil,24,M,Líneas de Nazca,Ica,2025-04-10,9,355.77,Avión
+V2142,EE.UU.,27,F,Huacachina,Puno,2025-08-12,9,4870.32,Auto
+V2143,Colombia,68,M,Machu Picchu,Arequipa,2025-02-19,4,2510.72,Tren
+V2144,Brasil,65,F,Cañón del Colca,Puno,2025-10-15,1,4781.1,Avión
+V2145,México,57,M,Lago Titicaca,Arequipa,2025-02-19,6,3503.94,Tren
+V2146,Brasil,31,M,Líneas de Nazca,La Libertad,2025-01-22,6,4364.66,
+V2147,México,65,F,Chan Chan,La Libertad,2025-03-07,4,4941.91,Auto
+V2148,Chile,68,M,Huacachina,Arequipa,2025-09-30,8,1956.37,Auto
+V2149,Ecuador,52,M,Machu Picchu,Puno,2025-08-22,8,1809.01,Avión
+V2150,Argentina,42,M,Líneas de Nazca,Puno,2025-02-26,7,2777.39,Bus
+V2151,EE.UU.,28,M,Lago Titicaca,Puno,2024-11-03,8,3880.31,
+V2152,Colombia,47,F,Cañón del Colca,Cusco,2024-12-05,4,1391.16,Tren
+V2153,Colombia,26,M,Líneas de Nazca,Ica,2025-06-02,5,4403.29,Bus
+V2154,EE.UU.,22,F,Líneas de Nazca,Arequipa,2025-09-29,9,4973.66,Tren
+V2155,Perú,54,F,Machu Picchu,Ica,2024-12-09,4,535.79,NA
+V2156,Argentina,67,F,Líneas de Nazca,Arequipa,2025-02-04,9,2297.52,Avión
+V2157,México,36,M,Chan Chan,Puno,2025-06-10,2,2474.4,NA
+V2158,Colombia,53,F,Machu Picchu,La Libertad,2025-08-17,1,1488.21,Tren
+V2159,EE.UU.,66,F,Líneas de Nazca,Puno,2025-02-14,6,4647.08,Bus
+V2160,Brasil,24,M,Cañón del Colca,Puno,2025-09-14,5,3424.78,Auto
+V2161,EE.UU.,46,F,Cañón del Colca,Ica,2025-08-05,1,4585.1,NA
+V2162,Brasil,47,M,Chan Chan,Cusco,2024-10-29,1,3027.29,Avión
+V2163,EE.UU.,21,F,Machu Picchu,Puno,2025-06-19,2,1128.95,Bus
+V2164,Ecuador,33,F,Huacachina,Cusco,2025-04-12,3,4984.5,Bus
+V2165,EE.UU.,34,F,Lago Titicaca,Ica,2025-01-29,2,998.62,Avión
+V2166,Perú,41,F,Cañón del Colca,Puno,2025-09-30,4,2112.65,Auto
+V2167,Perú,38,M,Cañón del Colca,Arequipa,2025-05-06,10,1393.24,Bus
+V2168,EE.UU.,69,F,Cañón del Colca,Arequipa,2024-10-23,1,4057.41,NA
+V2169,Brasil,44,F,Machu Picchu,La Libertad,2025-01-02,1,4204.35,NA
+V2170,México,57,M,Chan Chan,Arequipa,2025-03-31,6,4568.13,Bus
+V2171,Argentina,19,F,Lago Titicaca,Arequipa,2025-02-16,8,4560.93,
+V2172,Ecuador,31,F,Cañón del Colca,La Libertad,2024-10-18,6,4044.83,NA
+V2173,Chile,54,F,Cañón del Colca,Ica,2025-06-27,2,1343.34,
+V2174,México,19,M,Chan Chan,Puno,2025-05-07,5,3010.25,
+V2175,Perú,22,F,Cañón del Colca,Cusco,2025-08-18,4,3569.53,NA
+V2176,Brasil,67,F,Lago Titicaca,Cusco,2025-06-15,10,509.86,Bus
+V2177,México,61,M,Chan Chan,Cusco,2024-11-01,5,4648.41,Auto
+V2178,Ecuador,38,F,Cañón del Colca,Puno,2025-09-09,4,1055.76,Auto
+V2179,Chile,70,M,Líneas de Nazca,Ica,2025-03-21,2,3619.36,Bus
+V2180,Chile,19,F,Líneas de Nazca,La Libertad,2025-10-05,5,740.22,Auto
+V2181,Argentina,44,F,Huacachina,Puno,2025-07-18,4,3468.88,NA
+V2182,Argentina,56,F,Lago Titicaca,Ica,2024-11-28,9,438.61,Auto
+V2183,Ecuador,48,F,Líneas de Nazca,Puno,2025-03-18,9,3184.69,Bus
+V2184,Argentina,63,F,Machu Picchu,Ica,2025-01-20,1,3479.53,NA
+V2185,México,47,F,Machu Picchu,Arequipa,2025-06-07,10,2533.2,
+V2186,Colombia,48,F,Cañón del Colca,Cusco,2025-08-17,1,3342.39,NA
+V2187,Chile,24,M,Chan Chan,Puno,2024-11-06,8,2125.55,
+V2188,Ecuador,34,M,Chan Chan,Ica,2025-04-10,8,1017.11,Tren
+V2189,Brasil,53,M,Huacachina,Puno,2024-11-16,9,1570.3,Bus
+V2190,México,31,F,Líneas de Nazca,Cusco,2024-12-22,10,377.66,
+V2191,Brasil,37,F,Líneas de Nazca,Cusco,2025-10-11,7,4516.1,Avión
+V2192,Brasil,59,F,Chan Chan,Puno,2025-10-09,1,4851.41,
+V2193,Brasil,64,M,Machu Picchu,La Libertad,2024-11-20,3,2370.99,Avión
+V2194,Chile,69,F,Machu Picchu,Cusco,2025-09-23,10,4057.46,
+V2195,Argentina,64,F,Líneas de Nazca,Arequipa,2025-04-08,9,2750.58,
+V2196,Argentina,21,F,Machu Picchu,Puno,2025-03-11,9,1563.82,Bus
+V2197,Argentina,20,F,Huacachina,Cusco,2025-06-27,5,3333.84,Avión
+V2198,Ecuador,22,M,Chan Chan,Ica,2025-06-08,4,3207.13,NA
+V2199,Perú,36,M,Líneas de Nazca,Ica,2024-11-02,9,395.42,Bus
+V2200,Brasil,33,M,Chan Chan,Arequipa,2025-10-07,3,761.22,Tren
+V2201,Argentina,52,M,Cañón del Colca,Ica,2025-03-31,3,2784.95,Avión
+V2202,Colombia,46,F,Lago Titicaca,Arequipa,2025-09-17,6,2751.27,
+V2203,Perú,43,F,Chan Chan,Cusco,2025-04-04,5,4116.9,Auto
+V2204,Chile,38,F,Huacachina,Arequipa,2025-08-31,5,362.6,Bus
+V2205,Brasil,54,F,Líneas de Nazca,Arequipa,2025-06-02,4,393.45,Bus
+V2206,México,49,F,Líneas de Nazca,Arequipa,2025-04-08,9,3096.04,NA
+V2207,México,48,F,Huacachina,Cusco,2025-08-22,10,2523.61,Tren
+V2208,EE.UU.,30,F,Líneas de Nazca,La Libertad,2025-03-07,9,4865.22,NA
+V2209,EE.UU.,20,F,Chan Chan,La Libertad,2025-05-16,9,3941.73,Bus
+V2210,México,37,F,Lago Titicaca,Cusco,2024-11-08,7,2975.72,NA
+V2211,Colombia,70,M,Chan Chan,Cusco,2025-04-16,2,2374.42,NA
+V2212,Argentina,62,F,Cañón del Colca,Puno,2025-03-22,8,3116.66,Tren
+V2213,Ecuador,24,F,Lago Titicaca,Ica,2025-03-18,8,1095.69,Tren
+V2214,Brasil,53,F,Cañón del Colca,La Libertad,2025-10-14,5,3684.53,
+V2215,México,60,F,Líneas de Nazca,Arequipa,2025-02-14,5,1422.92,
+V2216,Colombia,32,F,Lago Titicaca,Cusco,2024-12-25,1,2955.17,
+V2217,EE.UU.,28,F,Líneas de Nazca,Arequipa,2025-02-24,8,4126.99,NA
+V2218,EE.UU.,54,F,Líneas de Nazca,Puno,2025-09-01,10,2046.73,Auto
+V2219,Colombia,52,F,Cañón del Colca,Ica,2025-01-31,6,4655.77,Tren
+V2220,Brasil,36,M,Chan Chan,Puno,2025-06-01,2,414.43,Auto
+V2221,Perú,36,M,Chan Chan,Ica,2025-09-08,4,2440.44,NA
+V2222,EE.UU.,63,F,Lago Titicaca,Cusco,2025-07-01,5,4343.26,NA
+V2223,Brasil,27,F,Chan Chan,La Libertad,2025-07-04,9,3010.45,Tren
+V2224,EE.UU.,58,F,Cañón del Colca,Cusco,2025-03-03,7,2597.91,Bus
+V2225,Brasil,38,F,Machu Picchu,Ica,2025-09-29,6,4550.21,Bus
+V2226,Argentina,32,M,Lago Titicaca,Arequipa,2025-09-18,1,3588.62,Avión
+V2227,Chile,70,F,Chan Chan,Puno,2024-10-18,9,4885.48,Bus
+V2228,EE.UU.,23,F,Machu Picchu,La Libertad,2025-04-20,2,2908.13,
+V2229,Ecuador,39,F,Machu Picchu,Cusco,2025-06-16,1,4160.03,Avión
+V2230,EE.UU.,46,M,Lago Titicaca,Puno,2025-03-24,10,1129.92,
+V2231,Colombia,18,F,Machu Picchu,Arequipa,2025-01-18,3,4121.35,Auto
+V2232,Argentina,21,M,Cañón del Colca,Ica,2025-10-01,9,3491.15,NA
+V2233,Brasil,66,F,Lago Titicaca,Cusco,2025-05-04,6,1726.89,Avión
+V2234,Brasil,19,F,Lago Titicaca,Arequipa,2025-07-17,4,2193.45,Auto
+V2235,Perú,19,M,Lago Titicaca,La Libertad,2024-11-22,9,2671.71,Tren
+V2236,Chile,63,M,Cañón del Colca,Cusco,2025-08-01,7,1898.31,
+V2237,EE.UU.,51,M,Chan Chan,Ica,2024-12-30,10,4009.27,NA
+V2238,Chile,21,F,Chan Chan,Puno,2025-04-10,6,2561.86,NA
+V2239,México,20,M,Cañón del Colca,Ica,2025-01-02,7,2776.7,Auto
+V2240,Brasil,31,M,Chan Chan,Cusco,2025-05-08,4,3834.64,NA
+V2241,Colombia,29,F,Machu Picchu,Ica,2024-12-04,1,1688.21,Avión
+V2242,Brasil,40,F,Huacachina,Puno,2025-04-14,7,2195.91,Auto
+V2243,Argentina,62,M,Huacachina,Arequipa,2024-11-21,8,924.01,NA
+V2244,Argentina,27,M,Huacachina,Ica,2025-10-16,4,385.75,Tren
+V2245,Brasil,34,F,Chan Chan,Puno,2025-02-04,9,4207.04,Auto
+V2246,Brasil,33,F,Huacachina,Ica,2025-01-27,2,488.71,
+V2247,México,57,F,Chan Chan,Cusco,2025-08-30,6,724.72,
+V2248,Colombia,65,M,Lago Titicaca,Puno,2025-10-15,5,408.12,NA
+V2249,Argentina,55,M,Machu Picchu,Ica,2025-08-22,7,4049.33,NA
+V2250,Chile,26,F,Cañón del Colca,Puno,2025-02-07,2,1327.48,
+V2251,Ecuador,49,M,Cañón del Colca,La Libertad,2025-08-28,8,3105.9,Tren
+V2252,Brasil,31,F,Lago Titicaca,Ica,2024-11-01,8,3749.43,Tren
+V2253,Perú,60,M,Chan Chan,La Libertad,2025-01-01,4,3957.43,NA
+V2254,Ecuador,28,M,Líneas de Nazca,La Libertad,2024-12-25,2,1703.56,Auto
+V2255,Ecuador,29,F,Lago Titicaca,Ica,2025-07-24,5,3825.66,NA
+V2256,Ecuador,51,M,Lago Titicaca,Cusco,2025-09-30,2,1365.24,Avión
+V2257,Argentina,63,M,Lago Titicaca,Ica,2025-09-11,6,4993.94,
+V2258,Ecuador,43,F,Lago Titicaca,Arequipa,2025-05-16,3,3910.02,Tren
+V2259,Perú,38,F,Cañón del Colca,La Libertad,2025-09-14,3,661.62,Tren
+V2260,EE.UU.,54,M,Huacachina,Arequipa,2025-03-08,10,2065.72,Tren
+V2261,Ecuador,39,M,Machu Picchu,Puno,2025-07-24,4,3479.94,Auto
+V2262,México,23,M,Lago Titicaca,Cusco,2025-06-28,2,4847.95,
+V2263,Chile,49,M,Huacachina,La Libertad,2025-01-07,8,320.74,Bus
+V2264,Ecuador,66,M,Lago Titicaca,Arequipa,2024-10-22,9,4689.84,
+V2265,México,47,M,Lago Titicaca,La Libertad,2025-04-30,6,2326.42,
+V2266,Argentina,47,M,Chan Chan,Ica,2025-04-01,6,1203.6,Avión
+V2267,México,44,M,Huacachina,Cusco,2025-03-12,8,1408.46,Tren
+V2268,México,27,F,Chan Chan,Puno,2025-05-30,1,653.37,Avión
+V2269,Brasil,61,F,Machu Picchu,La Libertad,2025-05-16,4,4502.7,NA
+V2270,Chile,67,M,Huacachina,La Libertad,2024-12-04,4,4976.15,Tren
+V2271,Ecuador,57,M,Líneas de Nazca,La Libertad,2025-04-09,6,1945.23,Avión
+V2272,Ecuador,63,F,Huacachina,La Libertad,2025-08-26,6,911.49,Tren
+V2273,Ecuador,48,F,Machu Picchu,Ica,2025-07-01,5,877.76,
+V2274,Chile,18,F,Cañón del Colca,La Libertad,2025-06-03,8,1651.86,
+V2275,Brasil,37,M,Líneas de Nazca,La Libertad,2025-08-07,2,1587.4,NA
+V2276,Perú,29,M,Líneas de Nazca,Cusco,2024-11-15,6,4185.41,Avión
+V2277,Argentina,21,F,Machu Picchu,Ica,2024-12-04,6,2619.65,
+V2278,Ecuador,22,F,Cañón del Colca,Ica,2024-11-20,6,440.77,Tren
+V2279,EE.UU.,55,F,Huacachina,La Libertad,2025-10-10,6,1109.42,Bus
+V2280,Chile,43,F,Machu Picchu,La Libertad,2025-05-16,6,4989.56,Tren
+V2281,EE.UU.,69,F,Huacachina,Puno,2025-01-17,10,2801.56,Tren
+V2282,Chile,53,F,Lago Titicaca,Cusco,2025-05-21,5,2173.81,Auto
+V2283,Chile,63,M,Machu Picchu,La Libertad,2025-10-13,1,2179.45,Bus
+V2284,México,37,F,Huacachina,La Libertad,2024-12-01,7,2871.43,
+V2285,Colombia,42,M,Huacachina,Cusco,2025-01-28,2,3514.77,
+V2286,Chile,36,F,Huacachina,Ica,2025-07-11,9,509.02,Bus
+V2287,Perú,57,F,Cañón del Colca,Arequipa,2025-07-04,3,3526.28,Tren
+V2288,Ecuador,22,M,Lago Titicaca,Cusco,2025-04-09,10,3619.61,Bus
+V2289,Colombia,44,M,Huacachina,Puno,2025-09-27,8,2383.91,NA
+V2290,Ecuador,22,M,Líneas de Nazca,La Libertad,2025-07-29,7,2786.42,
+V2291,EE.UU.,41,M,Huacachina,Cusco,2024-12-02,5,1730.84,Avión
+V2292,EE.UU.,38,M,Chan Chan,Ica,2025-09-16,10,1967.6,Bus
+V2293,EE.UU.,49,M,Machu Picchu,Ica,2025-06-02,8,2258.55,
+V2294,EE.UU.,63,M,Cañón del Colca,Puno,2025-01-09,2,2830.34,Avión
+V2295,Argentina,68,F,Lago Titicaca,La Libertad,2025-06-25,4,4333.63,Tren
+V2296,Brasil,18,F,Chan Chan,Arequipa,2025-01-12,2,4150.41,Bus
+V2297,EE.UU.,36,F,Líneas de Nazca,Ica,2025-01-02,7,1435.55,Tren
+V2298,Ecuador,25,M,Chan Chan,La Libertad,2025-03-03,2,2133.31,NA
+V2299,Argentina,70,M,Lago Titicaca,Puno,2025-10-10,9,2856.39,Tren
+V2300,Perú,20,M,Cañón del Colca,Puno,2024-11-15,10,2006.45,Tren
+V2301,Argentina,42,M,Cañón del Colca,Cusco,2025-08-26,2,4830.61,Bus
+V2302,Chile,59,M,Líneas de Nazca,Puno,2025-01-23,3,2170.07,Avión
+V2303,Chile,28,F,Líneas de Nazca,Arequipa,2025-09-18,5,1434.38,NA
+V2304,Colombia,32,M,Huacachina,Cusco,2025-02-15,1,2851.24,Bus
+V2305,Argentina,49,M,Líneas de Nazca,Cusco,2025-07-27,10,4139.55,Bus
+V2306,Ecuador,49,M,Líneas de Nazca,La Libertad,2025-09-27,3,693.77,Bus
+V2307,Colombia,64,F,Líneas de Nazca,Ica,2025-05-17,3,1833.31,
+V2308,Brasil,57,M,Cañón del Colca,Cusco,2025-08-19,7,308.09,Tren
+V2309,Argentina,18,M,Lago Titicaca,Cusco,2024-12-03,3,1479.41,Auto
+V2310,Ecuador,58,F,Huacachina,Puno,2024-11-08,3,3837.07,Avión
+V2311,México,63,F,Lago Titicaca,Arequipa,2025-03-18,1,4109.59,NA
+V2312,EE.UU.,69,M,Machu Picchu,Ica,2025-02-08,5,2327.43,Auto
+V2313,México,18,M,Líneas de Nazca,Puno,2024-12-23,6,4918.71,NA
+V2314,Perú,51,F,Chan Chan,La Libertad,2025-10-14,7,4064.78,Tren
+V2315,Argentina,24,F,Lago Titicaca,Cusco,2024-12-19,2,4884.62,Bus
+V2316,Brasil,46,M,Chan Chan,Ica,2025-01-02,8,1764.31,Auto
+V2317,Chile,38,M,Líneas de Nazca,La Libertad,2025-08-01,9,2562.53,Avión
+V2318,EE.UU.,58,M,Cañón del Colca,Cusco,2025-01-13,5,1276.34,Bus
+V2319,México,40,M,Líneas de Nazca,Ica,2025-01-15,7,2958.23,Avión
+V2320,Colombia,62,F,Líneas de Nazca,Arequipa,2025-06-08,7,1437.0,NA
+V2321,Argentina,27,F,Machu Picchu,La Libertad,2025-04-21,6,3051.65,NA
+V2322,México,59,F,Chan Chan,Arequipa,2024-12-02,3,2930.41,Auto
+V2323,Colombia,23,M,Huacachina,Ica,2025-05-01,1,4974.67,Auto
+V2324,EE.UU.,40,M,Líneas de Nazca,Puno,2025-02-26,6,1774.43,Tren
+V2325,Ecuador,51,F,Machu Picchu,Ica,2025-05-29,10,1774.83,Auto
+V2326,Argentina,68,F,Cañón del Colca,Ica,2025-09-17,5,1863.56,Auto
+V2327,Brasil,28,M,Machu Picchu,Arequipa,2025-04-24,3,581.69,Avión
+V2328,Brasil,58,F,Huacachina,Puno,2024-10-28,8,940.69,NA
+V2329,Ecuador,53,F,Líneas de Nazca,Puno,2025-04-02,9,4302.42,Bus
+V2330,Brasil,61,M,Huacachina,Ica,2025-07-29,3,2105.18,Tren
+V2331,EE.UU.,44,M,Lago Titicaca,Ica,2024-12-29,10,1935.85,Tren
+V2332,Brasil,65,F,Cañón del Colca,Ica,2025-10-03,8,2999.19,Tren
+V2333,Argentina,48,M,Huacachina,Puno,2024-12-07,4,651.05,NA
+V2334,Chile,52,F,Líneas de Nazca,Arequipa,2025-04-18,1,2092.4,NA
+V2335,Brasil,48,F,Cañón del Colca,Arequipa,2025-06-11,3,2139.82,Tren
+V2336,México,20,F,Lago Titicaca,Arequipa,2025-03-08,6,2510.65,
+V2337,Ecuador,67,F,Cañón del Colca,La Libertad,2025-01-25,9,1039.43,
+V2338,Argentina,41,F,Huacachina,La Libertad,2024-12-14,8,2235.51,
+V2339,Argentina,54,M,Chan Chan,La Libertad,2025-07-22,6,2632.67,Bus
+V2340,Argentina,31,M,Líneas de Nazca,Cusco,2025-10-03,4,4628.02,Auto
+V2341,Colombia,39,M,Chan Chan,Cusco,2025-06-02,2,3706.38,
+V2342,Chile,52,M,Líneas de Nazca,La Libertad,2024-10-19,7,3802.11,Avión
+V2343,Brasil,36,F,Lago Titicaca,Puno,2025-04-30,8,4386.85,Bus
+V2344,Colombia,61,M,Cañón del Colca,La Libertad,2024-12-17,9,3328.06,NA
+V2345,Perú,33,M,Machu Picchu,Ica,2024-12-04,3,3079.46,Bus
+V2346,Brasil,26,M,Chan Chan,La Libertad,2025-07-13,1,3819.71,
+V2347,Colombia,43,F,Machu Picchu,Puno,2025-07-27,1,4174.25,Auto
+V2348,Colombia,61,F,Machu Picchu,Ica,2025-01-26,2,1950.84,NA
+V2349,EE.UU.,65,M,Lago Titicaca,La Libertad,2025-08-27,1,405.94,NA
+V2350,Argentina,20,M,Chan Chan,La Libertad,2025-10-13,3,3290.8,NA
+V2351,Colombia,24,F,Huacachina,Cusco,2025-07-23,2,4439.92,
+V2352,Argentina,46,F,Machu Picchu,La Libertad,2025-04-06,10,4747.85,NA
+V2353,Colombia,22,M,Lago Titicaca,Ica,2024-11-10,4,4016.76,Auto
+V2354,Perú,67,F,Cañón del Colca,Ica,2024-10-29,3,892.61,NA
+V2355,Colombia,64,M,Lago Titicaca,Puno,2025-09-23,10,3233.85,Bus
+V2356,México,69,M,Huacachina,Puno,2024-12-23,2,2398.01,NA
+V2357,México,53,F,Cañón del Colca,La Libertad,2025-08-27,6,2071.42,Tren
+V2358,Perú,48,M,Cañón del Colca,Puno,2024-11-13,2,4158.36,Bus
+V2359,EE.UU.,57,M,Lago Titicaca,La Libertad,2024-11-13,10,1655.7,Avión
+V2360,México,55,M,Machu Picchu,Ica,2025-04-29,10,3506.83,
+V2361,Ecuador,23,F,Machu Picchu,Cusco,2024-12-02,2,4988.74,Bus
+V2362,Colombia,46,F,Machu Picchu,La Libertad,2025-04-06,1,2264.6,NA
+V2363,EE.UU.,42,M,Chan Chan,La Libertad,2025-06-25,7,4614.32,Avión
+V2364,Perú,33,F,Líneas de Nazca,Puno,2025-06-13,1,4929.73,
+V2365,México,45,F,Chan Chan,Ica,2025-02-16,2,4389.74,Tren
+V2366,Ecuador,70,F,Chan Chan,Cusco,2025-06-03,5,3929.51,Avión
+V2367,Brasil,62,F,Cañón del Colca,Puno,2025-01-16,1,2113.78,Auto
+V2368,EE.UU.,46,F,Machu Picchu,Cusco,2025-07-31,9,1163.8,Bus
+V2369,Perú,48,M,Lago Titicaca,La Libertad,2025-07-03,8,1190.17,
+V2370,México,58,F,Machu Picchu,Arequipa,2025-02-09,3,3942.17,NA
+V2371,EE.UU.,43,F,Lago Titicaca,Puno,2025-01-08,3,3681.81,Tren
+V2372,Chile,26,F,Huacachina,Arequipa,2025-07-06,5,3364.25,Auto
+V2373,Colombia,38,F,Cañón del Colca,Ica,2025-05-13,10,2540.79,Avión
+V2374,Chile,62,F,Líneas de Nazca,La Libertad,2025-03-15,1,1908.93,NA
+V2375,Colombia,34,M,Lago Titicaca,La Libertad,2025-05-12,7,338.72,Tren
+V2376,Colombia,22,F,Lago Titicaca,Arequipa,2024-10-26,3,1078.72,Avión
+V2377,México,54,F,Lago Titicaca,Arequipa,2025-01-29,9,3945.71,NA
+V2378,México,67,M,Chan Chan,La Libertad,2025-04-30,2,3261.47,Tren
+V2379,México,20,M,Machu Picchu,Puno,2025-08-13,10,918.24,Auto
+V2380,EE.UU.,48,F,Chan Chan,Ica,2025-07-25,7,2147.25,
+V2381,Colombia,22,F,Huacachina,Cusco,2025-10-06,9,3093.02,Auto
+V2382,Argentina,48,M,Chan Chan,Ica,2025-09-23,3,2353.15,Tren
+V2383,Argentina,43,M,Líneas de Nazca,Arequipa,2024-11-05,4,3456.7,
+V2384,México,55,M,Chan Chan,Puno,2024-11-22,3,3729.88,NA
+V2385,México,67,M,Chan Chan,La Libertad,2025-04-12,1,3698.24,NA
+V2386,Ecuador,38,F,Chan Chan,Ica,2024-12-14,10,1569.82,Tren
+V2387,Ecuador,62,F,Cañón del Colca,La Libertad,2025-08-11,9,3556.32,Tren
+V2388,Colombia,39,M,Cañón del Colca,Ica,2025-07-12,5,1071.18,Avión
+V2389,México,64,M,Huacachina,Arequipa,2025-04-27,5,1189.96,Bus
+V2390,Colombia,62,M,Lago Titicaca,Cusco,2025-07-17,5,3102.24,Bus
+V2391,Perú,50,F,Machu Picchu,Arequipa,2025-09-13,4,4518.84,Tren
+V2392,México,60,F,Chan Chan,Puno,2025-08-24,8,3890.6,Tren
+V2393,Perú,52,F,Cañón del Colca,Cusco,2025-05-22,2,2755.2,Auto
+V2394,Chile,60,F,Líneas de Nazca,Puno,2025-09-08,1,1463.63,NA
+V2395,Ecuador,52,M,Huacachina,Arequipa,2025-10-03,8,3979.03,Tren
+V2396,Perú,47,M,Lago Titicaca,Puno,2025-09-17,8,4967.57,Bus
+V2397,Colombia,27,F,Lago Titicaca,Cusco,2025-04-07,1,1983.99,Bus
+V2398,Chile,63,M,Líneas de Nazca,La Libertad,2025-10-03,5,2405.6,Bus
+V2399,Chile,39,M,Lago Titicaca,Cusco,2025-02-25,2,3146.1,NA
+V2400,Chile,30,M,Líneas de Nazca,Arequipa,2025-08-20,2,1848.3,
+V2401,Ecuador,35,F,Líneas de Nazca,La Libertad,2025-08-31,5,682.87,Auto
+V2402,Brasil,66,F,Huacachina,Puno,2025-05-04,5,1405.65,Avión
+V2403,Colombia,59,M,Lago Titicaca,Cusco,2025-02-24,4,2341.11,Bus
+V2404,Brasil,40,M,Huacachina,Ica,2024-11-18,1,499.01,Auto
+V2405,Brasil,63,F,Lago Titicaca,La Libertad,2025-09-28,7,1079.27,Tren
+V2406,Brasil,36,M,Machu Picchu,Puno,2025-04-19,7,4365.78,
+V2407,Chile,35,M,Líneas de Nazca,Puno,2025-03-03,2,2204.05,Bus
+V2408,Brasil,26,M,Machu Picchu,La Libertad,2025-09-11,2,3617.58,Auto
+V2409,Brasil,27,F,Huacachina,La Libertad,2025-03-06,5,3434.99,Auto
+V2410,EE.UU.,48,M,Líneas de Nazca,Puno,2025-01-25,10,3120.72,Auto
+V2411,Chile,64,M,Chan Chan,Ica,2025-07-24,4,4769.98,NA
+V2412,Ecuador,63,M,Líneas de Nazca,Cusco,2025-05-26,2,2661.6,Auto
+V2413,México,49,F,Líneas de Nazca,Ica,2024-10-18,2,4733.38,Bus
+V2414,Perú,23,F,Líneas de Nazca,La Libertad,2024-11-12,8,4518.75,NA
+V2415,Argentina,35,M,Cañón del Colca,La Libertad,2024-12-02,6,1748.35,Tren
+V2416,Colombia,48,M,Lago Titicaca,Arequipa,2025-04-03,5,2649.3,Auto
+V2417,México,28,M,Huacachina,Puno,2025-06-21,7,1259.42,Avión
+V2418,Chile,36,F,Machu Picchu,La Libertad,2025-05-11,9,4283.08,Bus
+V2419,Perú,56,F,Cañón del Colca,Cusco,2025-03-07,1,3003.09,Auto
+V2420,Colombia,30,M,Huacachina,Ica,2025-05-13,2,4517.86,Auto
+V2421,Chile,47,F,Huacachina,Ica,2025-06-21,9,2985.77,Avión
+V2422,Perú,33,M,Machu Picchu,La Libertad,2025-01-28,8,3401.52,
+V2423,México,65,M,Chan Chan,Cusco,2025-08-17,7,1743.29,NA
+V2424,Perú,50,F,Cañón del Colca,Arequipa,2025-01-23,6,581.93,NA
+V2425,Ecuador,64,M,Lago Titicaca,La Libertad,2024-11-10,9,842.21,Bus
+V2426,Brasil,69,F,Lago Titicaca,La Libertad,2025-07-29,9,1108.82,
+V2427,Perú,64,F,Chan Chan,Ica,2025-08-17,1,2049.5,Tren
+V2428,Chile,38,M,Cañón del Colca,La Libertad,2025-10-03,3,1534.25,NA
+V2429,Perú,59,F,Chan Chan,La Libertad,2024-11-11,2,2800.12,Tren
+V2430,Chile,53,M,Cañón del Colca,Arequipa,2025-07-08,6,1323.55,Auto
+V2431,México,49,M,Lago Titicaca,Puno,2025-03-18,2,2982.08,NA
+V2432,Argentina,32,F,Líneas de Nazca,Ica,2025-07-06,5,3641.19,
+V2433,EE.UU.,54,M,Chan Chan,La Libertad,2025-01-09,9,1540.68,Tren
+V2434,Argentina,20,F,Machu Picchu,La Libertad,2024-11-07,8,2808.94,Avión
+V2435,EE.UU.,39,F,Líneas de Nazca,Arequipa,2025-10-04,10,4434.68,Bus
+V2436,Argentina,52,F,Líneas de Nazca,Arequipa,2024-11-24,3,2429.95,Tren
+V2437,Perú,29,M,Chan Chan,La Libertad,2025-06-24,2,1526.56,Auto
+V2438,Argentina,42,M,Líneas de Nazca,La Libertad,2025-02-02,7,3393.41,NA
+V2439,Brasil,51,F,Huacachina,Arequipa,2025-05-28,2,4984.62,NA
+V2440,Argentina,43,M,Machu Picchu,Cusco,2025-09-16,5,3726.6,Avión
+V2441,Colombia,55,M,Chan Chan,Cusco,2025-05-25,2,3659.79,Tren
+V2442,Brasil,49,F,Líneas de Nazca,Cusco,2025-03-27,1,2363.76,Tren
+V2443,Argentina,30,M,Lago Titicaca,Ica,2025-10-05,4,454.2,Auto
+V2444,Brasil,60,M,Chan Chan,La Libertad,2024-12-17,5,1215.15,Bus
+V2445,Argentina,46,F,Machu Picchu,Ica,2024-11-26,8,745.85,Avión
+V2446,EE.UU.,58,M,Huacachina,Cusco,2025-08-29,5,4680.87,Auto
+V2447,EE.UU.,40,M,Cañón del Colca,Puno,2025-08-22,2,3353.43,NA
+V2448,Perú,24,F,Huacachina,La Libertad,2025-09-08,3,2775.12,NA
+V2449,Chile,20,F,Líneas de Nazca,Cusco,2025-04-26,5,1340.91,
+V2450,Chile,70,F,Chan Chan,Arequipa,2025-04-23,5,2393.53,
+V2451,México,45,M,Chan Chan,Cusco,2025-01-06,9,3085.47,
+V2452,Colombia,32,M,Lago Titicaca,La Libertad,2025-08-05,4,3960.07,NA
+V2453,Argentina,29,M,Machu Picchu,Cusco,2025-02-23,9,4432.1,Tren
+V2454,EE.UU.,43,F,Chan Chan,Ica,2025-04-18,1,4317.32,Auto
+V2455,México,23,M,Lago Titicaca,Cusco,2025-01-28,9,1401.44,Tren
+V2456,México,45,M,Machu Picchu,La Libertad,2025-10-06,3,4843.62,Auto
+V2457,Colombia,32,F,Machu Picchu,Puno,2024-12-06,1,1145.69,
+V2458,Argentina,52,M,Huacachina,Cusco,2024-10-19,7,1412.88,NA
+V2459,Colombia,24,F,Huacachina,Puno,2025-07-27,5,710.14,
+V2460,Ecuador,46,M,Machu Picchu,La Libertad,2025-06-12,4,1358.0,
+V2461,Brasil,25,M,Líneas de Nazca,Arequipa,2025-02-23,3,713.89,
+V2462,Brasil,22,M,Lago Titicaca,Cusco,2025-07-14,9,4568.97,Bus
+V2463,Brasil,50,M,Lago Titicaca,Ica,2025-10-11,5,349.56,NA
+V2464,Colombia,49,M,Lago Titicaca,Cusco,2025-10-11,3,2390.62,Avión
+V2465,Perú,66,M,Líneas de Nazca,Ica,2025-01-01,9,3306.35,Bus
+V2466,Brasil,50,F,Chan Chan,Ica,2025-07-16,1,4147.75,Auto
+V2467,Colombia,59,F,Líneas de Nazca,Cusco,2025-07-31,5,2393.2,Bus
+V2468,México,19,M,Chan Chan,Puno,2025-03-29,8,3759.31,Avión
+V2469,EE.UU.,24,M,Lago Titicaca,Ica,2024-10-23,8,2591.33,Avión
+V2470,Colombia,59,M,Lago Titicaca,Ica,2024-11-02,2,2957.23,Auto
+V2471,Chile,35,F,Lago Titicaca,Puno,2025-01-08,3,3546.66,NA
+V2472,Perú,50,F,Huacachina,Arequipa,2025-03-27,9,1540.4,NA
+V2473,Chile,33,F,Machu Picchu,Ica,2025-04-12,4,2786.69,Tren
+V2474,Perú,61,M,Lago Titicaca,Cusco,2024-11-02,9,4308.66,Avión
+V2475,México,27,M,Lago Titicaca,La Libertad,2025-01-16,7,3444.56,NA
+V2476,Perú,20,M,Lago Titicaca,Arequipa,2025-09-14,5,3803.71,
+V2477,Colombia,33,M,Cañón del Colca,Ica,2025-09-15,7,4914.16,Auto
+V2478,EE.UU.,46,M,Líneas de Nazca,La Libertad,2025-06-13,10,2331.1,Tren
+V2479,Argentina,61,F,Chan Chan,La Libertad,2024-10-17,2,4089.1,Bus
+V2480,Chile,57,F,Lago Titicaca,Ica,2025-02-19,4,3788.03,Avión
+V2481,Ecuador,38,M,Cañón del Colca,Arequipa,2025-07-06,9,1525.7,Tren
+V2482,Ecuador,18,M,Líneas de Nazca,La Libertad,2024-11-15,9,2977.87,Avión
+V2483,Brasil,65,F,Machu Picchu,Arequipa,2025-06-07,5,1470.46,
+V2484,EE.UU.,65,M,Lago Titicaca,Ica,2025-09-24,1,3997.66,Tren
+V2485,Ecuador,18,M,Huacachina,Cusco,2024-11-18,7,1345.46,Tren
+V2486,Colombia,45,M,Machu Picchu,Puno,2025-01-31,8,382.07,Tren
+V2487,Argentina,28,M,Chan Chan,Cusco,2025-06-07,8,3038.29,Avión
+V2488,Argentina,29,F,Machu Picchu,Arequipa,2025-04-28,7,4948.81,Tren
+V2489,Perú,64,F,Líneas de Nazca,Cusco,2025-08-16,10,1265.64,Auto
+V2490,EE.UU.,51,M,Huacachina,La Libertad,2025-04-01,8,1774.66,Bus
+V2491,Perú,55,F,Cañón del Colca,Cusco,2025-06-04,1,1332.55,Tren
+V2492,EE.UU.,50,F,Chan Chan,Ica,2024-10-26,7,2448.58,Auto
+V2493,Argentina,66,M,Chan Chan,La Libertad,2025-10-16,7,2681.78,NA
+V2494,Argentina,46,F,Machu Picchu,Cusco,2025-07-19,2,383.21,
+V2495,EE.UU.,68,M,Lago Titicaca,Puno,2025-04-01,6,1382.16,Avión
+V2496,Chile,37,M,Chan Chan,La Libertad,2025-08-19,7,3437.0,Bus
+V2497,Brasil,63,F,Lago Titicaca,Cusco,2025-08-30,1,1440.08,Bus
+V2498,Argentina,27,M,Chan Chan,La Libertad,2024-10-24,1,633.65,Bus
+V2499,Brasil,64,F,Machu Picchu,Ica,2025-09-14,7,4287.91,NA
+V2500,EE.UU.,28,M,Huacachina,La Libertad,2025-08-18,7,582.64,Bus
+V2501,EE.UU.,18,M,Lago Titicaca,Cusco,2025-10-04,5,2367.61,Auto
+V2502,Colombia,30,M,Lago Titicaca,Arequipa,2024-11-30,6,904.09,Auto
+V2503,EE.UU.,57,F,Huacachina,Arequipa,2025-04-24,7,1334.12,Avión
+V2504,Chile,51,M,Machu Picchu,Ica,2025-06-02,5,581.88,NA
+V2505,Colombia,32,M,Líneas de Nazca,Cusco,2025-09-01,4,2269.17,Bus
+V2506,Ecuador,51,M,Huacachina,Arequipa,2025-01-23,8,4576.93,Auto
+V2507,EE.UU.,54,F,Machu Picchu,Ica,2025-08-17,1,4717.82,Avión
+V2508,Ecuador,42,F,Huacachina,Puno,2025-07-30,9,470.58,Avión
+V2509,Argentina,21,M,Chan Chan,Arequipa,2025-08-10,4,3236.15,Bus
+V2510,Perú,64,F,Cañón del Colca,Cusco,2025-04-09,8,4237.37,
+V2511,Colombia,41,F,Machu Picchu,Cusco,2025-06-23,5,3851.24,Auto
+V2512,México,31,M,Lago Titicaca,Arequipa,2025-10-01,7,2183.13,Tren
+V2513,Brasil,20,M,Huacachina,Cusco,2025-07-13,8,2594.04,
+V2514,Ecuador,70,M,Cañón del Colca,Cusco,2024-11-05,10,445.9,
+V2515,Colombia,47,M,Líneas de Nazca,Cusco,2025-09-30,4,4323.66,Auto
+V2516,Ecuador,18,M,Machu Picchu,Cusco,2024-12-18,9,3747.13,
+V2517,Ecuador,48,M,Cañón del Colca,Cusco,2025-07-03,3,1968.94,Auto
+V2518,México,37,F,Chan Chan,Arequipa,2025-08-18,3,4242.97,Tren
+V2519,Perú,51,F,Cañón del Colca,Ica,2025-02-28,5,955.86,Bus
+V2520,Chile,25,F,Machu Picchu,Puno,2025-04-14,2,3774.79,NA
+V2521,Brasil,20,F,Huacachina,Ica,2025-04-27,8,2995.41,Tren
+V2522,Colombia,30,M,Chan Chan,La Libertad,2025-07-08,2,326.9,
+V2523,Argentina,31,M,Lago Titicaca,Arequipa,2025-09-10,7,3244.62,Avión
+V2524,Perú,19,M,Huacachina,Ica,2025-03-01,6,2495.38,Bus
+V2525,Chile,39,M,Machu Picchu,Cusco,2025-05-18,10,577.08,NA
+V2526,Brasil,38,M,Machu Picchu,Puno,2025-07-05,8,601.73,Avión
+V2527,EE.UU.,45,F,Machu Picchu,La Libertad,2024-11-07,3,519.78,Avión
+V2528,Colombia,53,F,Machu Picchu,La Libertad,2025-03-23,5,4497.69,Avión
+V2529,Chile,23,F,Líneas de Nazca,Arequipa,2025-04-28,5,4640.36,Avión
+V2530,Colombia,62,F,Cañón del Colca,Ica,2025-02-06,8,4898.16,Avión
+V2531,Colombia,61,F,Machu Picchu,Cusco,2025-08-29,2,2677.31,Bus
+V2532,EE.UU.,67,M,Lago Titicaca,Puno,2025-03-30,5,1181.68,NA
+V2533,Colombia,45,F,Lago Titicaca,Cusco,2024-11-29,9,3291.44,Tren
+V2534,Brasil,33,F,Huacachina,Cusco,2024-12-01,1,709.01,Avión
+V2535,México,59,M,Machu Picchu,La Libertad,2025-01-14,1,1887.53,Tren
+V2536,Argentina,38,F,Machu Picchu,Ica,2025-03-16,2,324.74,Bus
+V2537,Chile,19,F,Chan Chan,Ica,2024-12-16,9,4138.01,Tren
+V2538,Chile,23,M,Cañón del Colca,La Libertad,2025-06-24,4,3461.09,Auto
+V2539,Chile,53,F,Lago Titicaca,La Libertad,2024-11-06,6,3094.92,Avión
+V2540,Ecuador,59,M,Huacachina,Cusco,2025-07-03,1,1876.43,
+V2541,Ecuador,51,F,Líneas de Nazca,Arequipa,2025-02-16,2,806.44,
+V2542,Colombia,48,M,Chan Chan,La Libertad,2024-10-23,4,3161.76,Bus
+V2543,Ecuador,66,F,Huacachina,Cusco,2025-07-21,10,2350.1,Bus
+V2544,Perú,40,M,Machu Picchu,La Libertad,2025-09-11,2,3130.76,Avión
+V2545,Brasil,46,F,Líneas de Nazca,Puno,2025-07-17,1,572.31,Avión
+V2546,México,22,F,Chan Chan,La Libertad,2025-01-10,10,2793.02,Tren
+V2547,Chile,49,F,Machu Picchu,Arequipa,2024-11-03,1,4373.86,
+V2548,Chile,26,M,Lago Titicaca,Cusco,2024-11-11,9,1168.54,
+V2549,Colombia,52,F,Cañón del Colca,La Libertad,2024-11-14,5,4757.49,Auto
+V2550,EE.UU.,29,M,Machu Picchu,La Libertad,2025-05-14,8,695.46,
+V2551,Argentina,46,M,Huacachina,Ica,2025-02-07,4,1413.69,
+V2552,Colombia,69,F,Huacachina,Arequipa,2025-04-27,2,1075.36,Auto
+V2553,Argentina,52,M,Machu Picchu,Ica,2025-08-10,9,2117.28,
+V2554,Colombia,27,M,Líneas de Nazca,La Libertad,2025-04-28,3,3369.58,Auto
+V2555,Colombia,25,M,Lago Titicaca,Ica,2025-10-11,2,4746.57,Tren
+V2556,Argentina,67,M,Cañón del Colca,Ica,2025-10-11,4,966.87,Avión
+V2557,México,38,M,Machu Picchu,Puno,2025-09-07,10,2710.57,Bus
+V2558,EE.UU.,32,M,Chan Chan,Cusco,2024-11-26,4,543.34,Auto
+V2559,Ecuador,52,F,Cañón del Colca,Cusco,2025-02-20,4,3965.43,Bus
+V2560,Colombia,70,F,Huacachina,Puno,2025-02-21,4,1389.55,
+V2561,Brasil,52,F,Huacachina,Arequipa,2024-11-06,1,3854.01,Tren
+V2562,Brasil,59,M,Machu Picchu,Ica,2024-12-27,4,2438.1,Avión
+V2563,Chile,70,F,Chan Chan,Cusco,2024-11-14,10,3521.37,NA
+V2564,Perú,70,F,Líneas de Nazca,Cusco,2024-12-02,2,1967.72,Auto
+V2565,México,67,M,Cañón del Colca,Cusco,2024-11-26,9,1663.68,Auto
+V2566,EE.UU.,37,M,Lago Titicaca,Puno,2024-12-22,9,3256.1,Auto
+V2567,Argentina,39,M,Cañón del Colca,La Libertad,2025-09-16,8,807.29,Avión
+V2568,México,59,F,Líneas de Nazca,La Libertad,2025-08-03,3,4690.96,NA
+V2569,Ecuador,66,M,Huacachina,Arequipa,2025-04-02,2,1047.17,Tren
+V2570,Chile,38,M,Cañón del Colca,Arequipa,2025-02-23,6,1797.09,NA
+V2571,Colombia,53,M,Machu Picchu,Arequipa,2025-06-22,7,4307.2,NA
+V2572,Chile,49,M,Machu Picchu,Cusco,2025-04-03,3,3292.82,
+V2573,Brasil,55,F,Machu Picchu,La Libertad,2025-04-30,7,832.62,Bus
+V2574,Chile,19,F,Huacachina,Ica,2025-02-02,10,3083.21,
+V2575,Brasil,49,M,Machu Picchu,Arequipa,2025-09-16,8,461.91,Bus
+V2576,Chile,20,F,Lago Titicaca,Puno,2025-07-18,1,1524.94,Tren
+V2577,Brasil,41,M,Cañón del Colca,Puno,2025-02-12,1,2255.88,Avión
+V2578,EE.UU.,29,M,Lago Titicaca,La Libertad,2025-09-14,2,1914.14,NA
+V2579,Colombia,63,F,Lago Titicaca,Arequipa,2025-02-22,7,3996.17,Bus
+V2580,Argentina,38,M,Huacachina,Cusco,2024-12-23,7,2779.83,Tren
+V2581,EE.UU.,23,M,Machu Picchu,Puno,2025-05-05,6,602.67,
+V2582,Brasil,32,F,Cañón del Colca,Arequipa,2024-12-30,2,4415.36,Tren
+V2583,Perú,18,M,Chan Chan,Cusco,2024-12-28,8,1557.96,Tren
+V2584,Argentina,62,F,Huacachina,Ica,2024-10-24,6,4803.97,Bus
+V2585,Ecuador,58,M,Machu Picchu,Arequipa,2025-06-16,8,1570.24,NA
+V2586,México,38,M,Lago Titicaca,La Libertad,2025-02-28,6,1137.22,Tren
+V2587,Ecuador,44,F,Machu Picchu,Puno,2024-11-02,7,2802.67,Avión
+V2588,Brasil,64,F,Lago Titicaca,Cusco,2025-09-08,8,1044.82,Avión
+V2589,Argentina,44,M,Huacachina,La Libertad,2024-11-04,4,888.89,Bus
+V2590,Colombia,28,F,Huacachina,Cusco,2025-09-30,6,1576.45,Auto
+V2591,México,53,F,Líneas de Nazca,Ica,2024-12-12,8,2369.11,NA
+V2592,Ecuador,37,F,Cañón del Colca,La Libertad,2025-04-21,3,664.78,Tren
+V2593,Chile,67,M,Huacachina,Puno,2025-08-27,9,2328.21,NA
+V2594,Ecuador,65,M,Chan Chan,La Libertad,2025-04-04,8,3019.41,Tren
+V2595,EE.UU.,22,F,Líneas de Nazca,Puno,2025-07-04,9,4531.84,NA
+V2596,Perú,64,M,Huacachina,Ica,2024-12-13,6,4646.82,Avión
+V2597,Ecuador,25,F,Chan Chan,Puno,2025-10-01,4,3312.77,Bus
+V2598,Chile,35,F,Cañón del Colca,Arequipa,2025-06-06,9,3248.57,NA
+V2599,Argentina,55,M,Lago Titicaca,Cusco,2025-04-04,9,2096.65,Auto
+V2600,Argentina,20,M,Líneas de Nazca,La Libertad,2025-06-14,9,4436.18,Avión
+V2601,Brasil,56,F,Machu Picchu,La Libertad,2025-08-29,3,1605.1,
+V2602,Brasil,54,M,Chan Chan,Cusco,2024-10-30,9,1849.67,Bus
+V2603,EE.UU.,56,M,Huacachina,Ica,2025-01-18,6,3377.02,Tren
+V2604,Perú,53,M,Huacachina,Ica,2025-07-07,7,2989.66,Auto
+V2605,Argentina,29,M,Cañón del Colca,Arequipa,2025-07-07,2,4009.54,NA
+V2606,EE.UU.,65,F,Lago Titicaca,Puno,2024-11-25,5,2706.44,NA
+V2607,EE.UU.,52,M,Chan Chan,Puno,2025-06-21,6,2420.57,Auto
+V2608,Perú,30,F,Chan Chan,Cusco,2025-03-23,9,4978.3,Tren
+V2609,Argentina,52,F,Lago Titicaca,Cusco,2024-11-10,3,671.16,
+V2610,Argentina,68,M,Chan Chan,Cusco,2024-11-20,2,2227.17,
+V2611,Colombia,64,M,Líneas de Nazca,Cusco,2025-02-25,4,3228.22,Bus
+V2612,Argentina,53,F,Lago Titicaca,Ica,2025-03-22,3,4225.65,Avión
+V2613,Brasil,41,F,Machu Picchu,Ica,2025-09-12,7,4012.84,Bus
+V2614,México,31,F,Cañón del Colca,Arequipa,2025-02-23,5,1907.1,
+V2615,Colombia,55,F,Lago Titicaca,Puno,2025-02-01,5,2694.11,Tren
+V2616,Argentina,49,F,Cañón del Colca,Cusco,2025-08-18,8,4211.3,Avión
+V2617,Colombia,47,F,Lago Titicaca,Puno,2025-08-15,10,2966.61,Avión
+V2618,México,25,F,Chan Chan,Puno,2025-06-21,4,3550.07,Avión
+V2619,Colombia,36,M,Líneas de Nazca,Cusco,2025-05-11,2,1953.21,Avión
+V2620,Perú,66,F,Machu Picchu,Ica,2025-05-21,7,2417.52,Auto
+V2621,México,28,F,Líneas de Nazca,Arequipa,2025-02-06,2,684.96,Tren
+V2622,Argentina,34,F,Cañón del Colca,La Libertad,2025-04-06,1,1967.46,Tren
+V2623,Brasil,70,F,Chan Chan,Cusco,2025-01-28,7,1680.07,Tren
+V2624,Chile,33,F,Cañón del Colca,Cusco,2024-10-24,8,2684.14,Avión
+V2625,Colombia,60,F,Machu Picchu,Cusco,2025-01-12,8,3119.95,Tren
+V2626,EE.UU.,64,F,Huacachina,Ica,2024-12-13,4,2663.45,Avión
+V2627,EE.UU.,20,F,Líneas de Nazca,Puno,2025-07-29,6,2368.66,Tren
+V2628,Ecuador,46,F,Líneas de Nazca,La Libertad,2025-07-23,3,3492.75,Avión
+V2629,Argentina,33,F,Machu Picchu,Cusco,2025-06-02,1,3594.75,Avión
+V2630,México,69,M,Huacachina,Cusco,2024-12-16,10,604.28,Tren
+V2631,México,24,M,Líneas de Nazca,Arequipa,2024-10-30,6,761.1,Tren
+V2632,Brasil,41,F,Lago Titicaca,Ica,2025-05-08,7,4682.29,Bus
+V2633,Perú,46,M,Machu Picchu,Puno,2025-02-27,2,1959.22,Bus
+V2634,México,56,M,Huacachina,Ica,2025-03-09,8,4569.84,NA
+V2635,México,58,M,Huacachina,Ica,2025-04-06,8,2781.89,Bus
+V2636,Argentina,42,F,Machu Picchu,Ica,2024-12-28,4,3977.08,Tren
+V2637,Ecuador,35,M,Machu Picchu,Arequipa,2025-06-18,4,3547.39,Auto
+V2638,Perú,30,M,Huacachina,La Libertad,2024-12-05,10,2051.33,Auto
+V2639,EE.UU.,59,F,Machu Picchu,Cusco,2025-02-06,3,1342.55,Bus
+V2640,Chile,39,F,Líneas de Nazca,La Libertad,2025-02-12,9,2303.26,Tren
+V2641,Ecuador,63,F,Líneas de Nazca,Cusco,2025-05-10,1,2949.52,NA
+V2642,Chile,26,F,Lago Titicaca,La Libertad,2025-03-30,10,3683.99,Bus
+V2643,Colombia,51,M,Huacachina,Arequipa,2025-06-28,9,2505.03,Tren
+V2644,Chile,28,F,Lago Titicaca,Ica,2025-06-24,5,3897.15,Bus
+V2645,Chile,61,F,Machu Picchu,Ica,2025-06-29,3,875.55,Avión
+V2646,Brasil,50,M,Machu Picchu,Puno,2025-06-02,5,2760.24,Auto
+V2647,EE.UU.,48,M,Chan Chan,Cusco,2025-05-21,10,3363.94,Bus
+V2648,Chile,63,F,Lago Titicaca,Puno,2025-10-06,2,740.84,Avión
+V2649,EE.UU.,27,F,Cañón del Colca,Arequipa,2024-12-01,9,1605.54,NA
+V2650,Perú,44,F,Huacachina,La Libertad,2025-01-29,9,4736.65,Tren
+V2651,Perú,67,M,Chan Chan,Ica,2025-08-28,1,3511.51,
+V2652,Ecuador,20,F,Chan Chan,La Libertad,2025-06-21,1,4426.83,Avión
+V2653,México,65,F,Cañón del Colca,Cusco,2025-07-11,2,1542.65,Bus
+V2654,Ecuador,21,M,Cañón del Colca,Cusco,2024-11-19,4,3052.34,Tren
+V2655,EE.UU.,20,M,Chan Chan,Ica,2025-02-25,4,4899.78,Avión
+V2656,Perú,64,M,Machu Picchu,Puno,2024-12-02,3,3336.85,Bus
+V2657,México,60,F,Machu Picchu,La Libertad,2024-11-15,4,4453.45,
+V2658,Chile,50,F,Machu Picchu,Puno,2025-07-04,8,3812.91,
+V2659,México,24,F,Lago Titicaca,La Libertad,2025-07-02,7,2716.56,Auto
+V2660,Chile,38,F,Huacachina,Cusco,2024-11-27,3,1077.31,Auto
+V2661,Ecuador,50,F,Chan Chan,La Libertad,2025-02-05,9,1428.04,Avión
+V2662,Colombia,20,F,Líneas de Nazca,La Libertad,2024-10-27,4,337.96,Bus
+V2663,México,29,M,Lago Titicaca,Cusco,2025-08-10,8,4580.46,
+V2664,EE.UU.,22,F,Lago Titicaca,La Libertad,2024-10-25,9,4013.6,
+V2665,Argentina,61,M,Huacachina,Ica,2025-01-04,10,637.01,
+V2666,Argentina,67,M,Chan Chan,Puno,2025-05-15,7,556.75,NA
+V2667,Ecuador,30,F,Machu Picchu,Ica,2024-10-21,9,1486.55,Bus
+V2668,Argentina,49,F,Huacachina,Arequipa,2025-06-04,6,981.38,Bus
+V2669,Perú,38,F,Lago Titicaca,Puno,2024-11-01,5,4478.67,NA
+V2670,Argentina,28,M,Huacachina,La Libertad,2025-09-24,6,1684.47,Tren
+V2671,EE.UU.,62,M,Líneas de Nazca,Ica,2024-12-05,8,621.66,NA
+V2672,Colombia,23,M,Huacachina,Puno,2025-04-30,7,394.96,NA
+V2673,EE.UU.,28,M,Huacachina,Cusco,2024-11-12,8,2911.31,NA
+V2674,Ecuador,66,M,Machu Picchu,La Libertad,2025-07-04,9,4508.76,Bus
+V2675,EE.UU.,68,M,Huacachina,Cusco,2025-06-12,9,805.38,Avión
+V2676,México,37,M,Chan Chan,Cusco,2025-08-24,3,1043.95,Avión
+V2677,Brasil,27,M,Huacachina,La Libertad,2024-11-03,4,3020.16,Avión
+V2678,Brasil,39,F,Chan Chan,Cusco,2025-05-06,7,355.49,Tren
+V2679,Argentina,67,F,Machu Picchu,Ica,2025-03-13,5,3534.55,Auto
+V2680,México,69,M,Líneas de Nazca,Puno,2025-09-06,3,3168.16,Bus
+V2681,México,39,F,Cañón del Colca,Ica,2025-02-06,8,2177.99,Bus
+V2682,Argentina,62,F,Huacachina,La Libertad,2024-12-31,4,1049.61,Tren
+V2683,Colombia,69,F,Machu Picchu,La Libertad,2025-04-02,9,818.87,Avión
+V2684,Chile,60,F,Cañón del Colca,Arequipa,2025-04-01,10,2358.84,Bus
+V2685,Colombia,25,M,Chan Chan,La Libertad,2025-08-06,8,2609.75,Bus
+V2686,Colombia,25,F,Chan Chan,Cusco,2025-06-07,5,2518.38,NA
+V2687,Chile,60,F,Líneas de Nazca,Arequipa,2025-07-05,8,2274.53,
+V2688,EE.UU.,22,M,Líneas de Nazca,Arequipa,2025-04-25,3,3211.99,Tren
+V2689,Brasil,45,F,Lago Titicaca,Cusco,2025-08-22,1,4641.87,Bus
+V2690,Perú,57,M,Machu Picchu,Cusco,2025-03-12,3,2414.74,Avión
+V2691,Chile,18,M,Chan Chan,Puno,2024-12-28,10,1349.25,NA
+V2692,Brasil,39,M,Chan Chan,Ica,2025-08-16,5,2453.99,Tren
+V2693,Argentina,62,F,Huacachina,Puno,2024-11-23,4,2856.21,Avión
+V2694,Argentina,51,M,Huacachina,Arequipa,2025-05-17,7,4376.46,NA
+V2695,EE.UU.,60,F,Machu Picchu,Ica,2025-04-28,6,3294.95,Bus
+V2696,Colombia,61,F,Chan Chan,Arequipa,2025-08-10,1,3686.66,NA
+V2697,México,62,F,Cañón del Colca,Cusco,2025-03-03,8,3537.66,Tren
+V2698,Colombia,70,F,Chan Chan,Cusco,2024-12-15,8,2088.87,Bus
+V2699,Brasil,27,F,Lago Titicaca,Ica,2024-12-15,6,3407.82,Bus
+V2700,Perú,68,M,Chan Chan,Ica,2025-03-07,2,1512.91,Tren
+V2701,México,43,M,Machu Picchu,Ica,2024-12-15,4,1570.68,
+V2702,Argentina,65,F,Machu Picchu,Puno,2025-07-02,5,4306.19,Tren
+V2703,Chile,21,M,Chan Chan,Cusco,2024-11-22,4,2091.59,NA
+V2704,Brasil,26,M,Chan Chan,Puno,2024-10-25,8,1836.46,Auto
+V2705,Colombia,33,M,Huacachina,La Libertad,2025-05-31,6,875.86,NA
+V2706,Ecuador,57,M,Chan Chan,La Libertad,2024-11-16,10,918.68,
+V2707,EE.UU.,64,M,Lago Titicaca,Cusco,2025-04-30,7,1864.01,Auto
+V2708,Brasil,19,M,Lago Titicaca,Cusco,2025-10-03,3,1428.79,
+V2709,Brasil,52,M,Chan Chan,La Libertad,2025-01-23,1,4906.48,Auto
+V2710,Argentina,38,M,Lago Titicaca,Ica,2025-04-28,2,1130.02,
+V2711,Colombia,25,M,Huacachina,Ica,2025-03-30,7,4622.18,NA
+V2712,Brasil,52,F,Lago Titicaca,Puno,2025-08-10,1,3694.91,NA
+V2713,Ecuador,54,M,Cañón del Colca,Arequipa,2024-12-11,9,3108.47,Auto
+V2714,Argentina,26,F,Líneas de Nazca,La Libertad,2025-08-16,6,915.3,Bus
+V2715,Colombia,49,M,Chan Chan,Puno,2025-05-19,4,1900.78,NA
+V2716,Colombia,62,M,Chan Chan,Cusco,2025-04-29,8,4695.73,Auto
+V2717,México,41,F,Huacachina,La Libertad,2025-03-06,4,2364.81,
+V2718,México,67,F,Machu Picchu,Puno,2025-08-06,2,4389.66,NA
+V2719,México,58,M,Lago Titicaca,Arequipa,2025-05-07,6,4921.87,Bus
+V2720,Colombia,23,F,Chan Chan,La Libertad,2025-03-04,5,3399.18,Tren
+V2721,Chile,49,M,Machu Picchu,Ica,2025-06-20,9,1252.81,Auto
+V2722,Ecuador,53,M,Cañón del Colca,Puno,2024-11-29,9,4501.28,
+V2723,Argentina,22,F,Chan Chan,La Libertad,2025-02-06,1,2366.66,Bus
+V2724,Brasil,32,M,Cañón del Colca,Arequipa,2024-10-29,2,2635.94,Auto
+V2725,Brasil,47,M,Machu Picchu,Puno,2025-10-12,8,1029.87,Auto
+V2726,Chile,32,M,Chan Chan,Arequipa,2025-09-22,7,1566.53,
+V2727,México,70,F,Machu Picchu,Arequipa,2025-03-16,10,1096.5,Auto
+V2728,Argentina,54,F,Líneas de Nazca,Ica,2025-06-09,5,3117.43,Bus
+V2729,Ecuador,67,M,Machu Picchu,Arequipa,2025-06-22,5,3186.2,
+V2730,Chile,54,F,Huacachina,Ica,2025-08-20,5,4241.32,Bus
+V2731,Perú,30,F,Machu Picchu,La Libertad,2025-09-28,2,4037.66,Bus
+V2732,Perú,34,F,Cañón del Colca,La Libertad,2025-08-20,2,2697.74,NA
+V2733,EE.UU.,48,F,Machu Picchu,Cusco,2025-03-08,8,1599.28,Avión
+V2734,Ecuador,69,M,Líneas de Nazca,Cusco,2024-12-13,8,514.41,
+V2735,Brasil,40,M,Machu Picchu,Puno,2025-08-16,10,2851.15,
+V2736,EE.UU.,66,F,Cañón del Colca,Puno,2025-04-10,7,4961.56,Bus
+V2737,México,59,F,Huacachina,Puno,2024-10-21,6,4729.06,Tren
+V2738,Chile,53,M,Machu Picchu,Ica,2025-08-25,5,4966.52,Bus
+V2739,Ecuador,48,M,Machu Picchu,La Libertad,2024-11-18,6,2330.13,Tren
+V2740,México,54,F,Machu Picchu,La Libertad,2025-01-26,4,1916.35,NA
+V2741,EE.UU.,18,M,Lago Titicaca,La Libertad,2025-09-30,10,1850.43,Bus
+V2742,Argentina,61,M,Cañón del Colca,Arequipa,2025-05-01,10,4153.3,Auto
+V2743,Chile,47,F,Lago Titicaca,Ica,2025-06-07,9,1126.64,Auto
+V2744,Brasil,33,F,Huacachina,Cusco,2025-01-24,2,3552.69,Auto
+V2745,Perú,32,M,Lago Titicaca,Puno,2025-02-18,1,2471.45,Auto
+V2746,Argentina,21,F,Cañón del Colca,Cusco,2025-04-15,3,3912.49,Auto
+V2747,Chile,49,M,Machu Picchu,La Libertad,2024-11-27,1,3275.98,NA
+V2748,Chile,32,M,Cañón del Colca,La Libertad,2025-02-23,8,2155.75,Tren
+V2749,Argentina,24,F,Lago Titicaca,Puno,2025-01-04,3,1782.0,Bus
+V2750,Brasil,68,M,Machu Picchu,La Libertad,2025-08-03,2,2373.21,Auto
+V2751,EE.UU.,64,M,Líneas de Nazca,Ica,2025-05-31,8,2600.49,NA
+V2752,Ecuador,31,M,Chan Chan,Arequipa,2025-06-13,9,2251.1,Auto
+V2753,Ecuador,31,M,Machu Picchu,Cusco,2025-05-15,3,2307.04,Tren
+V2754,Brasil,50,F,Líneas de Nazca,Cusco,2025-02-19,4,1137.29,NA
+V2755,Brasil,23,F,Líneas de Nazca,Puno,2025-10-07,3,910.74,Bus
+V2756,Colombia,59,F,Huacachina,Ica,2025-04-09,7,4919.68,Auto
+V2757,Argentina,48,F,Lago Titicaca,Puno,2025-01-16,10,386.32,Auto
+V2758,Colombia,31,F,Machu Picchu,Arequipa,2025-09-12,8,3399.89,Bus
+V2759,Argentina,41,M,Huacachina,La Libertad,2025-03-13,1,349.62,Tren
+V2760,Argentina,67,M,Chan Chan,La Libertad,2025-07-24,8,730.75,Auto
+V2761,Argentina,67,M,Chan Chan,Cusco,2025-10-14,7,3441.76,
+V2762,Ecuador,64,M,Lago Titicaca,Arequipa,2024-12-17,7,440.07,Bus
+V2763,Chile,61,F,Lago Titicaca,Arequipa,2024-10-26,6,1380.21,Avión
+V2764,Argentina,22,M,Cañón del Colca,Cusco,2025-02-04,2,1954.61,NA
+V2765,EE.UU.,22,M,Chan Chan,Ica,2025-07-25,1,4525.94,Auto
+V2766,Ecuador,63,M,Huacachina,Cusco,2025-05-23,8,1713.36,
+V2767,Argentina,43,F,Lago Titicaca,Arequipa,2025-05-24,2,1015.69,Tren
+V2768,Chile,58,F,Huacachina,Arequipa,2025-06-27,7,2713.02,Bus
+V2769,Brasil,21,F,Machu Picchu,Cusco,2025-01-25,1,4957.68,Auto
+V2770,Ecuador,33,M,Lago Titicaca,La Libertad,2024-12-15,6,1476.61,Tren
+V2771,Colombia,34,F,Chan Chan,Ica,2025-08-03,5,4353.53,Bus
+V2772,Perú,63,M,Lago Titicaca,Puno,2024-11-20,5,1855.99,NA
+V2773,Brasil,48,F,Líneas de Nazca,Ica,2025-01-23,2,1795.78,Tren
+V2774,Ecuador,26,F,Huacachina,Ica,2025-05-20,8,4885.33,Bus
+V2775,Brasil,66,F,Lago Titicaca,Cusco,2025-01-23,8,1781.31,Tren
+V2776,EE.UU.,23,M,Lago Titicaca,La Libertad,2025-05-06,2,4770.27,Bus
+V2777,EE.UU.,46,F,Chan Chan,Cusco,2025-01-13,3,506.0,Bus
+V2778,Brasil,33,M,Cañón del Colca,La Libertad,2025-02-21,7,3769.46,Bus
+V2779,EE.UU.,62,F,Cañón del Colca,Cusco,2025-08-18,4,2074.03,NA
+V2780,Argentina,58,M,Chan Chan,Cusco,2024-11-13,7,3041.89,NA
+V2781,México,20,F,Lago Titicaca,Puno,2024-11-13,4,4200.61,Tren
+V2782,Ecuador,19,F,Chan Chan,Ica,2025-09-29,7,3379.2,Auto
+V2783,Argentina,20,F,Chan Chan,Puno,2025-08-11,5,4374.94,NA
+V2784,Argentina,35,F,Machu Picchu,Arequipa,2025-07-26,9,1139.57,NA
+V2785,EE.UU.,24,M,Chan Chan,Arequipa,2025-05-10,3,3871.96,Tren
+V2786,Brasil,49,M,Chan Chan,La Libertad,2025-02-13,6,1095.51,Auto
+V2787,México,21,F,Chan Chan,Arequipa,2025-05-24,4,3084.71,Bus
+V2788,Perú,18,M,Chan Chan,La Libertad,2025-05-06,8,1273.98,Avión
+V2789,Perú,62,M,Machu Picchu,Arequipa,2024-10-29,6,3406.58,Bus
+V2790,Ecuador,45,F,Huacachina,La Libertad,2025-06-25,9,2673.1,Avión
+V2791,Brasil,23,F,Lago Titicaca,Ica,2025-08-04,4,2280.68,Avión
+V2792,Argentina,28,M,Machu Picchu,Puno,2025-05-23,8,2858.49,
+V2793,Colombia,25,M,Lago Titicaca,Ica,2025-09-23,5,4863.5,Avión
+V2794,Chile,39,F,Machu Picchu,Arequipa,2025-02-16,8,4186.28,Bus
+V2795,Brasil,63,F,Cañón del Colca,Puno,2025-06-29,3,4926.45,Bus
+V2796,Ecuador,48,F,Huacachina,Puno,2024-12-12,1,3771.01,Bus
+V2797,México,62,F,Huacachina,Cusco,2024-12-20,10,1891.6,Avión
+V2798,Argentina,25,M,Lago Titicaca,La Libertad,2025-05-28,9,713.18,NA
+V2799,Ecuador,54,M,Chan Chan,Puno,2025-01-21,1,4743.62,Tren
+V2800,EE.UU.,37,F,Lago Titicaca,La Libertad,2025-07-11,4,2006.77,NA
+V2801,Colombia,41,M,Lago Titicaca,La Libertad,2025-07-22,6,403.96,
+V2802,EE.UU.,37,F,Machu Picchu,Ica,2025-05-08,3,3451.64,Bus
+V2803,Ecuador,60,F,Huacachina,Ica,2025-01-31,6,2698.99,Tren
+V2804,Brasil,23,F,Huacachina,La Libertad,2025-02-22,4,2534.72,Avión
+V2805,Argentina,35,F,Lago Titicaca,Arequipa,2025-07-25,10,3655.31,
+V2806,Perú,56,F,Machu Picchu,Arequipa,2024-11-26,6,3848.47,
+V2807,Brasil,62,M,Cañón del Colca,La Libertad,2025-05-30,6,3301.9,
+V2808,Colombia,24,F,Huacachina,Cusco,2025-06-09,4,2271.41,Auto
+V2809,México,46,F,Líneas de Nazca,Ica,2024-12-28,9,1292.96,Bus
+V2810,México,69,F,Cañón del Colca,Puno,2025-06-02,10,4309.02,Avión
+V2811,Ecuador,37,F,Chan Chan,La Libertad,2024-11-20,1,4180.08,Bus
+V2812,Brasil,63,F,Huacachina,Cusco,2024-11-25,5,4195.47,Auto
+V2813,Colombia,49,F,Lago Titicaca,Cusco,2025-07-15,7,1231.18,Tren
+V2814,México,50,M,Lago Titicaca,Cusco,2024-11-27,9,4998.49,Tren
+V2815,Colombia,40,F,Lago Titicaca,Puno,2025-05-31,8,4229.55,Auto
+V2816,Argentina,22,F,Chan Chan,Cusco,2025-02-03,1,1922.48,NA
+V2817,Ecuador,41,M,Huacachina,Arequipa,2024-10-24,5,3457.8,Avión
+V2818,México,41,M,Líneas de Nazca,Puno,2025-08-06,10,2161.45,Tren
+V2819,Ecuador,40,F,Huacachina,Ica,2025-03-28,9,1166.28,Auto
+V2820,Chile,53,F,Huacachina,Cusco,2024-10-30,9,623.42,NA
+V2821,Argentina,56,M,Chan Chan,La Libertad,2025-06-12,2,1252.79,Avión
+V2822,Chile,39,F,Chan Chan,Arequipa,2025-10-14,3,2933.93,Avión
+V2823,EE.UU.,64,M,Líneas de Nazca,Puno,2024-12-24,6,4840.09,Auto
+V2824,Brasil,44,F,Cañón del Colca,La Libertad,2025-07-02,10,2239.55,Auto
+V2825,EE.UU.,58,F,Líneas de Nazca,Ica,2025-03-18,5,2343.33,Avión
+V2826,Chile,70,F,Líneas de Nazca,Cusco,2024-12-01,3,3328.02,NA
+V2827,México,30,M,Chan Chan,Arequipa,2025-03-19,7,4085.21,
+V2828,EE.UU.,63,M,Cañón del Colca,Puno,2025-03-26,4,3986.57,Avión
+V2829,Argentina,35,F,Cañón del Colca,Cusco,2025-09-25,1,3675.76,Avión
+V2830,Ecuador,50,M,Machu Picchu,La Libertad,2025-01-10,2,2136.01,Auto
+V2831,EE.UU.,30,F,Chan Chan,Ica,2025-05-04,1,2187.07,
+V2832,México,28,F,Machu Picchu,Cusco,2025-08-17,1,2520.49,NA
+V2833,Chile,37,M,Chan Chan,Arequipa,2025-05-07,3,2473.84,
+V2834,Ecuador,32,F,Lago Titicaca,Puno,2025-02-18,10,4865.3,Bus
+V2835,Argentina,53,M,Chan Chan,Puno,2025-06-28,7,3120.4,NA
+V2836,Ecuador,46,M,Machu Picchu,Puno,2025-03-18,2,2463.26,Bus
+V2837,EE.UU.,28,F,Chan Chan,Cusco,2025-09-17,8,981.86,Auto
+V2838,Ecuador,32,M,Cañón del Colca,La Libertad,2025-02-21,4,4582.0,Tren
+V2839,Brasil,48,M,Lago Titicaca,Ica,2025-01-30,6,2884.99,Avión
+V2840,Ecuador,25,M,Chan Chan,Puno,2025-03-22,7,1118.95,NA
+V2841,Argentina,68,M,Huacachina,Arequipa,2025-03-19,3,1106.53,Bus
+V2842,Brasil,52,M,Líneas de Nazca,Cusco,2024-12-19,7,1120.62,Tren
+V2843,Ecuador,57,M,Chan Chan,Arequipa,2025-03-04,6,3466.81,Bus
+V2844,EE.UU.,18,M,Cañón del Colca,Ica,2025-04-16,1,3222.64,NA
+V2845,Colombia,38,F,Machu Picchu,Cusco,2025-03-09,2,2401.73,
+V2846,México,33,F,Cañón del Colca,Cusco,2025-10-01,9,348.37,Tren
+V2847,Argentina,36,F,Líneas de Nazca,La Libertad,2024-12-10,8,1908.81,Tren
+V2848,Brasil,50,F,Líneas de Nazca,Puno,2025-05-31,2,693.99,Auto
+V2849,México,68,F,Machu Picchu,La Libertad,2025-10-16,3,1436.54,Auto
+V2850,Brasil,33,F,Cañón del Colca,La Libertad,2025-05-01,3,4466.96,Tren
+V2851,México,25,M,Líneas de Nazca,Cusco,2025-05-10,7,3591.38,NA
+V2852,Colombia,57,M,Chan Chan,Arequipa,2025-03-18,8,1930.78,Auto
+V2853,Argentina,46,F,Líneas de Nazca,Ica,2024-11-28,6,3357.62,Bus
+V2854,Brasil,24,F,Cañón del Colca,Ica,2025-06-15,7,769.63,NA
+V2855,Colombia,38,M,Cañón del Colca,Cusco,2025-04-15,1,2453.71,Tren
+V2856,Argentina,46,F,Machu Picchu,Arequipa,2024-11-10,7,1086.37,Bus
+V2857,Brasil,54,F,Líneas de Nazca,La Libertad,2025-09-08,4,2800.19,
+V2858,México,58,M,Lago Titicaca,Arequipa,2025-01-23,9,400.77,
+V2859,Argentina,33,M,Cañón del Colca,Puno,2025-06-04,1,1533.44,Tren
+V2860,EE.UU.,56,F,Cañón del Colca,Ica,2025-02-18,9,3906.07,
+V2861,Argentina,29,M,Machu Picchu,La Libertad,2025-09-23,7,2902.74,Auto
+V2862,Chile,29,M,Lago Titicaca,Ica,2025-04-25,4,2728.62,Bus
+V2863,México,33,F,Machu Picchu,La Libertad,2024-11-12,8,4603.72,Avión
+V2864,Ecuador,43,M,Chan Chan,Cusco,2024-11-17,5,3319.78,Tren
+V2865,Colombia,42,F,Chan Chan,Ica,2025-03-27,4,2779.33,Avión
+V2866,México,66,M,Huacachina,Ica,2025-08-03,10,3026.16,Bus
+V2867,Argentina,20,M,Chan Chan,Puno,2025-01-29,4,412.55,Bus
+V2868,Chile,29,M,Machu Picchu,Cusco,2025-05-28,8,2897.78,Bus
+V2869,Colombia,69,M,Lago Titicaca,Cusco,2025-06-17,2,3948.3,Tren
+V2870,México,32,F,Cañón del Colca,Ica,2024-12-12,10,4759.05,Auto
+V2871,Argentina,24,M,Chan Chan,Cusco,2025-06-04,7,3764.02,Bus
+V2872,Chile,60,M,Cañón del Colca,Puno,2025-07-11,3,2296.03,NA
+V2873,Chile,68,F,Chan Chan,Cusco,2025-06-30,4,2156.3,NA
+V2874,México,61,F,Huacachina,Puno,2025-10-06,3,1856.2,Tren
+V2875,Ecuador,62,M,Chan Chan,Ica,2024-11-11,7,2235.51,NA
+V2876,EE.UU.,47,M,Líneas de Nazca,Cusco,2025-08-12,1,3159.39,Tren
+V2877,Brasil,41,F,Cañón del Colca,Puno,2025-06-07,3,4785.62,NA
+V2878,Brasil,54,M,Machu Picchu,La Libertad,2025-10-15,3,3718.17,Avión
+V2879,EE.UU.,40,M,Huacachina,Ica,2025-04-11,9,3010.29,NA
+V2880,Argentina,44,F,Cañón del Colca,Ica,2024-12-04,2,3416.76,
+V2881,Argentina,18,F,Cañón del Colca,La Libertad,2024-11-13,8,3647.66,NA
+V2882,Chile,40,M,Cañón del Colca,Cusco,2024-12-10,4,1978.84,
+V2883,Colombia,52,F,Cañón del Colca,Arequipa,2025-09-15,5,2200.96,
+V2884,Ecuador,33,F,Huacachina,Puno,2025-04-21,3,4438.83,Avión
+V2885,EE.UU.,31,F,Chan Chan,La Libertad,2025-05-11,2,3693.68,Avión
+V2886,Brasil,20,F,Cañón del Colca,Ica,2025-05-12,9,2220.69,Avión
+V2887,Ecuador,29,F,Huacachina,La Libertad,2024-12-19,9,3618.93,Auto
+V2888,Brasil,49,M,Lago Titicaca,Ica,2025-05-17,3,3014.05,Bus
+V2889,Ecuador,54,F,Líneas de Nazca,Arequipa,2024-11-04,9,761.54,Auto
+V2890,Argentina,59,F,Lago Titicaca,La Libertad,2025-09-16,10,1842.61,Bus
+V2891,Argentina,49,M,Huacachina,Puno,2025-09-08,1,3568.55,Auto
+V2892,Perú,33,F,Cañón del Colca,Puno,2025-08-19,9,1093.26,
+V2893,México,25,F,Huacachina,Puno,2025-08-14,8,1383.07,
+V2894,Ecuador,28,M,Líneas de Nazca,Puno,2025-01-04,1,4900.76,NA
+V2895,Ecuador,28,M,Huacachina,Arequipa,2025-03-19,9,3494.67,
+V2896,Ecuador,66,M,Chan Chan,Ica,2025-08-12,10,1530.29,Tren
+V2897,Brasil,37,F,Lago Titicaca,Arequipa,2024-10-19,9,2853.81,NA
+V2898,Colombia,22,F,Líneas de Nazca,Ica,2025-04-25,1,492.82,Bus
+V2899,EE.UU.,34,M,Huacachina,Ica,2024-12-05,7,2526.42,Auto
+V2900,Argentina,29,M,Huacachina,La Libertad,2025-08-14,5,482.43,NA
+V2901,Brasil,25,M,Huacachina,Cusco,2025-09-22,1,4706.96,Avión
+V2902,Brasil,24,M,Machu Picchu,Puno,2025-09-19,1,661.46,Bus
+V2903,México,33,M,Huacachina,Puno,2025-05-02,8,487.7,Tren
+V2904,EE.UU.,24,M,Huacachina,Ica,2025-02-05,2,3233.64,Auto
+V2905,EE.UU.,42,M,Chan Chan,Cusco,2025-01-08,6,2738.33,Bus
+V2906,EE.UU.,39,M,Huacachina,Cusco,2025-04-21,10,2909.26,Avión
+V2907,Chile,34,F,Lago Titicaca,Arequipa,2025-08-20,10,1103.95,Auto
+V2908,Brasil,40,F,Lago Titicaca,Cusco,2024-12-12,8,893.98,
+V2909,Argentina,31,F,Machu Picchu,Cusco,2025-01-18,9,2888.45,Tren
+V2910,Colombia,33,F,Líneas de Nazca,Cusco,2024-12-10,10,516.1,NA
+V2911,Colombia,61,F,Chan Chan,Ica,2024-11-02,3,2268.51,NA
+V2912,Argentina,30,M,Machu Picchu,Ica,2024-12-03,5,3700.99,Avión
+V2913,Argentina,30,F,Cañón del Colca,Cusco,2025-04-22,3,1942.4,
+V2914,Colombia,31,M,Chan Chan,La Libertad,2025-05-22,6,4578.89,Auto
+V2915,EE.UU.,45,M,Líneas de Nazca,La Libertad,2025-04-10,9,1982.6,Auto
+V2916,Chile,47,F,Machu Picchu,Ica,2025-08-27,4,709.32,Auto
+V2917,Colombia,37,F,Chan Chan,La Libertad,2025-09-24,9,965.5,
+V2918,Chile,21,F,Huacachina,Puno,2025-07-10,3,1561.71,NA
+V2919,Chile,62,M,Lago Titicaca,Arequipa,2025-10-08,2,4454.65,Avión
+V2920,Brasil,25,F,Líneas de Nazca,Puno,2025-10-01,3,2539.01,Tren
+V2921,Brasil,24,M,Lago Titicaca,Ica,2025-09-01,6,2643.83,Auto
+V2922,Ecuador,32,M,Machu Picchu,Ica,2025-04-03,1,4612.08,Auto
+V2923,Ecuador,54,F,Machu Picchu,La Libertad,2025-05-07,4,2918.92,Auto
+V2924,Ecuador,49,F,Cañón del Colca,Cusco,2024-11-02,3,2549.99,Tren
+V2925,Colombia,28,F,Cañón del Colca,Puno,2025-09-27,5,1152.34,
+V2926,EE.UU.,25,M,Líneas de Nazca,Puno,2025-07-08,10,562.89,Avión
+V2927,Perú,35,M,Huacachina,Cusco,2025-03-30,5,2493.26,Tren
+V2928,Perú,23,F,Cañón del Colca,Cusco,2025-07-21,9,1418.78,Avión
+V2929,EE.UU.,31,M,Lago Titicaca,Cusco,2025-08-23,3,3093.95,Auto
+V2930,Argentina,52,M,Machu Picchu,La Libertad,2025-01-05,5,4942.32,Bus
+V2931,Brasil,31,F,Huacachina,Ica,2024-12-06,10,2620.32,NA
+V2932,Perú,69,F,Cañón del Colca,Puno,2025-09-25,2,1598.23,Avión
+V2933,Colombia,65,F,Líneas de Nazca,Arequipa,2025-08-08,2,2539.59,Avión
+V2934,Chile,51,F,Chan Chan,La Libertad,2024-12-06,10,1506.63,Auto
+V2935,Colombia,55,M,Cañón del Colca,Ica,2025-02-26,10,1979.63,Auto
+V2936,Chile,36,F,Chan Chan,Puno,2025-06-17,1,1766.38,Avión
+V2937,Argentina,42,F,Chan Chan,Puno,2025-01-10,1,2863.15,
+V2938,Colombia,42,F,Lago Titicaca,Ica,2025-06-06,1,4897.13,Avión
+V2939,Colombia,35,M,Cañón del Colca,La Libertad,2024-11-11,2,2353.53,Bus
+V2940,EE.UU.,35,F,Huacachina,Ica,2025-04-16,4,4936.85,Auto
+V2941,EE.UU.,56,F,Cañón del Colca,Ica,2024-11-15,4,2211.01,Bus
+V2942,Colombia,45,M,Chan Chan,Puno,2025-05-12,9,473.74,
+V2943,EE.UU.,53,M,Líneas de Nazca,Cusco,2025-09-13,4,2585.1,Avión
+V2944,Colombia,51,F,Chan Chan,Puno,2025-10-03,1,1922.66,Tren
+V2945,Ecuador,28,M,Lago Titicaca,Ica,2025-05-04,8,1648.72,Auto
+V2946,Colombia,35,F,Cañón del Colca,Cusco,2024-12-21,8,1670.46,
+V2947,EE.UU.,38,M,Cañón del Colca,Cusco,2025-04-08,10,1423.17,Auto
+V2948,EE.UU.,37,F,Huacachina,Puno,2025-01-07,2,3247.48,Tren
+V2949,EE.UU.,24,F,Lago Titicaca,Cusco,2024-12-04,6,4442.84,Auto
+V2950,México,55,M,Cañón del Colca,Ica,2025-07-30,7,3516.29,Bus
+V2951,Perú,45,M,Líneas de Nazca,Cusco,2024-11-25,4,3475.84,Bus
+V2952,Brasil,58,M,Chan Chan,La Libertad,2025-05-20,6,2897.24,NA
+V2953,EE.UU.,57,F,Huacachina,Arequipa,2025-04-12,7,4266.32,
+V2954,Perú,22,M,Machu Picchu,Arequipa,2025-03-30,9,490.91,
+V2955,Ecuador,57,F,Chan Chan,Ica,2025-10-15,5,4880.36,Avión
+V2956,Argentina,46,F,Lago Titicaca,La Libertad,2025-04-27,8,3876.99,Tren
+V2957,Colombia,43,M,Chan Chan,Ica,2025-08-27,10,4214.85,Auto
+V2958,Ecuador,41,F,Huacachina,Arequipa,2025-03-15,6,4455.24,NA
+V2959,Argentina,39,M,Huacachina,Cusco,2025-04-16,5,325.02,NA
+V2960,México,20,F,Lago Titicaca,Arequipa,2025-07-29,9,3255.9,NA
+V2961,Perú,29,M,Líneas de Nazca,Puno,2025-06-21,2,1880.95,
+V2962,Perú,46,M,Líneas de Nazca,Arequipa,2025-05-31,1,2126.83,Auto
+V2963,Ecuador,50,F,Cañón del Colca,Puno,2024-11-07,1,1260.13,Bus
+V2964,Chile,68,F,Chan Chan,La Libertad,2025-02-25,7,4032.57,Auto
+V2965,Ecuador,21,F,Machu Picchu,La Libertad,2025-09-10,3,2701.53,Bus
+V2966,Chile,40,F,Líneas de Nazca,La Libertad,2025-02-02,9,3403.19,Avión
+V2967,EE.UU.,59,F,Lago Titicaca,Ica,2024-12-30,10,2444.58,Tren
+V2968,Brasil,33,M,Cañón del Colca,Cusco,2025-05-23,8,4465.35,Avión
+V2969,Brasil,65,M,Machu Picchu,Ica,2025-04-22,6,2222.7,NA
+V2970,Chile,70,M,Cañón del Colca,Ica,2025-02-11,4,2793.51,Auto
+V2971,Ecuador,45,F,Lago Titicaca,Arequipa,2024-12-25,9,1182.29,
+V2972,Chile,34,F,Machu Picchu,Ica,2025-02-27,7,3263.14,Avión
+V2973,Colombia,45,F,Huacachina,Arequipa,2025-03-27,9,4388.89,Auto
+V2974,Perú,69,M,Líneas de Nazca,Ica,2024-12-02,1,1592.27,
+V2975,Brasil,68,F,Líneas de Nazca,Puno,2025-02-22,10,1444.96,Bus
+V2976,Argentina,46,F,Machu Picchu,Cusco,2025-09-12,8,1675.18,NA
+V2977,EE.UU.,37,F,Líneas de Nazca,Arequipa,2024-10-27,4,4949.66,Avión
+V2978,Perú,51,M,Huacachina,Cusco,2025-09-08,1,1544.69,Tren
+V2979,Brasil,59,M,Lago Titicaca,Ica,2025-04-30,2,4762.93,Avión
+V2980,Colombia,42,F,Chan Chan,Cusco,2025-09-23,7,4356.31,Tren
+V2981,Chile,19,F,Líneas de Nazca,Cusco,2025-06-22,1,4722.78,Auto
+V2982,Ecuador,39,M,Huacachina,La Libertad,2025-05-10,9,3953.04,
+V2983,Perú,27,F,Chan Chan,La Libertad,2025-09-21,7,4164.64,Bus
+V2984,Argentina,31,M,Huacachina,Cusco,2025-05-04,2,3360.4,NA
+V2985,EE.UU.,67,M,Huacachina,Puno,2025-06-13,2,3491.26,
+V2986,Brasil,66,M,Chan Chan,Arequipa,2024-11-23,10,4094.88,Avión
+V2987,México,33,M,Cañón del Colca,Ica,2025-03-14,4,1916.76,Avión
+V2988,Perú,63,F,Huacachina,Arequipa,2025-02-07,1,3766.71,Tren
+V2989,Brasil,53,M,Líneas de Nazca,Ica,2024-12-21,8,3812.57,
+V2990,Perú,21,M,Machu Picchu,La Libertad,2025-01-08,7,1707.96,
+V2991,Argentina,46,F,Cañón del Colca,La Libertad,2025-07-25,9,3349.09,Bus
+V2992,Perú,22,F,Huacachina,Cusco,2025-02-01,2,4528.63,NA
+V2993,Chile,35,M,Lago Titicaca,Cusco,2025-03-01,9,4771.89,Auto
+V2994,EE.UU.,68,M,Lago Titicaca,Arequipa,2025-08-08,6,3818.87,NA
+V2995,Perú,53,F,Chan Chan,Ica,2025-07-30,8,4721.82,NA
+V2996,EE.UU.,49,M,Machu Picchu,Arequipa,2024-11-20,8,3909.39,Bus
+V2997,Colombia,65,M,Líneas de Nazca,Arequipa,2025-03-24,4,2014.72,
+V2998,Chile,50,M,Machu Picchu,Puno,2025-09-01,4,3692.49,Tren
+V2999,EE.UU.,55,M,Cañón del Colca,La Libertad,2025-07-02,7,4303.37,Bus
+V3000,Colombia,62,M,Cañón del Colca,Cusco,2025-09-28,2,557.84,Avión
